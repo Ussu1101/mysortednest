@@ -1,0 +1,297 @@
+---
+import Layout from '../layouts/Layout.astro';
+import { getCollection } from 'astro:content';
+
+const posts = (await getCollection('blog')).sort((a, b) => b.id.localeCompare(a.id));
+
+const CATS: Record<string, string> = {
+  'small-spaces': 'Small Spaces',
+  'kitchen': 'Kitchen',
+  'closet-organization': 'Closet',
+  'storage-ideas': 'Storage',
+  'decorating': 'Decorating',
+};
+const catLabel = (c?: string) => CATS[c ?? ''] ?? 'Guides';
+const readTime = (body?: string) => Math.max(3, Math.round((body ?? '').split(/\s+/).length / 200));
+---
+<Layout title="Small Space Organization Ideas for Real Homes" description="My Sorted Nest — practical home organization ideas for small apartments: pantry systems, closet organization, kitchen storage and clever hacks. New guides weekly.">
+<script type="application/ld+json" set:html={JSON.stringify({
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "name": "My Sorted Nest",
+  "url": "https://mysortednest.life",
+  "description": "Practical home organization ideas for small apartments."
+})} />
+
+<section class="py-space-lg lg:py-space-xl">
+<div class="grid grid-cols-1 lg:grid-cols-12 gap-gutter items-center">
+<!-- Left Column: Editorial Headline & Actions -->
+<div class="lg:col-span-6 flex flex-col justify-center pr-0 lg:pr-space-md">
+<div class="inline-flex items-center gap-space-xs mb-space-sm">
+<span class="w-2 h-2 rounded-full bg-primary"></span>
+<span class="font-label-caps text-label-caps uppercase tracking-widest text-primary">A Better Home Starts Here</span>
+</div>
+<h1 class="font-display-hero text-display-hero text-on-surface mb-space-md leading-tight">
+          Make Room for the Life You Love.
+        </h1>
+<p class="font-body-lead text-body-lead text-on-surface-variant mb-space-lg max-w-xl">
+          Smart storage, beautiful spaces, and practical ideas to make every corner of your home work harder.
+        </p>
+<div class="flex flex-wrap items-center gap-y-space-sm">
+<a class="inline-flex items-center justify-center bg-primary text-on-primary hover:bg-primary-container hover:text-on-primary-container px-7 py-3.5 rounded-lg font-label-regular text-label-regular tracking-wide transition-colors" href="/categories/small-spaces/">
+            Explore Small-Space Ideas
+          </a>
+<a class="font-label-regular text-label-regular text-on-surface hover:text-secondary ml-6 transition-colors inline-flex items-center gap-space-xs group" href="/blog/">
+            Browse All Articles <span class="transition-transform group-hover:translate-x-1">→</span>
+</a>
+</div>
+<!-- Curated Stats Strip -->
+<div class="grid grid-cols-3 gap-gutter pt-space-lg mt-space-lg bg-surface-container-low p-space-md rounded-xl">
+<div class="flex flex-col">
+<span class="font-title-editorial text-title-editorial text-on-surface font-semibold">Weekly</span>
+<span class="font-body-compact text-body-compact text-on-surface-variant">Fresh Guides</span>
+</div>
+<div class="flex flex-col">
+<span class="font-title-editorial text-title-editorial text-on-surface font-semibold">5</span>
+<span class="font-body-compact text-body-compact text-on-surface-variant">Room Categories</span>
+</div>
+<div class="flex flex-col">
+<span class="font-title-editorial text-title-editorial text-on-surface font-semibold">Zero</span>
+<span class="font-body-compact text-body-compact text-on-surface-variant">Clutter Mindset</span>
+</div>
+</div>
+</div>
+<!-- Right Column: High-Res Editorial Photography -->
+<div class="lg:col-span-6 relative mt-space-md lg:mt-0">
+<div class="relative overflow-hidden rounded-xl bg-surface-container aspect-[4/3] lg:aspect-[1/1] shadow-md group">
+<img class="w-full h-full object-cover transition-transform duration-700 ease-out group-hover:scale-[1.02]" alt="Sunlit minimalist Scandinavian studio apartment with a light linen sofa, warm oak open shelves displaying speckled ceramic bowls and olive branches, integrated kitchen with fluted wooden cabinetry, natural jute rug on pale ash timber flooring, warm gentle morning light, calm architectural interior photography" src="/images/hero-home.jpg"/>
+<div class="absolute bottom-4 left-4 right-4 bg-surface/90 backdrop-blur-md p-space-sm rounded-lg flex items-center justify-between">
+<div class="flex items-center gap-space-sm">
+<span class="material-symbols-outlined text-primary text-[20px]">chair</span>
+<div>
+<p class="font-label-caps text-label-caps uppercase text-on-surface">The Small-Space Pantry</p>
+<p class="font-body-compact text-body-compact text-on-surface-variant">21 ideas, zero renovations</p>
+</div>
+</div>
+<a href="/blog/small-apartment-pantry-organization-ideas/" class="font-label-caps text-label-caps text-secondary uppercase font-semibold">Read the Guide →</a>
+</div>
+</div>
+</div>
+</div>
+</section>
+
+
+<section class="py-space-xl">
+<div class="flex flex-col md:flex-row md:items-end justify-between mb-space-lg">
+<div>
+<span class="font-label-caps text-label-caps text-primary uppercase tracking-widest block mb-space-xs">Curated Departments</span>
+<h2 class="font-headline-lg text-headline-lg text-on-surface">Browse by Room &amp; Need</h2>
+</div>
+<p class="font-body-regular text-body-regular text-on-surface-variant max-w-md mt-space-xs md:mt-0">
+        Focused spatial playbooks designed to turn awkward footprints and cluttered storage into serene, practical sanctuaries.
+      </p>
+</div>
+<div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-5 gap-gutter">
+<!-- Category 1 -->
+<a class="group flex flex-col bg-surface-container-lowest rounded-xl overflow-hidden p-space-sm shadow-sm hover:shadow-md transition-all" href="/categories/small-spaces/">
+<div class="aspect-[4/5] rounded-lg overflow-hidden bg-surface-container relative mb-space-sm">
+<img class="w-full h-full object-cover transition-transform duration-500 group-hover:scale-105" alt="Intelligent micro-apartment living area with sliding fluted pocket doors, drop-leaf desk table, and soft neutral linen drapery, warm daylight and minimal Scandinavian decor" src="/images/cat-small-spaces.jpg"/>
+<span class="absolute top-3 left-3 bg-surface/90 backdrop-blur-sm px-2 py-1 rounded-full font-label-caps text-label-caps text-on-surface uppercase">Studio</span>
+</div>
+<h3 class="font-title-editorial text-title-editorial text-on-surface group-hover:text-primary transition-colors">Small Spaces</h3>
+<p class="font-body-compact text-body-compact text-on-surface-variant mt-1">Apartment living &amp; studio layouts</p>
+</a>
+<!-- Category 2 -->
+<a class="group flex flex-col bg-surface-container-lowest rounded-xl overflow-hidden p-space-sm shadow-sm hover:shadow-md transition-all" href="/categories/kitchen/">
+<div class="aspect-[4/5] rounded-lg overflow-hidden bg-surface-container relative mb-space-sm">
+<img class="w-full h-full object-cover transition-transform duration-500 group-hover:scale-105" alt="Serene walk-in pantry organized with uniform amber glass jars, bamboo lids, woven seagrass storage bins, and labelled ceramic spice containers on warm oak shelves" src="/images/cat-kitchen.jpg"/>
+<span class="absolute top-3 left-3 bg-surface/90 backdrop-blur-sm px-2 py-1 rounded-full font-label-caps text-label-caps text-on-surface uppercase">Culinary</span>
+</div>
+<h3 class="font-title-editorial text-title-editorial text-on-surface group-hover:text-primary transition-colors">Kitchen Organization</h3>
+<p class="font-body-compact text-body-compact text-on-surface-variant mt-1">Pantries, cabinets &amp; spice drawers</p>
+</a>
+<!-- Category 3 -->
+<a class="group flex flex-col bg-surface-container-lowest rounded-xl overflow-hidden p-space-sm shadow-sm hover:shadow-md transition-all" href="/categories/closet-organization/">
+<div class="aspect-[4/5] rounded-lg overflow-hidden bg-surface-container relative mb-space-sm">
+<img class="w-full h-full object-cover transition-transform duration-500 group-hover:scale-105" alt="Minimalist walk-in closet with warm neutral capsule wardrobe hung neatly on uniform wooden hangers, linen drawer pull-outs, and warm LED strip illumination under floating shelves" src="/images/cat-closet.jpg"/>
+<span class="absolute top-3 left-3 bg-surface/90 backdrop-blur-sm px-2 py-1 rounded-full font-label-caps text-label-caps text-on-surface uppercase">Wardrobe</span>
+</div>
+<h3 class="font-title-editorial text-title-editorial text-on-surface group-hover:text-primary transition-colors">Closet Organization</h3>
+<p class="font-body-compact text-body-compact text-on-surface-variant mt-1">Capsule wardrobes &amp; vertical racks</p>
+</a>
+<!-- Category 4 -->
+<a class="group flex flex-col bg-surface-container-lowest rounded-xl overflow-hidden p-space-sm shadow-sm hover:shadow-md transition-all" href="/categories/storage-ideas/">
+<div class="aspect-[4/5] rounded-lg overflow-hidden bg-surface-container relative mb-space-sm">
+<img class="w-full h-full object-cover transition-transform duration-500 group-hover:scale-105" alt="Custom built-in under-stairs cabinetry with hidden push-latch drawers, warm oak trim, and architectural stepped display niche holding terracotta vases" src="/images/cat-storage.jpg"/>
+<span class="absolute top-3 left-3 bg-surface/90 backdrop-blur-sm px-2 py-1 rounded-full font-label-caps text-label-caps text-on-surface uppercase">Storage</span>
+</div>
+<h3 class="font-title-editorial text-title-editorial text-on-surface group-hover:text-primary transition-colors">Smart Storage</h3>
+<p class="font-body-compact text-body-compact text-on-surface-variant mt-1">Multi-purpose furniture &amp; nooks</p>
+</a>
+<!-- Category 5 -->
+<a class="group flex flex-col bg-surface-container-lowest rounded-xl overflow-hidden p-space-sm shadow-sm hover:shadow-md transition-all" href="/categories/decorating/">
+<div class="aspect-[4/5] rounded-lg overflow-hidden bg-surface-container relative mb-space-sm">
+<img class="w-full h-full object-cover transition-transform duration-500 group-hover:scale-105" alt="Serene Japanese-Scandinavian wabi-sabi living room with lime-washed plaster walls, low profile travertine coffee table, linen pillows, and dried botanical arrangement" src="/images/cat-decorating.jpg"/>
+<span class="absolute top-3 left-3 bg-surface/90 backdrop-blur-sm px-2 py-1 rounded-full font-label-caps text-label-caps text-on-surface uppercase">Living</span>
+</div>
+<h3 class="font-title-editorial text-title-editorial text-on-surface group-hover:text-primary transition-colors">Home Decorating</h3>
+<p class="font-body-compact text-body-compact text-on-surface-variant mt-1">Warm minimalism &amp; calming aesthetics</p>
+</a>
+</div>
+</section>
+
+<!-- FEATURED ARTICLE -->
+<section class="py-space-xl">
+<div class="flex items-center justify-between mb-space-lg">
+<div class="flex items-center gap-space-sm">
+<h2 class="font-headline-lg text-headline-lg text-on-surface">Ideas Worth Bringing Home</h2>
+<span class="hidden sm:inline-flex bg-primary-fixed text-on-primary-fixed px-3 py-1 rounded-full font-label-caps text-label-caps uppercase tracking-wider">Curated Edition</span>
+</div>
+<a class="font-label-regular text-label-regular text-primary hover:text-on-surface transition-colors" href="/blog/">View All Guides →</a>
+</div>
+<div class="grid grid-cols-1 lg:grid-cols-12 gap-gutter">
+<article class="lg:col-span-7 flex flex-col bg-surface-container-lowest rounded-xl p-space-md shadow-sm hover:shadow-md transition-shadow group">
+<div class="aspect-[16/10] w-full rounded-lg overflow-hidden bg-surface-container mb-space-md relative">
+<a href="/blog/small-apartment-pantry-organization-ideas/"><img class="w-full h-full object-cover transition-transform duration-700 group-hover:scale-[1.02]" src="/images/pantry-hero.jpg" alt="Organized small apartment pantry with uniform glass containers on wooden shelves"/></a>
+<span class="absolute top-4 left-4 bg-surface text-on-surface px-3 py-1 rounded-full font-label-caps text-label-caps uppercase tracking-wider shadow-sm">Editor's Choice</span>
+</div>
+<div class="flex items-center gap-space-sm text-on-surface-variant font-label-caps text-label-caps uppercase tracking-wider mb-space-xs">
+<span class="text-secondary font-bold">Kitchen</span><span>·</span><span>10 min read</span>
+</div>
+<h3 class="font-headline-md text-headline-md text-on-surface group-hover:text-primary transition-colors mb-space-xs">
+<a href="/blog/small-apartment-pantry-organization-ideas/">21 Small Apartment Pantry Organization Ideas That Actually Work</a>
+</h3>
+<p class="font-body-regular text-body-regular text-on-surface-variant mb-space-md">Small apartment pantry organization doesn't need a remodel. 21 renter-friendly ideas — door racks, shelf risers, decanting systems — that double what fits in a tiny pantry.</p>
+<div class="mt-auto pt-space-sm flex items-center justify-between">
+<div class="flex items-center gap-space-sm">
+<div class="w-10 h-10 rounded-full bg-primary-fixed text-on-primary-fixed flex items-center justify-center font-label-caps text-label-caps font-bold">MS</div>
+<div><p class="font-label-regular text-label-regular text-on-surface">My Sorted Nest</p><p class="font-body-compact text-body-compact text-on-surface-variant">October 12, 2026</p></div>
+</div>
+<a href="/blog/small-apartment-pantry-organization-ideas/" class="font-label-regular text-label-regular text-primary hover:text-on-surface transition-colors">Read Guide →</a>
+</div>
+</article>
+<div class="lg:col-span-5 flex flex-col bg-surface-container-low rounded-xl p-space-lg justify-center">
+<span class="font-label-caps text-label-caps uppercase tracking-widest text-secondary mb-space-sm">Why My Sorted Nest</span>
+<h3 class="font-headline-md text-headline-md text-on-surface mb-space-md">Real homes. Real constraints. Ideas that fit.</h3>
+<ul class="flex flex-col gap-space-md">
+<li class="flex gap-space-sm"><span class="material-symbols-outlined text-primary">home</span><p class="font-body-regular text-body-regular text-on-surface-variant"><strong class="text-on-surface">No renovations required.</strong> Every idea works for renters.</p></li>
+<li class="flex gap-space-sm"><span class="material-symbols-outlined text-primary">savings</span><p class="font-body-regular text-body-regular text-on-surface-variant"><strong class="text-on-surface">No big budgets.</strong> Affordable storage, clever reuse.</p></li>
+<li class="flex gap-space-sm"><span class="material-symbols-outlined text-primary">check_circle</span><p class="font-body-regular text-body-regular text-on-surface-variant"><strong class="text-on-surface">Actually doable.</strong> No weekend-long power-tool projects.</p></li>
+</ul>
+<a href="/about/" class="mt-space-lg font-label-regular text-label-regular text-primary hover:text-on-surface transition-colors">About our approach →</a>
+</div>
+</div>
+</section>
+
+
+<section class="py-space-xl">
+<div class="bg-surface-container-low p-space-lg lg:p-space-xl rounded-2xl">
+<div class="max-w-2xl mb-space-xl">
+<span class="font-label-caps text-label-caps text-primary uppercase tracking-widest block mb-space-xs">Actionable Principles</span>
+<h2 class="font-headline-lg text-headline-lg text-on-surface mb-space-xs">Small Changes, Big Difference</h2>
+<p class="font-body-regular text-body-regular text-on-surface-variant">
+          Low-friction adjustments you can execute this weekend that yield disproportionate spatial clarity.
+        </p>
+</div>
+<div class="grid grid-cols-1 md:grid-cols-3 gap-gutter">
+<!-- Tip 01 -->
+<div class="bg-surface-container-lowest p-space-lg rounded-xl flex flex-col justify-between shadow-sm hover:shadow-md transition-shadow">
+<div>
+<div class="flex items-center justify-between mb-space-md">
+<span class="font-headline-md text-headline-md text-primary font-bold">01</span>
+<span class="material-symbols-outlined text-outline-variant">vertical_align_top</span>
+</div>
+<h3 class="font-title-editorial text-title-editorial text-on-surface mb-space-sm font-semibold">Ascend Vertically</h3>
+<p class="font-body-regular text-body-regular text-on-surface-variant">
+              Use vertical wall space — floating picture ledges and brass peg rails double your functional surface area without claiming a single inch of floor plate.
+            </p>
+</div>
+<div class="pt-space-md mt-space-md flex items-center gap-space-xs text-primary font-label-caps text-label-caps uppercase">
+<span>Spatial Rule #1</span>
+</div>
+</div>
+<!-- Tip 02 -->
+<div class="bg-surface-container-lowest p-space-lg rounded-xl flex flex-col justify-between shadow-sm hover:shadow-md transition-shadow">
+<div>
+<div class="flex items-center justify-between mb-space-md">
+<span class="font-headline-md text-headline-md text-primary font-bold">02</span>
+<span class="material-symbols-outlined text-outline-variant">grid_view</span>
+</div>
+<h3 class="font-title-editorial text-title-editorial text-on-surface mb-space-sm font-semibold">Zone Everyday Rituals</h3>
+<p class="font-body-regular text-body-regular text-on-surface-variant">
+              Group everyday essentials into zones — keep coffee rituals, cooking oils, and daily skincare clustered together in shallow trays to contain micro-clutter.
+            </p>
+</div>
+<div class="pt-space-md mt-space-md flex items-center gap-space-xs text-primary font-label-caps text-label-caps uppercase">
+<span>Spatial Rule #2</span>
+</div>
+</div>
+<!-- Tip 03 -->
+<div class="bg-surface-container-lowest p-space-lg rounded-xl flex flex-col justify-between shadow-sm hover:shadow-md transition-shadow">
+<div>
+<div class="flex items-center justify-between mb-space-md">
+<span class="font-headline-md text-headline-md text-primary font-bold">03</span>
+<span class="material-symbols-outlined text-outline-variant">sync_alt</span>
+</div>
+<h3 class="font-title-editorial text-title-editorial text-on-surface mb-space-sm font-semibold">Demand Double Duty</h3>
+<p class="font-body-regular text-body-regular text-on-surface-variant">
+              Choose storage that serves more than one purpose — upholstered storage ottomans and drop-leaf consoles give you flexible utility without visual bulk.
+            </p>
+</div>
+<div class="pt-space-md mt-space-md flex items-center gap-space-xs text-primary font-label-caps text-label-caps uppercase">
+<span>Spatial Rule #3</span>
+</div>
+</div>
+</div>
+</div>
+</section>
+
+
+<section class="py-space-xl">
+<div class="bg-surface-container rounded-2xl p-space-lg lg:p-space-xl shadow-sm relative overflow-hidden">
+<!-- Background subtle decorative geometry -->
+<div class="absolute -right-24 -bottom-24 w-96 h-96 rounded-full bg-secondary/5 pointer-events-none"></div>
+<div class="max-w-2xl mx-auto text-center flex flex-col items-center">
+<span class="font-label-caps text-label-caps text-secondary uppercase tracking-widest mb-space-xs font-semibold">The Sunday Dispatch</span>
+<h2 class="font-headline-lg text-headline-lg text-on-surface mb-space-sm">
+          A Little More Calm in Your Inbox
+        </h2>
+<p class="font-body-regular text-body-regular text-on-surface-variant mb-space-lg">
+          Get practical organization ideas, clever storage tips, and fresh inspiration for every room. Our newsletter launches soon — one thoughtful email, no spam.
+        </p>
+<p class="font-label-caps text-label-caps uppercase tracking-wider text-secondary">Newsletter coming soon</p>
+<div class="flex items-center gap-space-md mt-space-md font-body-compact text-body-compact text-on-surface-variant">
+<span class="inline-flex items-center gap-1"><span class="material-symbols-outlined text-[16px] text-primary">check</span> 100% Free</span>
+<span>·</span>
+<span class="inline-flex items-center gap-1"><span class="material-symbols-outlined text-[16px] text-primary">check</span> Unsubscribe Anytime</span>
+</div>
+</div>
+</div>
+</section>
+
+<!-- LATEST ARTICLES -->
+<section class="py-space-xl">
+<div class="flex items-center justify-between mb-space-lg">
+<h2 class="font-headline-lg text-headline-lg text-on-surface">The Latest From Our Editors</h2>
+<a class="font-label-regular text-label-regular text-primary hover:text-on-surface transition-colors" href="/blog/">View All Articles →</a>
+</div>
+<div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-gutter">
+{posts.map((post) => (
+<article class="flex flex-col bg-surface-container-lowest rounded-xl p-space-sm shadow-sm hover:shadow-md transition-all group">
+<div class="aspect-[16/10] rounded-lg overflow-hidden bg-surface-container mb-space-sm relative">
+<a href={`/blog/${post.id.replace(/\.md$/, '')}/`}><img class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500" src={post.data.image} alt={post.data.title} loading="lazy"/></a>
+<span class="absolute top-2.5 left-2.5 bg-surface/90 px-2 py-0.5 rounded-full font-label-caps text-label-caps text-on-surface">{catLabel(post.data.category)}</span>
+</div>
+<div class="flex items-center gap-space-xs text-on-surface-variant font-body-compact text-body-compact mb-1">
+<span>{post.data.pubDate}</span><span>·</span><span>{readTime(post.body)} min read</span>
+</div>
+<h3 class="font-title-editorial text-title-editorial text-on-surface group-hover:text-primary transition-colors mb-2 leading-snug">
+<a href={`/blog/${post.id.replace(/\.md$/, '')}/`}>{post.data.title}</a>
+</h3>
+<p class="font-body-compact text-body-compact text-on-surface-variant line-clamp-2 mt-auto">{post.data.description}</p>
+</article>
+))}
+</div>
+</section>
+
+</Layout>

@@ -1,0 +1,77 @@
+---
+interface Props { title: string; description: string; canonical?: string; ogImage?: string; }
+const { title, description, canonical, ogImage = "/images/hero-home.jpg" } = Astro.props;
+const site = "https://mysortednest.life";
+const pageUrl = canonical ? site + canonical : site + Astro.url.pathname;
+---
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>{title} | My Sorted Nest</title>
+<meta name="description" content={description} />
+<link rel="canonical" href={pageUrl} />
+<meta property="og:type" content="website" />
+<meta property="og:site_name" content="My Sorted Nest" />
+<meta property="og:title" content={title} />
+<meta property="og:description" content={description} />
+<meta property="og:url" content={pageUrl} />
+<meta property="og:image" content={site + ogImage} />
+<meta name="twitter:card" content="summary_large_image" />
+<link rel="icon" type="image/svg+xml" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🪺</text></svg>" />
+<link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@24,400,0,0" rel="stylesheet"/>
+<link href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&amp;family=Playfair+Display:ital,wght@0,400..900;1,400..900&amp;display=swap" rel="stylesheet"/>
+<link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&amp;display=swap" rel="stylesheet"/>
+<style is:inline>@layer base{html,body{margin:0;padding:0;}body{overscroll-behavior:none;}main>:first-child{margin-top:0!important;}main>:last-child{margin-bottom:0!important;}}::-webkit-scrollbar{display:none;}</style>
+<script is:inline src="https://cdn.tailwindcss.com"></script>
+<script is:inline id="tailwind-config">tailwind.config={darkMode:"class",theme:{extend:{"colors":{"outline":"#76786f","surface-bright":"#fbf9f5","surface-dim":"#dbdad6","surface-tint":"#58624d","secondary-fixed-dim":"#fcb699","inverse-surface":"#30312e","on-secondary":"#ffffff","surface-variant":"#e4e2de","primary-fixed":"#dce6cc","on-surface":"#1b1c1a","on-primary-container":"#f9ffec","surface-container-low":"#f5f3ef","secondary-fixed":"#ffdbcd","surface-container-high":"#eae8e4","tertiary-fixed-dim":"#c6c7c1","on-primary-fixed":"#161e0e","primary":"#565f4b","surface-container":"#efeeea","on-secondary-fixed-variant":"#6a3a24","surface-container-lowest":"#ffffff","on-primary-fixed-variant":"#404a36","outline-variant":"#c6c7bd","surface":"#fbf9f5","error":"#ba1a1a","tertiary-fixed":"#e3e3dd","on-tertiary-fixed":"#1a1c18","primary-container":"#6e7862","inverse-on-surface":"#f2f0ed","secondary-container":"#ffb99c","background":"#fbf9f5","tertiary-container":"#747570","on-tertiary":"#ffffff","on-error":"#ffffff","on-primary":"#ffffff","inverse-primary":"#c0cab1","on-secondary-container":"#7a4731","primary-fixed-dim":"#c0cab1","on-secondary-fixed":"#351001","secondary":"#86513a","on-tertiary-fixed-variant":"#464743","tertiary":"#5b5d58","error-container":"#ffdad6","surface-container-highest":"#e4e2de","on-error-container":"#93000a","on-tertiary-container":"#fdfdf6","on-background":"#1b1c1a","on-surface-variant":"#454840"},"borderRadius":{"DEFAULT":"0.125rem","lg":"0.25rem","xl":"0.5rem","full":"0.75rem"},"spacing":{"space-lg":"2rem","gutter-mobile":"1rem","space-sm":"0.5rem","margin-mobile":"1.25rem","gutter":"1.5rem","space-md":"1rem","space-xl":"3.5rem","margin":"3.5rem","space-xs":"0.25rem"},"fontFamily":{"body-regular":["DM Sans"],"headline-lg-mobile":["Playfair Display"],"title-editorial":["Playfair Display"],"body-compact":["DM Sans"],"label-regular":["DM Sans"],"body-lead":["DM Sans"],"headline-lg":["Playfair Display"],"label-caps":["DM Sans"],"display-hero-mobile":["Playfair Display"],"headline-md":["Playfair Display"],"headline-sm":["Playfair Display"],"display-hero":["Playfair Display"]},"fontSize":{"body-regular":["15px",{"lineHeight":"26px","fontWeight":"400"}],"headline-lg-mobile":["28px",{"lineHeight":"36px","letterSpacing":"0em","fontWeight":"400"}],"title-editorial":["18px",{"lineHeight":"26px","letterSpacing":"0.01em","fontWeight":"400"}],"body-compact":["13px",{"lineHeight":"20px","fontWeight":"400"}],"label-regular":["13px",{"lineHeight":"18px","letterSpacing":"0.02em","fontWeight":"500"}],"body-lead":["18px",{"lineHeight":"30px","letterSpacing":"-0.005em","fontWeight":"400"}],"headline-lg":["40px",{"lineHeight":"48px","letterSpacing":"-0.015em","fontWeight":"400"}],"label-caps":["11px",{"lineHeight":"16px","letterSpacing":"0.12em","fontWeight":"600"}],"display-hero-mobile":["36px",{"lineHeight":"44px","letterSpacing":"-0.01em","fontWeight":"400"}],"headline-md":["28px",{"lineHeight":"36px","fontWeight":"500"}],"headline-sm":["22px",{"lineHeight":"30px","fontWeight":"500"}],"display-hero":["56px",{"lineHeight":"64px","letterSpacing":"-0.02em","fontWeight":"400"}]}}}}</script>
+<style is:global>
+  .article-body > p:first-of-type::first-letter {
+    font-family: "Playfair Display", serif; font-size: 3.4em; float: left;
+    line-height: 0.85; padding-right: 0.12em; padding-top: 0.05em; color: #292B27;
+  }
+  .article-body h2 { font-family: "Playfair Display", serif; font-size: 28px; line-height: 36px; font-weight: 500; color: #1b1c1a; margin: 2.5rem 0 1rem; scroll-margin-top: 8rem; }
+  .article-body h3 { font-family: "Playfair Display", serif; font-size: 22px; line-height: 30px; font-weight: 500; color: #1b1c1a; margin: 2rem 0 0.75rem; scroll-margin-top: 8rem; }
+  .article-body p { font-size: 15px; line-height: 26px; color: #1b1c1a; margin: 0 0 1.25rem; }
+  .article-body ul, .article-body ol { margin: 0 0 1.25rem 1.25rem; font-size: 15px; line-height: 26px; }
+  .article-body li { margin-bottom: 0.5rem; }
+  .article-body strong { font-weight: 600; }
+  .article-body .tip { background: #F0EAE0; border-left: 3px solid #B97C62; padding: 1rem 1.25rem; border-radius: 0.25rem; margin: 1.5rem 0; font-size: 15px; line-height: 26px; }
+  .article-body img { border-radius: 0.5rem; margin: 1.75rem 0 0.5rem; width: 100%; }
+  .article-body figure { margin: 1.75rem 0; }
+  .article-body figcaption { font-size: 13px; line-height: 20px; color: #77766F; text-align: center; margin-top: 0.5rem; }
+  .article-body a { color: #292B27; text-decoration: underline; text-underline-offset: 3px; text-decoration-color: #87917A; }
+</style>
+</head>
+<body class="bg-surface font-body-regular text-body-regular text-on-surface antialiased">
+<header class="fixed top-0 left-0 right-0 z-50 bg-surface/90 backdrop-blur-md shadow-[0_1px_8px_rgba(0,0,0,0.03)]"><aside class="w-full bg-surface-container-high py-space-xs px-margin-mobile lg:px-margin text-center"><a class="font-label-caps text-label-caps text-on-surface-variant hover:text-on-surface tracking-wider uppercase transition-colors inline-flex items-center justify-center gap-space-xs" data-path="small-spaces" href="/categories/small-spaces/">Practical organization ideas for small spaces · Start with the pantry guide →</a></aside><div class="h-20 max-w-[1280px] mx-auto px-margin-mobile lg:px-margin flex items-center justify-between gap-gutter"><div class="flex items-center gap-space-md"><a href="/" class="font-title-editorial text-title-editorial text-on-surface tracking-tight inline-block" style="font-size:22px">My Sorted Nest</a></div><nav class="hidden xl:flex items-center gap-gutter" data-active-classes="text-primary font-bold"><a aria-current="page" class="transition-colors text-primary font-bold" data-path="home" href="/">Home</a><a class="font-label-regular text-label-regular text-on-surface-variant hover:text-on-surface transition-colors" data-path="small-spaces" href="/categories/small-spaces/">Small Spaces</a><a class="font-label-regular text-label-regular text-on-surface-variant hover:text-on-surface transition-colors" data-path="kitchen" href="/categories/kitchen/">Kitchen</a><a class="font-label-regular text-label-regular text-on-surface-variant hover:text-on-surface transition-colors" data-path="closet-organization" href="/categories/closet-organization/">Closet Organization</a><a class="font-label-regular text-label-regular text-on-surface-variant hover:text-on-surface transition-colors" data-path="storage-ideas" href="/categories/storage-ideas/">Storage Ideas</a><a class="font-label-regular text-label-regular text-on-surface-variant hover:text-on-surface transition-colors" data-path="decorating" href="/categories/decorating/">Decorating</a></nav><div class="flex items-center gap-space-md"><button id="menu-btn" aria-label="Menu" class="xl:hidden p-space-xs text-on-surface-variant hover:text-on-surface transition-colors flex items-center justify-center"><span class="material-symbols-outlined">menu</span></button><a aria-label="Search Articles" href="/search/" class="p-space-xs text-on-surface-variant hover:text-on-surface transition-colors flex items-center justify-center"><span class="material-symbols-outlined">search</span></a><a class="hidden md:inline-flex items-center justify-center px-space-md py-space-xs bg-surface-container text-on-surface rounded-lg font-label-caps text-label-caps uppercase tracking-wider hover:bg-surface-container-high hover:text-on-surface transition-colors" href="#newsletter">Join Newsletter</a></div></div><nav id="mobile-nav" class="xl:hidden hidden border-t border-outline-variant bg-surface"><div class="px-margin-mobile py-space-md flex flex-col gap-space-sm">
+<a href="/" class="font-label-regular text-label-regular text-on-surface py-space-xs">Home</a>
+<a href="/categories/small-spaces/" class="font-label-regular text-label-regular text-on-surface-variant py-space-xs">Small Spaces</a>
+<a href="/categories/kitchen/" class="font-label-regular text-label-regular text-on-surface-variant py-space-xs">Kitchen</a>
+<a href="/categories/closet-organization/" class="font-label-regular text-label-regular text-on-surface-variant py-space-xs">Closet Organization</a>
+<a href="/categories/storage-ideas/" class="font-label-regular text-label-regular text-on-surface-variant py-space-xs">Storage Ideas</a>
+<a href="/categories/decorating/" class="font-label-regular text-label-regular text-on-surface-variant py-space-xs">Decorating</a>
+<a href="/blog/" class="font-label-regular text-label-regular text-on-surface-variant py-space-xs">All Articles</a>
+</div></nav></header>
+<main class="w-full pt-28 bg-surface min-h-[calc(100vh-16rem)]">
+<div class="max-w-[1280px] mx-auto px-margin-mobile lg:px-margin">
+<div class="flex flex-col w-full">
+<slot />
+</div>
+</div>
+</main>
+<footer class="w-full bg-surface-container-low mt-space-xl"><div class="max-w-[1280px] mx-auto px-margin-mobile lg:px-margin py-space-xl"><div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-12 gap-gutter mb-space-xl"><div class="lg:col-span-4 flex flex-col gap-space-md"><span class="font-headline-sm text-headline-sm text-on-surface font-medium">My Sorted Nest</span><p class="font-body-regular text-body-regular text-on-surface-variant pr-gutter">Practical home organization ideas for small spaces — pantries, closets, kitchens and clever storage that actually fits real life.</p><div class="flex items-center gap-space-sm pt-space-xs"><a aria-label="Pinterest" class="w-8 h-8 rounded-full bg-surface-container flex items-center justify-center text-on-surface-variant hover:text-primary transition-colors" href="https://www.pinterest.com/mysortednest/" target="_blank" rel="noopener"><span class="material-symbols-outlined text-[18px]">push_pin</span></a></div></div><div class="lg:col-span-2 flex flex-col gap-space-sm"><span class="font-label-caps text-label-caps text-on-surface uppercase tracking-wider mb-space-xs">Categories</span><nav class="flex flex-col gap-space-xs" data-active-classes="text-primary font-bold"><a class="font-body-compact text-body-compact text-on-surface-variant hover:text-on-surface transition-colors" data-path="small-spaces" href="/categories/small-spaces/">Small Spaces</a><a class="font-body-compact text-body-compact text-on-surface-variant hover:text-on-surface transition-colors" data-path="kitchen" href="/categories/kitchen/">Kitchen Systems</a><a class="font-body-compact text-body-compact text-on-surface-variant hover:text-on-surface transition-colors" data-path="closet-organization" href="/categories/closet-organization/">Closet &amp; Wardrobe</a><a class="font-body-compact text-body-compact text-on-surface-variant hover:text-on-surface transition-colors" data-path="storage-ideas" href="/categories/storage-ideas/">Storage &amp; Utility</a><a class="font-body-compact text-body-compact text-on-surface-variant hover:text-on-surface transition-colors" data-path="decorating" href="/categories/decorating/">Decorating &amp; Living</a></nav></div><div class="lg:col-span-2 flex flex-col gap-space-sm"><span class="font-label-caps text-label-caps text-on-surface uppercase tracking-wider mb-space-xs">Editorial</span><nav class="flex flex-col gap-space-xs" data-active-classes="text-primary font-bold"><a class="font-body-compact text-body-compact text-on-surface-variant hover:text-on-surface transition-colors" href="/about/">About Our Editors</a><a class="font-body-compact text-body-compact text-on-surface-variant hover:text-on-surface transition-colors" href="/contact/">Contact</a></nav></div><div class="lg:col-span-4 flex flex-col gap-space-sm bg-surface-container p-space-lg rounded-xl"><span class="font-title-editorial text-title-editorial text-on-surface">The Weekly Edition</span><p class="font-body-compact text-body-compact text-on-surface-variant">Our Saturday newsletter is launching soon — practical organization ideas, one thoughtful email a week.</p><p class="font-label-caps text-label-caps uppercase tracking-wider text-secondary pt-space-xs">Coming soon</p></div></div><div class="pt-space-lg flex flex-col md:flex-row items-center justify-between gap-space-md"><p class="font-body-compact text-body-compact text-on-surface-variant">© 2026 My Sorted Nest. All rights reserved.</p><nav class="flex flex-wrap items-center gap-space-md" data-active-classes="text-primary font-bold"><a class="font-body-compact text-body-compact text-on-surface-variant hover:text-on-surface transition-colors" href="/privacy/">Privacy Policy</a><a class="font-body-compact text-body-compact text-on-surface-variant hover:text-on-surface transition-colors" href="/terms/">Terms of Use</a></nav></div></div></footer>
+<script is:inline>
+document.getElementById('menu-btn')?.addEventListener('click', () => {
+  document.getElementById('mobile-nav')?.classList.toggle('hidden');
+});
+document.querySelectorAll('.newsletter-form').forEach(form => {
+  form.addEventListener('submit', (e) => {
+    e.preventDefault();
+    form.innerHTML = '<p class="font-body-compact text-body-compact text-on-surface-variant">Our newsletter launches soon — check back to subscribe.</p>';
+  });
+});
+</script>
+</body>
+</html>
