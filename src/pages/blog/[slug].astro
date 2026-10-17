@@ -1,0 +1,237 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import { getCollection, render } from 'astro:content';
+
+export async function getStaticPaths() {
+  const posts = await getCollection('blog');
+  return posts.map((post) => ({ params: { slug: post.id.replace(/\.md$/, '') }, props: { post } }));
+}
+
+const { post } = Astro.props;
+const { Content } = await render(post);
+const site = 'https://mysortednest.life';
+const pageUrl = site + '/blog/' + post.id.replace(/\.md$/, '') + '/';
+
+const CATS = {
+  'small-spaces': 'Small Spaces', 'kitchen': 'Kitchen', 'closet-organization': 'Closet Organization',
+  'storage-ideas': 'Storage Ideas', 'decorating': 'Decorating',
+};
+const catNameOf = (c) => CATS[c] || 'Guides';
+const catName = catNameOf(post.data.category);
+const catHref = '/categories/' + post.data.category + '/';
+const blogHref = (p) => '/blog/' + p.id.replace(/\.md$/, '') + '/';
+const readMins = (b) => Math.max(3, Math.round(b.split(/\s+/).length / 200));
+const readTime = readMins(post.body);
+
+// Extract FAQ Q&A from markdown for FAQPage schema (supports ### and <h3> formats)
+const faqItems = (() => {
+  const m = post.body.match(/## Frequently asked questions([\s\S]*?)(?=\n## |\s*$)/i);
+  if (!m) return [];
+  const items = [];
+  // Markdown ### format
+  let re = /### (.+)\n\n([\s\S]*?)(?=\n### |\s*$)/g, q;
+  while ((q = re.exec(m[1])) !== null) {
+    const answer = q[2].replace(/\[([^\]]+)\]\([^)]+\)/g, '$1').replace(/\n+/g, ' ').trim().slice(0, 500);
+    if (q[1].trim() && answer) items.push({ q: q[1].trim(), a: answer });
+  }
+  // HTML <div class="faq"><h3> format
+  if (!items.length) {
+    re = /<h3>([^<]+)<\/h3>\s*<p>([\s\S]*?)<\/p>/g;
+    while ((q = re.exec(m[1])) !== null) {
+      const answer = q[2].replace(/<[^>]+>/g, '').replace(/\[([^\]]+)\]\([^)]+\)/g, '$1').replace(/\s+/g, ' ').trim().slice(0, 500);
+      if (q[1].trim() && answer) items.push({ q: q[1].trim(), a: answer });
+    }
+  }
+  return items.slice(0, 6);
+})();
+
+const all = (await getCollection('blog')).sort((a, b) => a.id.localeCompare(b.id));
+const idx = all.findIndex((p) => p.id === post.id);
+const prev = idx > 0 ? all[idx - 1] : null;
+const next = idx < all.length - 1 ? all[idx + 1] : null;
+const related = all.filter((p) => p.id !== post.id && p.data.category === post.data.category).slice(0, 3);
+const relatedFill = related.length ? related : all.filter((p) => p.id !== post.id).slice(0, 3);
+---
+<Layout title={post.data.title} description={post.data.description} canonical={'/blog/' + post.id.replace(/\.md$/, '') + '/'} ogImage={post.data.image}>
+<script type="application/ld+json" set:html={JSON.stringify({
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "headline": post.data.title,
+  "description": post.data.description,
+  "image": "https://mysortednest.life" + post.data.image,
+  "datePublished": post.data.pubDate,
+  "author": { "@type": "Organization", "name": "My Sorted Nest", "url": "https://mysortednest.life" },
+  "publisher": { "@type": "Organization", "name": "My Sorted Nest", "url": "https://mysortednest.life" },
+  "mainEntityOfPage": "https://mysortednest.life/blog/" + post.id.replace(/\.md$/, '') + "/"
+})} />
+{faqItems.length >= 3 && (
+<script type="application/ld+json" set:html={JSON.stringify({
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": faqItems.map((f) => ({
+    "@type": "Question",
+    "name": f.q,
+    "acceptedAnswer": { "@type": "Answer", "text": f.a }
+  }))
+})} />
+)}
+<script type="application/ld+json" set:html={JSON.stringify({
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://mysortednest.life/" },
+    { "@type": "ListItem", "position": 2, "name": "Guides", "item": "https://mysortednest.life/blog/" },
+    { "@type": "ListItem", "position": 3, "name": catName, "item": "https://mysortednest.life" + catHref }
+  ]
+})} />
+<nav aria-label="Breadcrumb" class="font-body-compact text-body-compact text-on-surface-variant mb-space-md">
+<a href="/" class="hover:text-on-surface transition-colors">Home</a><span class="mx-2">/</span><a href="/blog/" class="hover:text-on-surface transition-colors">Guides</a><span class="mx-2">/</span><a href={catHref} class="hover:text-on-surface transition-colors">{catName}</a>
+</nav>
+<header class="pt-space-md pb-space-sm text-center max-w-[800px] mx-auto">
+<span class="font-label-caps text-label-caps uppercase tracking-widest text-secondary">{catName}</span>
+<h1 class="font-display-hero text-display-hero-mobile lg:text-display-hero text-on-surface mt-space-sm mb-space-md leading-tight">{post.data.title}</h1>
+<p class="font-body-lead text-body-lead text-on-surface-variant max-w-[640px] mx-auto">{post.data.description}</p>
+</header>
+<div class="flex flex-wrap items-center justify-center gap-space-md py-space-md border-y border-outline-variant max-w-[800px] mx-auto mb-space-lg">
+<div class="flex items-center gap-space-sm">
+<div class="w-10 h-10 rounded-full bg-primary-fixed text-on-primary-fixed flex items-center justify-center font-label-caps text-label-caps font-bold">MS</div>
+<div class="text-left"><p class="font-label-regular text-label-regular text-on-surface">My Sorted Nest</p><p class="font-body-compact text-body-compact text-on-surface-variant">{post.data.pubDate} · {readTime} min read</p></div>
+</div>
+<div class="flex items-center gap-space-xs">
+<a aria-label="Share on Pinterest" target="_blank" rel="noopener" href={'https://pinterest.com/pin/create/button/?url=' + pageUrl + '&media=' + site + post.data.image + '&description=' + post.data.title} class="w-9 h-9 rounded-full bg-surface-container flex items-center justify-center text-on-surface-variant hover:text-primary transition-colors"><span class="material-symbols-outlined text-[18px]">push_pin</span></a>
+<a aria-label="Share on Facebook" target="_blank" rel="noopener" href={'https://www.facebook.com/sharer/sharer.php?u=' + pageUrl} class="w-9 h-9 rounded-full bg-surface-container flex items-center justify-center text-on-surface-variant hover:text-primary transition-colors"><span class="material-symbols-outlined text-[18px]">share</span></a>
+<button aria-label="Copy link" id="copy-link" class="w-9 h-9 rounded-full bg-surface-container flex items-center justify-center text-on-surface-variant hover:text-primary transition-colors"><span class="material-symbols-outlined text-[18px]">link</span></button>
+</div>
+</div>
+<figure class="mb-space-xl">
+<img class="w-full aspect-[16/8] object-cover rounded-xl" src={post.data.image} alt={post.data.title} />
+</figure>
+<div class="grid grid-cols-1 lg:grid-cols-12 gap-gutter">
+<!-- Left Column: Table of Contents & Quick Read Progress -->
+<aside class="hidden lg:block lg:col-span-4 sticky top-28 bg-surface-container-low p-space-lg rounded-xl">
+<div class="flex items-center justify-between pb-space-sm mb-space-md">
+<span class="font-label-caps text-label-caps uppercase text-on-surface tracking-wider">In This Guide</span>
+<span id="toc-count" class="font-body-compact text-body-compact text-primary">Chapters</span>
+</div>
+
+<nav id="toc-nav" class="flex flex-col gap-space-sm font-body-compact text-body-compact text-on-surface-variant"></nav>
+<div class="mt-space-md hidden lg:flex items-center gap-space-sm">
+<span class="material-symbols-outlined text-primary text-[20px]">schedule</span>
+<p class="font-body-compact text-body-compact text-on-surface-variant">{readTime} min read · Updated {post.data.pubDate}</p>
+</div>
+</aside>
+
+<article class="lg:col-span-8">
+<div class="article-body max-w-[680px]">
+<Content />
+</div>
+<blockquote class="my-space-md p-space-lg bg-surface-container-high rounded-xl relative">
+<div class="flex items-start gap-space-md">
+<span class="material-symbols-outlined text-secondary text-[36px] select-none opacity-80">format_quote</span>
+<div class="flex flex-col gap-space-xs">
+<p class="font-title-editorial text-title-editorial italic text-on-surface leading-snug">Small apartment pantry organization isn't about buying a matching set of containers and calling it a day. It's about solving a geometry problem: too much food, too little cubic footage.</p>
+<cite class="font-label-caps text-label-caps not-italic text-on-surface-variant uppercase tracking-wider">— My Sorted Nest</cite>
+</div>
+</div>
+</blockquote><!-- In-Article Newsletter Break CTA -->
+<div class="my-space-md p-space-lg bg-surface-container-high rounded-xl text-center flex flex-col items-center">
+<span class="font-label-caps text-label-caps text-secondary uppercase tracking-widest mb-space-xs">The Saturday Journal</span>
+<h3 class="font-headline-sm text-headline-sm text-on-surface max-w-md">The Saturday Journal — launching soon</h3>
+<p class="font-body-compact text-body-compact text-on-surface-variant max-w-sm mt-space-xs mb-space-md">
+          One thoughtful email a week: practical organization guides and storage ideas. No spam, unsubscribe anytime.
+        </p>
+<p class="font-label-caps text-label-caps uppercase tracking-wider text-secondary">Coming soon — check back to subscribe</p>
+</div>
+<!-- Author Bio Box -->
+<div class="mt-space-lg p-space-lg bg-surface-container-low rounded-xl flex flex-col sm:flex-row items-center sm:items-start gap-space-lg">
+<div class="w-24 h-24 rounded-full bg-primary-fixed text-on-primary-fixed flex items-center justify-center font-headline-sm text-headline-sm font-bold shrink-0">MS</div>
+<div class="flex flex-col text-center sm:text-left gap-space-xs">
+<div class="flex flex-col sm:flex-row sm:items-center justify-between gap-1">
+<h4 class="font-title-editorial text-title-editorial text-on-surface font-medium">My Sorted Nest</h4>
+<span class="font-label-caps text-label-caps text-primary uppercase">Editorial Team</span>
+</div>
+<p class="font-body-compact text-body-compact text-on-surface-variant">My Sorted Nest is a home organization blog for real homes — small apartments, packed closets and tiny kitchens. Every guide is researched, original, and written to actually work in a rental.</p>
+<div class="flex flex-wrap items-center justify-center sm:justify-start gap-space-md pt-space-xs">
+<a class="font-label-caps text-label-caps text-primary hover:text-on-surface uppercase transition-colors inline-flex items-center gap-1" href="/blog/small-apartment-pantry-organization-ideas/">
+              Read our pantry organization guide <span class="material-symbols-outlined text-[14px]">arrow_forward</span>
+</a>
+<a class="font-label-caps text-label-caps text-on-surface-variant hover:text-primary uppercase transition-colors" href="/about/">
+              About My Sorted Nest
+            </a>
+</div>
+</div>
+</div>
+
+</article>
+</div>
+{(prev || next) && (
+<nav aria-label="More guides" class="grid grid-cols-1 sm:grid-cols-2 gap-gutter py-space-lg border-t border-outline-variant mt-space-xl">
+{prev && (
+<a href={blogHref(prev)} class="group flex flex-col gap-space-xs bg-surface-container-low rounded-xl p-space-lg hover:bg-surface-container transition-colors">
+<span class="font-label-caps text-label-caps uppercase tracking-wider text-on-surface-variant">&#8592; Previous Guide</span>
+<span class="font-title-editorial text-title-editorial text-on-surface group-hover:text-primary transition-colors">{prev.data.title}</span>
+</a>
+)}
+{next && (
+<a href={blogHref(next)} class="group flex flex-col gap-space-xs bg-surface-container-low rounded-xl p-space-lg hover:bg-surface-container transition-colors sm:text-right">
+<span class="font-label-caps text-label-caps uppercase tracking-wider text-on-surface-variant">Next Guide &#8594;</span>
+<span class="font-title-editorial text-title-editorial text-on-surface group-hover:text-primary transition-colors">{next.data.title}</span>
+</a>
+)}
+</nav>
+)}
+<section class="py-space-xl">
+<div class="flex items-center justify-between mb-space-lg">
+<h2 class="font-headline-lg text-headline-lg text-on-surface">Keep Reading</h2>
+<a class="font-label-regular text-label-regular text-primary hover:text-on-surface transition-colors" href="/blog/">View All Articles →</a>
+</div>
+<div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-gutter">
+{relatedFill.map((p) => (
+<article class="flex flex-col bg-surface-container-lowest rounded-xl p-space-sm shadow-sm hover:shadow-md transition-all group">
+<div class="aspect-[16/10] rounded-lg overflow-hidden bg-surface-container mb-space-sm relative">
+<a href={blogHref(p)}><img class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500" src={p.data.image} alt={p.data.title} loading="lazy"/></a>
+<span class="absolute top-2.5 left-2.5 bg-surface/90 px-2 py-0.5 rounded-full font-label-caps text-label-caps text-on-surface">{catNameOf(p.data.category)}</span>
+</div>
+<div class="flex items-center gap-space-xs text-on-surface-variant font-body-compact text-body-compact mb-1">
+<span>{p.data.pubDate}</span><span>·</span><span>{readMins(p.body)} min read</span>
+</div>
+<h3 class="font-title-editorial text-title-editorial text-on-surface group-hover:text-primary transition-colors mb-2 leading-snug">
+<a href={blogHref(p)}>{p.data.title}</a>
+</h3>
+<p class="font-body-compact text-body-compact text-on-surface-variant line-clamp-2 mt-auto">{p.data.description}</p>
+</article>
+))}
+</div>
+</section>
+<script is:inline>
+(function(){
+  var body = document.querySelector('.article-body');
+  var nav = document.getElementById('toc-nav');
+  var count = document.getElementById('toc-count');
+  if(!body || !nav) return;
+  var heads = body.querySelectorAll('h2');
+  var slugify = function(t){ return t.toLowerCase().trim().replace(/[^a-z0-9\s-]/g,'').replace(/\s+/g,'-'); };
+  heads.forEach(function(h, i){
+    h.id = slugify(h.textContent);
+    var a = document.createElement('a');
+    a.className = 'toc-link group flex items-start gap-space-xs py-1 hover:text-primary transition-colors';
+    a.href = '#' + h.id;
+    var num = document.createElement('span');
+    num.className = 'font-label-caps text-label-caps text-primary/70 mt-0.5';
+    num.textContent = String(i+1).padStart(2,'0');
+    var label = document.createElement('span');
+    label.className = 'group-hover:translate-x-1 transition-transform';
+    label.textContent = h.textContent;
+    a.appendChild(num); a.appendChild(label);
+    nav.appendChild(a);
+  });
+  if(count) count.textContent = heads.length + ' Chapters';
+  var copyBtn = document.getElementById('copy-link');
+  if(copyBtn) copyBtn.addEventListener('click', function(){
+    navigator.clipboard.writeText(window.location.href);
+    copyBtn.classList.add('text-primary');
+    setTimeout(function(){ copyBtn.classList.remove('text-primary'); }, 1500);
+  });
+})();
+</script>
+</Layout>
