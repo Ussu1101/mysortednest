@@ -67,7 +67,7 @@ Take one small bin — brightly colored, or clear with a bold label — and plac
 
 ### 9. Write the opened date on leftovers with painter's tape
 
-The box only works if you know what's actually expiring. Stick painter's tape (peels off cleanly, even cold) on every leftover container and write the date you opened or cooked it: "10/16 soup." Three seconds per container gives the box a pecking order — oldest first, no guessing. A tidy fridge works best with tidy surroundings — a [small kitchen counter system](/blog/small-kitchen-counter-organization-ideas/) keeps your cooking routine easier.
+The box only works if you know what's actually expiring. Stick painter's tape (peels off cleanly, even cold) on every leftover container and write the date you opened or cooked it: "10/16 soup." The box only works if you know what's expiring. Stick painter's tape (peels off cleanly, even cold) on every leftover and write the date you opened or cooked it: "10/16 soup." Three seconds per container gives the box a pecking order — oldest first, no guessing. A tidy fridge works best with tidy surroundings — a [small kitchen counter system](/blog/small-kitchen-counter-organization-ideas/) keeps your cooking routine easier.
 
 ![Close-up of clear pull-out fridge bins holding condiments, yogurt, and dairy in a compact fridge](/images/small-fridge-organization-ideas-02.jpg)
 
