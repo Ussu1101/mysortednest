@@ -1,0 +1,154 @@
+---
+import Layout from '../layouts/Layout.astro';
+import { getCollection } from 'astro:content';
+
+interface Props {
+  catSlug: string; // 'all' for blog index
+}
+
+export const CATS = [
+  { slug: 'small-spaces', name: 'Small Spaces', title: 'Small Spaces, Thoughtful Living', image: '/images/cat-small-spaces.jpg', note: 'Curated for homes under 800 sq ft', desc: "Living in a compact apartment, studio, or loft doesn't mean compromising on beauty or order. Explore editor-tested spatial layouts, multifunctional furniture guides, and intentional storage systems designed for smaller footprints." },
+  { slug: 'kitchen', name: 'Kitchen', title: 'Kitchen Systems', image: '/images/cat-kitchen.jpg', note: 'Pantry to countertop', desc: "Pantries, cabinets, drawers and countertops — precision systems that make even the tiniest kitchen cook like a bigger one. Renter-friendly, budget-conscious, and built for daily use." },
+  { slug: 'closet-organization', name: 'Closet', title: 'Closet & Wardrobe', image: '/images/cat-closet.jpg', note: 'Capsule to chaos-free', desc: "Wardrobes that work as hard as you do. Capsule systems, small-closet layouts, and storage that keeps every hanger, shelf and drawer intentional." },
+  { slug: 'storage-ideas', name: 'Storage', title: 'Storage & Utility', image: '/images/cat-storage.jpg', note: 'Every inch earns its keep', desc: "Entryways, under-bed zones, vertical walls and hidden corners — clever storage ideas that put dead space back to work without renovations." },
+  { slug: 'decorating', name: 'Decorating', title: 'Decorating & Living', image: '/images/cat-decorating.jpg', note: 'Calm, warm, intentional', desc: "Warm minimalism for real homes. Small styling moves, calming palettes and intentional decor that make organized spaces feel like home." },
+];
+
+const { catSlug } = Astro.props;
+const all = (await getCollection('blog')).sort((a, b) => b.id.localeCompare(a.id));
+const posts = catSlug === 'all' ? all : all.filter((p) => p.data.category === catSlug);
+const cat = CATS.find((c) => c.slug === catSlug);
+
+const title = cat ? cat.title : 'All Guides & Articles';
+const kicker = cat ? 'Department Archive' : 'The Library';
+const desc = cat ? cat.desc : 'Every guide, system and storage idea from My Sorted Nest — practical home organization for small spaces, kitchens, closets and beyond. New guides weekly.';
+const note = cat ? cat.note : `${all.length} guide${all.length === 1 ? '' : 's'} and counting`;
+const heroImg = cat ? cat.image : '/images/hero-home.jpg';
+
+const readMins = (b: string) => Math.max(3, Math.round(b.split(/\s+/).length / 200));
+const blogHref = (p: any) => '/blog/' + p.id.replace(/\.md$/, '') + '/';
+const catNameOf = (c: string) => (CATS.find((x) => x.slug === c)?.name ?? 'Guides');
+const [featured, ...rest] = posts;
+const adjacent = CATS.filter((c) => c.slug !== catSlug).slice(0, 3);
+---
+
+<Layout title={title} description={desc}>
+<section class="relative pt-space-md pb-space-lg lg:pb-space-xl">
+<nav aria-label="Breadcrumbs" class="flex items-center gap-space-xs text-on-surface-variant font-label-caps text-label-caps uppercase tracking-wider mb-space-md">
+<a class="hover:text-primary transition-colors" href="/">Home</a>
+<span class="text-outline-variant">/</span>
+{cat ? (<><a class="hover:text-primary transition-colors" href="/blog/">Guides</a><span class="text-outline-variant">/</span><span class="text-on-surface font-semibold">{cat.name}</span></>) : (<span class="text-on-surface font-semibold">All Guides</span>)}
+</nav>
+<div class="grid grid-cols-1 lg:grid-cols-12 gap-gutter items-baseline">
+<div class="lg:col-span-8">
+<span class="font-label-caps text-label-caps uppercase text-secondary tracking-widest block mb-space-xs">{kicker}</span>
+<h1 class="font-headline-lg text-headline-lg text-on-surface font-normal tracking-tight max-w-3xl">{title}</h1>
+</div>
+<div class="lg:col-span-4 flex items-center justify-start lg:justify-end gap-space-sm text-on-surface-variant font-body-compact text-body-compact">
+<span class="inline-flex items-center justify-center w-2.5 h-2.5 rounded-full bg-primary"></span>
+<span>{note}</span>
+</div>
+</div>
+<div class="mt-space-md max-w-3xl">
+<p class="font-body-lead text-body-lead text-on-surface-variant leading-relaxed">{desc}</p>
+</div>
+<div class="mt-space-lg flex items-center gap-space-xs overflow-x-auto pb-space-xs">
+<a href="/blog/" class={`px-space-md py-space-xs rounded-full font-label-caps text-label-caps tracking-wider uppercase whitespace-nowrap transition-all duration-200 ${catSlug === 'all' ? 'bg-primary text-on-primary shadow-sm' : 'bg-surface-container-low text-on-surface-variant hover:bg-surface-container'}`}>All Articles ({all.length})</a>
+{CATS.map((c) => {
+  const n = all.filter((p) => p.data.category === c.slug).length;
+  return (<a href={`/categories/${c.slug}/`} class={`px-space-md py-space-xs rounded-full font-label-caps text-label-caps tracking-wider uppercase whitespace-nowrap transition-all duration-200 ${catSlug === c.slug ? 'bg-primary text-on-primary shadow-sm' : 'bg-surface-container-low text-on-surface-variant hover:bg-surface-container'}`}>{c.name} ({n})</a>);
+})}
+</div>
+</section>
+
+{featured ? (
+<section class="mb-space-xl">
+<article class="grid grid-cols-1 lg:grid-cols-12 gap-gutter bg-surface-container-lowest rounded-xl p-space-md shadow-sm hover:shadow-md transition-shadow group">
+<div class="lg:col-span-5 flex flex-col justify-center order-2 lg:order-1">
+<div class="flex items-center gap-space-sm text-on-surface-variant font-label-caps text-label-caps uppercase tracking-wider mb-space-xs">
+<span class="text-secondary font-bold">Lead Story</span><span>·</span><span>{readMins(featured.body)} min read</span>
+</div>
+<h2 class="font-headline-md text-headline-md text-on-surface group-hover:text-primary transition-colors mb-space-sm">
+<a href={blogHref(featured)}>{featured.data.title}</a>
+</h2>
+<p class="font-body-regular text-body-regular text-on-surface-variant mb-space-md">{featured.data.description}</p>
+<div class="flex items-center gap-space-sm">
+<div class="w-10 h-10 rounded-full bg-primary-fixed text-on-primary-fixed flex items-center justify-center font-label-caps text-label-caps font-bold">MS</div>
+<div><p class="font-label-regular text-label-regular text-on-surface">My Sorted Nest</p><p class="font-body-compact text-body-compact text-on-surface-variant">{featured.data.pubDate}</p></div>
+</div>
+<a href={blogHref(featured)} class="mt-space-md inline-flex items-center gap-space-xs font-label-regular text-label-regular text-primary hover:text-on-surface transition-colors">Read Guide <span>→</span></a>
+</div>
+<div class="lg:col-span-7 order-1 lg:order-2">
+<div class="aspect-[16/10] w-full rounded-lg overflow-hidden bg-surface-container">
+<a href={blogHref(featured)}><img class="w-full h-full object-cover transition-transform duration-700 group-hover:scale-[1.02]" src={featured.data.image} alt={featured.data.title} /></a>
+</div>
+</div>
+</article>
+</section>
+) : (
+<section class="mb-space-xl">
+<div class="bg-surface-container-low rounded-xl p-space-xl text-center">
+<span class="material-symbols-outlined text-primary text-[40px]">edit_note</span>
+<h2 class="font-headline-md text-headline-md text-on-surface mt-space-sm mb-space-xs">Fresh guides are on the way</h2>
+<p class="font-body-regular text-body-regular text-on-surface-variant max-w-xl mx-auto">We're writing the {cat?.name.toLowerCase()} guides right now — researched, original, and renter-friendly. Join the newsletter below and you'll be the first to read them.</p>
+</div>
+</section>
+)}
+
+{rest.length > 0 && (
+<section class="mb-space-xl">
+<div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-gutter">
+{rest.map((post) => (
+<article class="flex flex-col bg-surface-container-lowest rounded-xl p-space-sm shadow-sm hover:shadow-md transition-all group">
+<div class="aspect-[16/10] rounded-lg overflow-hidden bg-surface-container mb-space-sm relative">
+<a href={blogHref(post)}><img class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500" src={post.data.image} alt={post.data.title} loading="lazy"/></a>
+<span class="absolute top-2.5 left-2.5 bg-surface/90 px-2 py-0.5 rounded-full font-label-caps text-label-caps text-on-surface">{catNameOf(post.data.category)}</span>
+</div>
+<div class="flex items-center gap-space-xs text-on-surface-variant font-body-compact text-body-compact mb-1">
+<span>{post.data.pubDate}</span><span>·</span><span>{readMins(post.body)} min read</span>
+</div>
+<h3 class="font-title-editorial text-title-editorial text-on-surface group-hover:text-primary transition-colors mb-2 leading-snug">
+<a href={blogHref(post)}>{post.data.title}</a>
+</h3>
+<p class="font-body-compact text-body-compact text-on-surface-variant line-clamp-2 mt-auto">{post.data.description}</p>
+</article>
+))}
+</div>
+</section>
+)}
+
+<section class="bg-surface-container-low rounded-xl p-space-lg md:p-space-xl mb-space-xl flex flex-col md:flex-row items-center gap-space-lg">
+<div class="flex-1">
+<span class="font-label-caps text-label-caps uppercase tracking-widest text-secondary">The Weekly Edition</span>
+<h2 class="font-headline-md text-headline-md text-on-surface mt-space-xs mb-space-sm">A little more calm in your inbox</h2>
+<p class="font-body-regular text-body-regular text-on-surface-variant max-w-xl">One thoughtful email every Saturday — new guides, storage ideas and seasonal checklists. No spam, unsubscribe anytime.</p>
+<form class="newsletter-form flex flex-col sm:flex-row gap-space-xs mt-space-md max-w-md">
+<input class="flex-1 px-space-md py-space-sm bg-surface-container-lowest text-on-surface font-body-compact text-body-compact rounded-lg outline-none placeholder:text-outline-variant focus:ring-1 focus:ring-primary" placeholder="Your email address" type="email"/>
+<button class="px-space-md py-space-sm bg-primary text-on-primary rounded-lg font-label-caps text-label-caps uppercase tracking-wider hover:bg-primary-container hover:text-on-primary-container transition-colors" type="submit">Subscribe</button>
+</form>
+</div>
+<div class="hidden md:block w-64 shrink-0">
+<img class="w-full aspect-[4/3] object-cover rounded-lg" src={heroImg} alt={title} loading="lazy"/>
+</div>
+</section>
+
+<section class="pb-space-xl">
+<div class="flex items-center justify-between mb-space-lg">
+<h2 class="font-headline-md text-headline-md text-on-surface">Explore Adjacent Departments</h2>
+<a class="font-label-regular text-label-regular text-primary hover:text-on-surface transition-colors" href="/blog/">View all departments →</a>
+</div>
+<div class="grid grid-cols-1 sm:grid-cols-3 gap-gutter">
+{adjacent.map((c) => (
+<a href={`/categories/${c.slug}/`} class="group bg-surface-container-lowest rounded-xl overflow-hidden shadow-sm hover:shadow-md transition-all">
+<div class="aspect-[16/9] overflow-hidden bg-surface-container">
+<img class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500" src={c.image} alt={c.title} loading="lazy"/>
+</div>
+<div class="p-space-md">
+<p class="font-label-caps text-label-caps uppercase tracking-wider text-on-surface-variant mb-1">{all.filter((p) => p.data.category === c.slug).length} guides</p>
+<h3 class="font-title-editorial text-title-editorial text-on-surface group-hover:text-primary transition-colors">{c.title}</h3>
+</div>
+</a>
+))}
+</div>
+</section>
+</Layout>

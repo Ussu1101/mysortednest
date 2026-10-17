@@ -1,0 +1,34 @@
+---
+import Layout from '../layouts/Layout.astro';
+---
+
+<Layout title="Contact" description="Contact My Sorted Nest — questions, feedback, or collaboration ideas about home organization.">
+<nav aria-label="Breadcrumb" class="font-body-compact text-body-compact text-on-surface-variant mb-space-md">
+<a href="/" class="hover:text-on-surface transition-colors">Home</a><span class="mx-2">/</span><span class="text-on-surface">Contact</span>
+</nav>
+
+<section class="py-space-lg max-w-[680px]">
+<span class="font-label-caps text-label-caps uppercase tracking-widest text-secondary">Contact</span>
+<h1 class="font-headline-lg text-headline-lg text-on-surface mt-space-sm mb-space-md">Say hello.</h1>
+<p class="font-body-lead text-body-lead text-on-surface-variant">Questions about a guide, a storage problem we haven't solved yet, or just want to say hi — we'd love to hear from you.</p>
+
+<div class="mt-space-xl bg-surface-container-lowest rounded-xl p-space-lg shadow-sm">
+<form class="flex flex-col gap-space-md" action="mailto:hello@mysortednest.life" method="post" enctype="text/plain">
+<div>
+<label class="font-label-caps text-label-caps uppercase tracking-wider text-on-surface-variant block mb-space-xs" for="c-name">Your name</label>
+<input id="c-name" name="name" type="text" required placeholder="Jane Doe" class="w-full px-space-md py-space-sm bg-surface text-on-surface font-body-regular text-body-regular rounded-lg border border-outline-variant outline-none placeholder:text-outline-variant focus:border-primary transition-colors" />
+</div>
+<div>
+<label class="font-label-caps text-label-caps uppercase tracking-wider text-on-surface-variant block mb-space-xs" for="c-email">Email</label>
+<input id="c-email" name="email" type="email" required placeholder="you@example.com" class="w-full px-space-md py-space-sm bg-surface text-on-surface font-body-regular text-body-regular rounded-lg border border-outline-variant outline-none placeholder:text-outline-variant focus:border-primary transition-colors" />
+</div>
+<div>
+<label class="font-label-caps text-label-caps uppercase tracking-wider text-on-surface-variant block mb-space-xs" for="c-msg">Message</label>
+<textarea id="c-msg" name="message" rows="5" required placeholder="What's on your mind?" class="w-full px-space-md py-space-sm bg-surface text-on-surface font-body-regular text-body-regular rounded-lg border border-outline-variant outline-none placeholder:text-outline-variant focus:border-primary transition-colors"></textarea>
+</div>
+<button type="submit" class="inline-flex items-center justify-center bg-primary text-on-primary hover:bg-primary-container hover:text-on-primary-container px-7 py-3.5 rounded-lg font-label-regular text-label-regular tracking-wide transition-colors self-start">Send message</button>
+<p class="font-body-compact text-body-compact text-on-surface-variant">This opens your email app with the message ready to send to hello@mysortednest.life.</p>
+</form>
+</div>
+</section>
+</Layout>

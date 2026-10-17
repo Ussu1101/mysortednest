@@ -1,0 +1,144 @@
+---
+import Layout from '../layouts/Layout.astro';
+import { getCollection } from 'astro:content';
+
+const all = await getCollection('blog');
+const CATS = [
+  { slug: 'small-spaces', name: 'Small Spaces' },
+  { slug: 'kitchen', name: 'Kitchen' },
+  { slug: 'closet-organization', name: 'Closet & Wardrobe' },
+  { slug: 'storage-ideas', name: 'Storage & Utility' },
+  { slug: 'decorating', name: 'Decorating & Living' },
+];
+const suggestions = ['pantry organization', 'small closet', 'under-bed storage', 'apartment', 'kitchen storage', 'declutter'];
+---
+
+<Layout title="Search the Library" description="Search every My Sorted Nest guide — practical home organization ideas for small spaces, kitchens, closets and storage.">
+<nav aria-label="Breadcrumb" class="font-body-compact text-body-compact text-on-surface-variant mb-space-md">
+<a href="/" class="hover:text-on-surface transition-colors">Home</a><span class="mx-2">/</span><span class="text-on-surface">Search</span>
+</nav>
+
+<section class="pt-space-md pb-space-lg">
+<span class="font-label-caps text-label-caps uppercase text-secondary tracking-widest block mb-space-xs">The My Sorted Nest Index</span>
+<h1 class="font-headline-lg text-headline-lg text-on-surface font-normal tracking-tight">Search the Library</h1>
+<p class="font-body-lead text-body-lead text-on-surface-variant mt-space-sm max-w-2xl">Find practical home ideas, storage guides, room transformations, and organization systems curated for calm, deliberate spaces.</p>
+
+<div class="mt-space-lg relative max-w-2xl">
+<span class="material-symbols-outlined absolute left-4 top-1/2 -translate-y-1/2 text-on-surface-variant">search</span>
+<input id="search-input" type="search" placeholder="Try &quot;tiny kitchen storage&quot;…" autocomplete="off"
+  class="w-full pl-12 pr-12 py-space-md bg-surface-container-lowest border border-outline-variant rounded-xl font-body-regular text-body-regular text-on-surface placeholder:text-outline-variant outline-none focus:border-primary transition-colors" />
+<button id="search-clear" aria-label="Clear search" class="hidden absolute right-4 top-1/2 -translate-y-1/2 text-on-surface-variant hover:text-on-surface"><span class="material-symbols-outlined">close</span></button>
+</div>
+
+<p id="result-count" class="font-body-compact text-body-compact text-on-surface-variant mt-space-md"></p>
+
+<div class="mt-space-md flex items-center gap-space-xs overflow-x-auto pb-space-xs">
+<span class="font-label-caps text-label-caps uppercase tracking-wider text-on-surface-variant whitespace-nowrap mr-space-xs">Explore:</span>
+{suggestions.map((s) => (
+<button data-suggest={s} class="suggest-pill px-space-md py-space-xs rounded-full font-label-caps text-label-caps tracking-wider uppercase whitespace-nowrap bg-surface-container-low text-on-surface-variant hover:bg-surface-container transition-all duration-200">{s}</button>
+))}
+</div>
+</section>
+
+<div class="grid grid-cols-1 lg:grid-cols-12 gap-gutter pb-space-xl">
+<div class="lg:col-span-8">
+<div id="results" class="flex flex-col gap-space-md"></div>
+<div id="no-results" class="hidden bg-surface-container-low rounded-xl p-space-xl text-center">
+<span class="material-symbols-outlined text-primary text-[40px]">search_off</span>
+<h2 class="font-headline-md text-headline-md text-on-surface mt-space-sm mb-space-xs">Nothing found — yet</h2>
+<p class="font-body-regular text-body-regular text-on-surface-variant max-w-md mx-auto">Try a different keyword, or browse a department below. New guides are published every week.</p>
+</div>
+</div>
+<aside class="lg:col-span-4 flex flex-col gap-space-md">
+<div class="bg-surface-container-lowest rounded-xl p-space-lg shadow-sm">
+<h3 class="font-label-caps text-label-caps uppercase tracking-wider text-on-surface mb-space-md">Looking for something else?</h3>
+<p class="font-body-compact text-body-compact text-on-surface-variant mb-space-sm">Browse our curated collections by room and need:</p>
+<div class="flex flex-col gap-space-xs">
+{CATS.map((c) => {
+  const n = all.filter((p) => p.data.category === c.slug).length;
+  return (
+  <a href={`/categories/${c.slug}/`} class="flex items-center justify-between px-space-md py-space-sm bg-surface-container-low rounded-lg hover:bg-surface-container transition-colors group">
+  <span class="font-label-regular text-label-regular text-on-surface">{c.name}</span>
+  <span class="font-body-compact text-body-compact text-on-surface-variant">{n} guide{n === 1 ? '' : 's'} <span class="group-hover:translate-x-1 inline-block transition-transform">→</span></span>
+  </a>);
+})}
+</div>
+</div>
+<div class="bg-surface-container-low rounded-xl p-space-lg">
+<div class="flex items-center gap-space-sm mb-space-xs">
+<span class="material-symbols-outlined text-secondary">tips_and_updates</span>
+<h3 class="font-label-caps text-label-caps uppercase tracking-wider text-on-surface">Search tip</h3>
+</div>
+<p class="font-body-compact text-body-compact text-on-surface-variant">Try room-first keywords like "pantry", "closet" or "under-bed" — guides are organized the way you'd walk through your home.</p>
+</div>
+</aside>
+</div>
+
+<section class="bg-surface-container-low rounded-xl p-space-lg md:p-space-xl mb-space-xl text-center">
+<span class="font-label-caps text-label-caps uppercase tracking-widest text-secondary">The Weekly Edition</span>
+<h2 class="font-headline-md text-headline-md text-on-surface mt-space-xs mb-space-sm">Never miss a spatial solution</h2>
+<p class="font-body-regular text-body-regular text-on-surface-variant max-w-xl mx-auto">Join our readers receiving the weekly quiet interior edits, storage layouts, and organization checklists every Saturday morning.</p>
+<form class="newsletter-form flex flex-col sm:flex-row gap-space-xs mt-space-md max-w-md mx-auto">
+<input class="flex-1 px-space-md py-space-sm bg-surface-container-lowest text-on-surface font-body-compact text-body-compact rounded-lg outline-none placeholder:text-outline-variant focus:ring-1 focus:ring-primary" placeholder="Your email address" type="email"/>
+<button class="px-space-md py-space-sm bg-primary text-on-primary rounded-lg font-label-caps text-label-caps uppercase tracking-wider hover:bg-primary-container hover:text-on-primary-container transition-colors" type="submit">Subscribe</button>
+</form>
+</section>
+
+<script is:inline>
+(function(){
+  var input = document.getElementById('search-input');
+  var clearBtn = document.getElementById('search-clear');
+  var resultsEl = document.getElementById('results');
+  var noResults = document.getElementById('no-results');
+  var countEl = document.getElementById('result-count');
+  var index = [];
+  var CATS = {'small-spaces':'Small Spaces','kitchen':'Kitchen','closet-organization':'Closet','storage-ideas':'Storage','decorating':'Decorating'};
+
+  function esc(s){ return s.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;'); }
+  function highlight(text, q){
+    if(!q) return esc(text);
+    var i = text.toLowerCase().indexOf(q.toLowerCase());
+    if(i < 0) return esc(text);
+    return esc(text.slice(0,i)) + '<mark class="bg-secondary-fixed text-on-secondary-fixed-variant px-1 rounded-sm font-medium">' + esc(text.slice(i, i+q.length)) + '</mark>' + esc(text.slice(i+q.length));
+  }
+  function card(post, q){
+    var cat = CATS[post.category] || 'Guides';
+    return '<article class="bg-surface-container-lowest p-space-lg rounded-xl shadow-sm hover:shadow-md transition-shadow flex flex-col md:flex-row gap-space-md group">'
+      + '<div class="md:w-52 h-48 md:h-auto flex-shrink-0 relative overflow-hidden rounded-lg bg-surface-container">'
+      + '<a href="' + post.url + '"><img class="w-full h-full object-cover transition-transform duration-500 group-hover:scale-105" src="' + post.image + '" alt="' + esc(post.title) + '" loading="lazy"/></a></div>'
+      + '<div class="flex flex-col justify-between flex-grow min-w-0"><div>'
+      + '<div class="flex items-center gap-space-sm mb-space-xs"><span class="font-label-caps text-label-caps uppercase tracking-wider text-secondary">' + cat + '</span></div>'
+      + '<h2 class="font-headline-sm text-headline-sm text-on-surface group-hover:text-primary transition-colors mb-space-xs leading-snug"><a href="' + post.url + '">' + highlight(post.title, q) + '</a></h2>'
+      + '<p class="font-body-regular text-body-regular text-on-surface-variant line-clamp-2 mb-space-sm">' + highlight(post.description, q) + '</p>'
+      + '</div><div class="flex items-center justify-between pt-space-xs text-on-surface-variant font-body-compact text-body-compact">'
+      + '<span>By My Sorted Nest · ' + esc(post.date) + '</span>'
+      + '<a href="' + post.url + '" class="inline-flex items-center gap-1 text-primary font-medium hover:underline">Read guide <span class="material-symbols-outlined text-[16px]">arrow_forward</span></a>'
+      + '</div></div></article>';
+  }
+  function run(q){
+    q = (q || '').trim();
+    clearBtn.classList.toggle('hidden', !q);
+    var hits = q ? index.filter(function(p){
+      var hay = (p.title + ' ' + p.description + ' ' + p.body + ' ' + (CATS[p.category]||'')).toLowerCase();
+      return q.toLowerCase().split(/\s+/).every(function(w){ return hay.indexOf(w) >= 0; });
+    }) : index.slice();
+    countEl.textContent = q ? ('Showing ' + hits.length + ' result' + (hits.length===1?'':'s') + ' for "' + q + '"') : (index.length + ' guides in the library');
+    resultsEl.innerHTML = hits.map(function(p){ return card(p, q); }).join('');
+    noResults.classList.toggle('hidden', hits.length > 0);
+    resultsEl.classList.toggle('hidden', hits.length === 0);
+  }
+  fetch('/search-index.json').then(function(r){ return r.json(); }).then(function(data){
+    index = data;
+    var initial = new URLSearchParams(window.location.search).get('q') || '';
+    input.value = initial;
+    run(initial);
+  });
+  var t;
+  input.addEventListener('input', function(){ clearTimeout(t); t = setTimeout(function(){ run(input.value); }, 200); });
+  clearBtn.addEventListener('click', function(){ input.value=''; run(''); input.focus(); });
+  document.querySelectorAll('.suggest-pill').forEach(function(p){
+    p.addEventListener('click', function(){ input.value = p.getAttribute('data-suggest'); run(input.value); });
+  });
+})();
+</script>
+</Layout>
