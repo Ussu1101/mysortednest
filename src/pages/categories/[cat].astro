@@ -1,0 +1,16 @@
+---
+import CategoryArchive from '../../components/CategoryArchive.astro';
+
+export function getStaticPaths() {
+  return [
+    { params: { cat: 'small-spaces' } },
+    { params: { cat: 'kitchen' } },
+    { params: { cat: 'closet-organization' } },
+    { params: { cat: 'storage-ideas' } },
+    { params: { cat: 'decorating' } },
+  ];
+}
+
+const { cat } = Astro.params;
+---
+<CategoryArchive catSlug={cat} />
