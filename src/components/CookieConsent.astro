@@ -1,0 +1,66 @@
+---
+// Cookie consent popup — Google Consent Mode v2.
+// Shows once per visitor until they choose; choice stored in localStorage.
+// Consent defaults (denied) are set in Layout.astro <head> before any tag loads.
+---
+<div id="cookie-consent" class="hidden fixed bottom-4 inset-x-4 sm:inset-x-auto sm:bottom-6 sm:right-6 sm:left-auto sm:max-w-sm z-[100]" role="dialog" aria-live="polite" aria-label="Cookie consent">
+  <div class="bg-surface-container-lowest rounded-xl border border-outline-variant shadow-[0_8px_30px_rgba(0,0,0,0.12)] p-5 cookie-pop">
+    <p class="font-title-editorial text-title-editorial text-on-surface mb-2">A quick note on cookies</p>
+    <p class="font-body-compact text-body-compact text-on-surface-variant mb-4">
+      We use cookies to remember your preferences and understand how the site is used.
+      Accept for the full experience, or decline — the site works either way.
+      Read our <a href="/privacy/" class="underline underline-offset-2 hover:text-on-surface">Privacy Policy</a>.
+    </p>
+    <div class="flex gap-3">
+      <button id="cookie-accept" class="flex-1 inline-flex items-center justify-center px-4 py-2.5 bg-primary text-on-primary rounded-lg font-label-caps text-label-caps uppercase tracking-wider hover:opacity-90 transition-opacity">
+        Accept
+      </button>
+      <button id="cookie-decline" class="flex-1 inline-flex items-center justify-center px-4 py-2.5 border border-outline-variant text-on-surface rounded-lg font-label-caps text-label-caps uppercase tracking-wider hover:bg-surface-container transition-colors">
+        Decline
+      </button>
+    </div>
+  </div>
+</div>
+<style>
+  @keyframes cookie-rise {
+    from { opacity: 0; transform: translateY(16px); }
+    to { opacity: 1; transform: translateY(0); }
+  }
+  .cookie-pop { animation: cookie-rise 0.35s ease-out; }
+</style>
+<script is:inline>
+(function () {
+  var KEY = 'msn-cookie-consent';
+  function applyConsent(granted) {
+    try {
+      if (typeof gtag === 'function') {
+        gtag('consent', 'update', {
+          'ad_storage': granted ? 'granted' : 'denied',
+          'ad_user_data': granted ? 'granted' : 'denied',
+          'ad_personalization': granted ? 'granted' : 'denied',
+          'analytics_storage': granted ? 'granted' : 'denied'
+        });
+      }
+    } catch (e) {}
+  }
+  try {
+    var banner = document.getElementById('cookie-consent');
+    if (!banner) return;
+    var stored = null;
+    try { stored = localStorage.getItem(KEY); } catch (e) {}
+    if (stored === 'accepted') { applyConsent(true); return; }
+    if (stored === 'declined') { applyConsent(false); return; }
+    setTimeout(function () { banner.classList.remove('hidden'); }, 1200);
+    document.getElementById('cookie-accept').addEventListener('click', function () {
+      try { localStorage.setItem(KEY, 'accepted'); } catch (e) {}
+      applyConsent(true);
+      banner.classList.add('hidden');
+    });
+    document.getElementById('cookie-decline').addEventListener('click', function () {
+      try { localStorage.setItem(KEY, 'declined'); } catch (e) {}
+      applyConsent(false);
+      banner.classList.add('hidden');
+    });
+  } catch (e) {}
+})();
+</script>

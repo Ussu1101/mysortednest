@@ -1,5 +1,6 @@
 ---
 interface Props { title: string; description: string; canonical?: string; ogImage?: string; }
+import CookieConsent from '../components/CookieConsent.astro';
 const { title, description, canonical, ogImage = "/images/hero-home.jpg" } = Astro.props;
 const site = "https://mysortednest.life";
 const pageUrl = canonical ? site + canonical : site + Astro.url.pathname;
@@ -43,6 +44,18 @@ const pageUrl = canonical ? site + canonical : site + Astro.url.pathname;
   .article-body figcaption { font-size: 13px; line-height: 20px; color: #77766F; text-align: center; margin-top: 0.5rem; }
   .article-body a { color: #292B27; text-decoration: underline; text-underline-offset: 3px; text-decoration-color: #87917A; }
 </style>
+<script is:inline>
+/* Google Consent Mode v2 defaults — must run before any analytics/ad tag loads.
+   When GA4 is added later, place its snippet AFTER this block so consent applies. */
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('consent', 'default', {
+  'ad_storage': 'denied',
+  'ad_user_data': 'denied',
+  'ad_personalization': 'denied',
+  'analytics_storage': 'denied'
+});
+</script>
 </head>
 <body class="bg-surface font-body-regular text-body-regular text-on-surface antialiased">
 <header class="fixed top-0 left-0 right-0 z-50 bg-surface/90 backdrop-blur-md shadow-[0_1px_8px_rgba(0,0,0,0.03)]"><aside class="w-full bg-surface-container-high py-space-xs px-margin-mobile lg:px-margin text-center"><a class="font-label-caps text-label-caps text-on-surface-variant hover:text-on-surface tracking-wider uppercase transition-colors inline-flex items-center justify-center gap-space-xs" data-path="small-spaces" href="/categories/small-spaces/">Practical organization ideas for small spaces · Start with the pantry guide →</a></aside><div class="h-20 max-w-[1280px] mx-auto px-margin-mobile lg:px-margin flex items-center justify-between gap-gutter"><div class="flex items-center gap-space-md"><a href="/" class="font-title-editorial text-title-editorial text-on-surface tracking-tight inline-block" style="font-size:22px">My Sorted Nest</a></div><nav class="hidden xl:flex items-center gap-gutter" data-active-classes="text-primary font-bold"><a aria-current="page" class="transition-colors text-primary font-bold" data-path="home" href="/">Home</a><a class="font-label-regular text-label-regular text-on-surface-variant hover:text-on-surface transition-colors" data-path="small-spaces" href="/categories/small-spaces/">Small Spaces</a><a class="font-label-regular text-label-regular text-on-surface-variant hover:text-on-surface transition-colors" data-path="kitchen" href="/categories/kitchen/">Kitchen</a><a class="font-label-regular text-label-regular text-on-surface-variant hover:text-on-surface transition-colors" data-path="closet-organization" href="/categories/closet-organization/">Closet Organization</a><a class="font-label-regular text-label-regular text-on-surface-variant hover:text-on-surface transition-colors" data-path="storage-ideas" href="/categories/storage-ideas/">Storage Ideas</a><a class="font-label-regular text-label-regular text-on-surface-variant hover:text-on-surface transition-colors" data-path="decorating" href="/categories/decorating/">Decorating</a></nav><div class="flex items-center gap-space-md"><button id="menu-btn" aria-label="Menu" class="xl:hidden p-space-xs text-on-surface-variant hover:text-on-surface transition-colors flex items-center justify-center"><span class="material-symbols-outlined">menu</span></button><a aria-label="Search Articles" href="/search/" class="p-space-xs text-on-surface-variant hover:text-on-surface transition-colors flex items-center justify-center"><span class="material-symbols-outlined">search</span></a><a class="hidden md:inline-flex items-center justify-center px-space-md py-space-xs bg-surface-container text-on-surface rounded-lg font-label-caps text-label-caps uppercase tracking-wider hover:bg-surface-container-high hover:text-on-surface transition-colors" href="#newsletter">Join Newsletter</a></div></div><nav id="mobile-nav" class="xl:hidden hidden border-t border-outline-variant bg-surface"><div class="px-margin-mobile py-space-md flex flex-col gap-space-sm">
@@ -73,5 +86,6 @@ document.querySelectorAll('.newsletter-form').forEach(form => {
   });
 });
 </script>
+<CookieConsent />
 </body>
 </html>
