@@ -117,7 +117,7 @@ Every time something new goes up into the attic, something of the same group com
 
 Photograph each bin's label and contents when you pack it, and keep the photos in one album called "Attic" on your phone. Add the bin number to each photo's caption. Next December, you can search the album for "tree skirt" instead of climbing up and opening six red bins. 
 
-![A person doing a yearly attic sweep, pulling labeled bins into the center walkway to check labels and contents](/images/small-attic-storage-organization-ideas-04.jpg)
+![Wooden shelving under a sloped attic ceiling with folded blankets, baskets, and seasonal decor boxes](/images/small-attic-storage-organization-ideas-04.jpg)
 
 ## Mistakes to avoid
 
