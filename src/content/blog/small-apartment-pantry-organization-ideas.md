@@ -13,7 +13,7 @@ Small apartment pantry organization isn't about buying a matching set of contain
 
 ## Start with the single biggest win: decant into uniform containers
 
-Nothing eats pantry space like packaging. Cereal boxes are 70% air, bags flop over, and half-open boxes go stale. Moving dry goods into uniform, stackable, airtight containers is the highest-impact change you can make. (If your "pantry" is a rolling cart in a studio kitchen, our [studio apartment zoning guide](/blog/studio-apartment-organization-zones/) shows how to fit it into a one-room layout.) Before decanting anything beyond dry goods, check the [USDA food storage charts](https://www.foodsafety.gov/food-safety-charts/food-storage-charts) — some foods don't belong in airtight containers at room temperature.
+Nothing eats pantry space like packaging. Cereal boxes are 70% air, bags flop over, and half-open boxes go stale. Moving dry goods into uniform, stackable, airtight containers is the highest-impact change you can make. (If your "pantry" is a rolling cart in a studio kitchen, our [studio apartment zoning guide](/blog/studio-apartment-organization-zones/) shows how to fit it into a one-room layout.) Before decanting anything beyond dry goods, check the [USDA food storage charts](https://www.foodsafety.gov/food-safety-charts/cold-food-storage-charts) — some foods don't belong in airtight containers at room temperature.
 
 ### 1. Use square or rectangular containers, not round ones
 

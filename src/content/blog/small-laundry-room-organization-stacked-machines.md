@@ -85,7 +85,7 @@ Stacked machines in a small room trap heat and moisture, and a front-load washer
 
 **16. Leave the washer door ajar and wipe the gasket after every wash.** Front-loaders seal tight, and the rubber gasket stays damp after a cycle. Leave the door open a few inches — a magnetic prop or rolled towel keeps it ajar — and wipe the gasket folds dry once a week.
 
-**17. Clean the dryer vent and lint path on a schedule.** Pull the lint filter after every load. Once a month, vacuum the lint trap housing with a narrow nozzle and check the vent hose for kinks or lint buildup. A blocked vent makes the dryer run longer and hotter, and it is a genuine fire risk: the U.S. Fire Administration lists failure to clean dryers as a leading cause of dryer fires. See the [U.S. Fire Administration's dryer fire safety page](https://www.usfa.fema.gov/prevention/home-fires/prepare-for-a-fire/clothes-dryer-fire-safety/).
+**17. Clean the dryer vent and lint path on a schedule.** Pull the lint filter after every load. Once a month, vacuum the lint trap housing with a narrow nozzle and check the vent hose for kinks or lint buildup. A blocked vent makes the dryer run longer and hotter, and it is a genuine fire risk: the U.S. Fire Administration lists failure to clean dryers as a leading cause of dryer fires. See the [U.S. Fire Administration's dryer fire safety page](https://www.usfa.dhs.gov/downloads/pdf/publications/clothes_dryer_fire_safety_flyer.pdf).
 
 ![Open front-load washer door with a clean rubber gasket and a small step stool beside a stacked washer and dryer in a bright laundry closet](/images/small-laundry-room-organization-stacked-machines-04.jpg)
 

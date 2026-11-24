@@ -101,7 +101,7 @@ Set up a drying station the day you get home: hang the tent over a door or a dry
 
 ### 14. Wipe, shake, and spot-clean before storing
 
-Shake out the tent, brush dirt off the footprint, wipe the stove with a damp cloth, and check the cooler for food residue before anything goes back on a shelf. Spot-clean sleeping bags with mild soap and a sponge rather than machine-washing them after every trip; full washes wear out insulation faster. Check zippers and buckles while you clean — a stuck zipper found at home is a five-minute fix, but the same zipper at a campsite is a ruined night. For authoritative care instructions, see REI's guide: [REI Expert Advice on caring for camping gear](https://www.rei.com/learn/expert-advice/caring-for-your-camping-gear.html).
+Shake out the tent, brush dirt off the footprint, wipe the stove with a damp cloth, and check the cooler for food residue before anything goes back on a shelf. Spot-clean sleeping bags with mild soap and a sponge rather than machine-washing them after every trip; full washes wear out insulation faster. Check zippers and buckles while you clean — a stuck zipper found at home is a five-minute fix, but the same zipper at a campsite is a ruined night. For authoritative care instructions, see REI's guide: [REI Expert Advice on cleaning and storing camping gear](https://www.rei.com/learn/expert-advice/end-of-summer-gear-care.html).
 
 ## The post-trip reset: 20 minutes so next time is easy
 

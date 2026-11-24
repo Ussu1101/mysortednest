@@ -83,7 +83,7 @@ Serving bowls, platters, and salad tongs get one shelf spot each, stacked with a
 
 ### 13. Flat-pack leftovers and set a three-day rule
 
-Pack leftovers flat in stackable containers with the date written on masking tape, and put them at eye level in the fridge — not buried behind the milk. Anything not eaten within three days gets tossed. The U.S. government's [FoodSafety.gov](https://www.foodsafety.gov/food-safety-charts/cold-food-storage-charts) recommends refrigerating leftovers within two hours and using most cooked leftovers within three to four days.
+Pack leftovers flat in stackable containers with the date written on masking tape, and put them at eye level in the fridge — not buried behind the milk. Anything not eaten within three days gets tossed. The U.S. government's [FoodSafety.gov](https://www.foodsafety.gov/food-safety-charts/cold-food-storage-chartss) recommends refrigerating leftovers within two hours and using most cooked leftovers within three to four days.
 
 ![A serving tray, pitcher, and cake stand arranged on a single shelf with stacked leftover containers nearby](/images/party-supply-storage-small-apartments-02.jpg)
 

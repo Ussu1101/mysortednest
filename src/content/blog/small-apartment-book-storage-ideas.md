@@ -87,7 +87,7 @@ Books stored in the open collect dust, and books stored in the wrong place warp,
 
 ### 17. Dust the tops of your books once a month with a dry microfiber cloth. Dust settles on the top edge of the pages, and if it sits there it works its way down between them. Wipe across the top edges with the book closed; the whole job takes under ten minutes. Never shelve a book with the pages facing out: the exposed page edges collect dust and fade in sunlight far faster than the spine.
 
-### 18. Store books upright, out of direct sun, and away from damp walls. Books last longest standing upright, packed snugly enough to stay straight but loose enough to pull one out without tearing the neighbor's cover. Keep them off exterior walls that feel cold or damp in winter, and out of direct sunlight — a sunny windowsill can fade a spine in a single summer. For deeper guidance on protecting paper and bindings, the Library of Congress guide to [caring for your books](https://www.loc.gov/preservation/care/books.html) covers handling and storage in plain language.
+### 18. Store books upright, out of direct sun, and away from damp walls. Books last longest standing upright, packed snugly enough to stay straight but loose enough to pull one out without tearing the neighbor's cover. Keep them off exterior walls that feel cold or damp in winter, and out of direct sunlight — a sunny windowsill can fade a spine in a single summer. For deeper guidance on protecting paper and bindings, the Library of Congress guide to [caring for your books](https://guides.loc.gov/preserving-your-books/handling) covers handling and storage in plain language.
 
 ## Mistakes to avoid
 

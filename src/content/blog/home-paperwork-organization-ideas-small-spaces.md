@@ -75,7 +75,7 @@ A paperwork system lives or dies on its routine. Ten minutes a week is short eno
 
 Shredding is where most households hesitate: afraid of throwing away something important, they keep everything. A few rules remove the guesswork.
 
-**15. Shred anything with personal details you no longer need.** That includes old bank and credit card statements, pay stubs older than a year, expired insurance cards, pre-approved credit offers, and anything showing full account numbers, signature, or date of birth. The U.S. Federal Trade Commission's consumer guidance is a solid reference: [FTC: Shredding personal documents](https://consumer.ftc.gov/articles/shredding-personal-documents). If your town runs a free shredding event, save a bag for it instead of buying a shredder.
+**15. Shred anything with personal details you no longer need.** That includes old bank and credit card statements, pay stubs older than a year, expired insurance cards, pre-approved credit offers, and anything showing full account numbers, signature, or date of birth. The U.S. Federal Trade Commission's consumer guidance is a solid reference: [FTC: Shredding personal documents](https://consumer.ftc.gov/consumer-alerts/2025/06/protecting-your-personal-information-which-documents-keep-which-shred). If your town runs a free shredding event, save a bag for it instead of buying a shredder.
 
 **16. Keep tax returns for at least three years, and vital records forever.** Tax returns and supporting documents should be kept for at least three years from filing — when in doubt, keep the return and shred the clutter around it. Leases stay until a year after you move out, car titles until you sell the car.
 

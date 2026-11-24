@@ -85,7 +85,7 @@ A disguised crate must still be a safe crate. Decoration that blocks airflow or 
 
 ### 11. Leave at least two sides open for airflow
 
-Wire crates ventilate far better than solid-sided ones, which is one reason they disguise so well with a simple topper. Never cover all four sides plus the top — your dog needs moving air, especially in a warm apartment. Leave the door side and one long side uncovered, keep the crate away from radiators and direct afternoon sun, and check the temperature inside with your hand on a hot day. The American Kennel Club's [crate training guidance](https://www.akc.org/expert-advice/training/crate-training-your-dog/) covers sizing and safe setup in more detail.
+Wire crates ventilate far better than solid-sided ones, which is one reason they disguise so well with a simple topper. Never cover all four sides plus the top — your dog needs moving air, especially in a warm apartment. Leave the door side and one long side uncovered, keep the crate away from radiators and direct afternoon sun, and check the temperature inside with your hand on a hot day. The American Kennel Club's [crate training guidance](https://www.akc.org/expert-advice/training/how-to-crate-train-dog/) covers sizing and safe setup in more detail.
 
 ### 12. Chew-proof every part of the disguise
 

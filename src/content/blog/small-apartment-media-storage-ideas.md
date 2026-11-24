@@ -65,7 +65,7 @@ Gather each device's cables into one bundle with reusable hook-and-loop ties (no
 
 ### Idea 10: Mount the TV and turn the console top into a display shelf
 
-Choose a fixed or tilting mount rated for your TV's weight — a 55-inch TV typically needs at least 80 pounds — and anchor it into wall studs, not drywall alone. Once the TV is up, the console top holds only a plant, a framed photo, or two books. Renters: ask your landlord first, or use a no-drill floor-standing TV pole — same floating look, zero holes. The U.S. Consumer Product Safety Commission recommends anchoring TVs and heavy furniture to prevent tip-overs — check their [tip-over safety guidance](https://www.cpsc.gov/Safety-Education/Safety-Education-Centers/Tip-Over-Information-Center) before you drill.
+Choose a fixed or tilting mount rated for your TV's weight — a 55-inch TV typically needs at least 80 pounds — and anchor it into wall studs, not drywall alone. Once the TV is up, the console top holds only a plant, a framed photo, or two books. Renters: ask your landlord first, or use a no-drill floor-standing TV pole — same floating look, zero holes. The U.S. Consumer Product Safety Commission recommends anchoring TVs and heavy furniture to prevent tip-overs — check their [tip-over safety guidance](https://www.cpsc.gov/Safety-Education/Safety-Education-Centers/AnchorItgov?language=en) before you drill.
 
 ### Idea 11: Run cables through a paintable cord cover to the console
 

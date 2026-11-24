@@ -87,7 +87,7 @@ Pour soups, stews, and sauces into freezer bags, squeeze out the air, and lay th
 
 ### 12. Label every container with contents and date before it goes in
 
-A strip of masking tape and a marker is all it takes: contents on the first line, date on the second. Use the date you froze it, not the date you cooked it. The USDA recommends using most cooked leftovers within 3 to 4 days in the fridge — and the same [USDA cold food storage chart](https://www.foodsafety.gov/food-safety-charts/cold-food-storage-chart) is a useful reference for frozen storage times.
+A strip of masking tape and a marker is all it takes: contents on the first line, date on the second. Use the date you froze it, not the date you cooked it. The USDA recommends using most cooked leftovers within 3 to 4 days in the fridge — and the same [USDA cold food storage chart](https://www.foodsafety.gov/food-safety-charts/cold-food-storage-charts) is a useful reference for frozen storage times.
 
 ![Labeled freezer containers and flat-frozen bags filed upright in bins](/images/food-container-freezer.jpg)
 

@@ -73,7 +73,7 @@ A sink skirt is a fabric panel, usually cotton or linen, hung from the underside
 
 ### 11. Recessed medicine cabinet
 
-A recessed medicine cabinet sits inside the wall cavity, adding storage without stealing a single inch of floor space. A standard 16-by-24-inch cabinet with two adjustable glass shelves holds toothbrushes, medicines, and contact lens supplies — everything you want out of sight but within reach. Check the wall first with a stud finder: the cavity must be free of studs, pipes, and wiring, and the gap between studs (usually 14.5 inches) must match the cabinet width. Unsure what is inside the wall? [Family Handyman's guide to installing a recessed medicine cabinet](https://www.familyhandyman.com/project/how-to-install-a-recessed-medicine-cabinet/) shows how to check for pipes and wiring first.
+A recessed medicine cabinet sits inside the wall cavity, adding storage without stealing a single inch of floor space. A standard 16-by-24-inch cabinet with two adjustable glass shelves holds toothbrushes, medicines, and contact lens supplies — everything you want out of sight but within reach. Check the wall first with a stud finder: the cavity must be free of studs, pipes, and wiring, and the gap between studs (usually 14.5 inches) must match the cabinet width. Unsure what is inside the wall? [This Old House's guide to installing a recessed cabinet](https://www.thisoldhouse.com/bathrooms/how-to-install-a-recessed-cabinet) shows how to check for pipes and wiring first.
 
 ### 12. Surface-mount mirrored cabinet
 

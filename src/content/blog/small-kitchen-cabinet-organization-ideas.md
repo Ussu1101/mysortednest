@@ -47,7 +47,7 @@ Start with flour, sugar, rice, pasta, and cereal — the worst packaging, the mo
 
 ### 6. Stack heavy-to-light, big-to-small
 
-Heavy containers (flour, sugar) go on the bottom of any stack, lighter ones (cereal, crackers) on top. Cap each stack at three so the bottom item stays reachable. Before decanting anything perishable, check the [USDA food storage charts](https://www.foodsafety.gov/food-safety-charts/food-storage-charts) — some foods don't belong in airtight containers at room temperature.
+Heavy containers (flour, sugar) go on the bottom of any stack, lighter ones (cereal, crackers) on top. Cap each stack at three so the bottom item stays reachable. Before decanting anything perishable, check the [USDA food storage charts](https://www.foodsafety.gov/food-safety-charts/cold-food-storage-charts) — some foods don't belong in airtight containers at room temperature.
 
 ![Uniform stackable containers of dry goods arranged neatly on a cabinet shelf](/images/cabinets-detail-04.jpg)
 

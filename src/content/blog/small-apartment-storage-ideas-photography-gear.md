@@ -103,7 +103,7 @@ Drop one or two reusable silica gel packs — the small sachets, about 2 × 3 in
 
 ### 14. Keep gear out of direct sun and away from the bathroom door
 
-Store the kit where it never gets direct sunlight — never on a windowsill or opposite a south-facing window. Sunlight fades rubber grips, dries out seals, and heats a closed bag like a greenhouse. Keep gear a few feet from the bathroom door, too, where steam drifts out after every shower. The Library of Congress [care advice for photographs](https://www.loc.gov/preservation/care/photographs.html) follows the same principles: cool, dry, out of direct light.
+Store the kit where it never gets direct sunlight — never on a windowsill or opposite a south-facing window. Sunlight fades rubber grips, dries out seals, and heats a closed bag like a greenhouse. Keep gear a few feet from the bathroom door, too, where steam drifts out after every shower. The Library of Congress [care advice for photographs](https://www.loc.gov/preservation/care/photo.html) follows the same principles: cool, dry, out of direct light.
 
 ## The post-shoot reset: cards, batteries, and bag repacked in 15 minutes
 

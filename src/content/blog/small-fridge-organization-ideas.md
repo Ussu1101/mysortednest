@@ -17,7 +17,7 @@ A zone is a permanent address for a food category: milk always lives in one spot
 
 ### 1. Give every shelf a category based on temperature, not habit
 
-Cold air sinks, so the bottom of the fridge is coldest, the top mildest, and the door warmest. Assign categories to match: leftovers and drinks on top, dairy and deli in the middle, raw meat and fish on the bottom shelf on a tray. A $5 fridge thermometer confirms the 40°F-or-below zone, and the [cold food storage charts on foodsafety.gov](https://www.foodsafety.gov/food-safety-charts/cold-food-storage-charts) list safe storage times by food.
+Cold air sinks, so the bottom of the fridge is coldest, the top mildest, and the door warmest. Assign categories to match: leftovers and drinks on top, dairy and deli in the middle, raw meat and fish on the bottom shelf on a tray. A $5 fridge thermometer confirms the 40°F-or-below zone, and the [cold food storage charts on foodsafety.gov](https://www.foodsafety.gov/food-safety-charts/cold-food-storage-chartss) list safe storage times by food.
 
 ### 2. Keep a consistent left-right order within each shelf
 

@@ -103,7 +103,7 @@ When clothes get too small, they go straight into the outgrown bin, not back int
 
 ## Keeping it safe: anchoring, gating, and the no-clutter floor rule
 
-The U.S. Consumer Product Safety Commission's [Anchor It! guidance](https://www.cpsc.gov/Safety-Education/Safety-Education-Centers/Anchor-It) explains how to secure dressers, bookshelves, and televisions with inexpensive anti-tip straps.
+The U.S. Consumer Product Safety Commission's [Anchor It! guidance](https://www.cpsc.gov/Safety-Education/Safety-Education-Centers/AnchorItgov?language=en) explains how to secure dressers, bookshelves, and televisions with inexpensive anti-tip straps.
 
 ### 15. Anchor every dresser and bookshelf before your baby pulls up
 

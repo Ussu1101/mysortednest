@@ -31,7 +31,7 @@ To keep sheet sets together, place the folded fitted sheet and flat sheet inside
 
 <div class="tip"><strong>Pro tip:</strong> Cardboard folding boards (or a cut-down piece of foam board, roughly 10×12 inches) give you identical rectangles every time — and identical rectangles are what keep file-folded rows standing.</div>
 
-For a visual refresher on the technique itself, Martha Stewart's guide to [folding sheets so they actually stay neat](https://www.marthastewart.com/how-to-fold-a-fitted-sheet-8632486) walks through the corners step by step — then apply your own measurements on top.
+For a visual refresher on the technique itself, Consumer Reports' guide to [folding sheets so they actually stay neat](https://www.consumerreports.org/sheets/how-to-fold-a-fitted-sheet/) walks through the corners step by step — then apply your own measurements on top.
 
 ![Hands file-folding white bath towels into uniform rectangles](/images/tiny-linen-closet-organization-ideas-fold.jpg)
 
