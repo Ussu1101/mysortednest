@@ -1,6 +1,6 @@
 ---
 title: "18 Kids' School Supply Organization Ideas for Small Homes"
-description: "Kids school supply organization ideas for small homes: homework stations, backpack landing zones, and the systems kids can maintain themselves every day."
+description: "Kids school supply organization ideas for small homes: homework stations, backpack landing zones, and the systems kids can maintain themselves."
 pubDate: "November 9, 2026"
 keywords: "kids school supply organization, school supplies organization small home, homework station small space"
 category: "storage-ideas"

@@ -10,8 +10,8 @@ interface Props {
 }
 
 export const CATS = [
-  { slug: 'small-spaces', name: 'Small Spaces', title: 'Small Spaces, Thoughtful Living', image: '/images/cat-small-spaces.jpg', note: 'Curated for homes under 800 sq ft', desc: "Living in a compact apartment, studio, or loft doesn't mean compromising on beauty or order. Explore editor-tested spatial layouts, multifunctional furniture guides, and intentional storage systems designed for smaller footprints." },
-  { slug: 'kitchen', name: 'Kitchen', title: 'Kitchen Systems', image: '/images/cat-kitchen.jpg', note: 'Pantry to countertop', desc: "Pantries, cabinets, drawers and countertops — precision systems that make even the tiniest kitchen cook like a bigger one. Renter-friendly, budget-conscious, and built for daily use." },
+  { slug: 'small-spaces', name: 'Small Spaces', title: 'Small Spaces, Thoughtful Living', image: '/images/cat-small-spaces.jpg', note: 'Curated for homes under 800 sq ft', desc: "Living in a compact apartment, studio, or loft doesn't mean compromising on beauty or order. Explore editor-tested spatial layouts." },
+  { slug: 'kitchen', name: 'Kitchen', title: 'Kitchen Systems', image: '/images/cat-kitchen.jpg', note: 'Pantry to countertop', desc: "Pantries, cabinets, drawers and countertops — precision systems that make even the tiniest kitchen cook like a bigger one." },
   { slug: 'closet-organization', name: 'Closet', title: 'Closet & Wardrobe', image: '/images/cat-closet.jpg', note: 'Capsule to chaos-free', desc: "Wardrobes that work as hard as you do. Capsule systems, small-closet layouts, and storage that keeps every hanger, shelf and drawer intentional." },
   { slug: 'storage-ideas', name: 'Storage', title: 'Storage & Utility', image: '/images/cat-storage.jpg', note: 'Every inch earns its keep', desc: "Entryways, under-bed zones, vertical walls and hidden corners — clever storage ideas that put dead space back to work without renovations." },
   { slug: 'decorating', name: 'Decorating', title: 'Decorating & Living', image: '/images/cat-decorating.jpg', note: 'Calm, warm, intentional', desc: "Warm minimalism for real homes. Small styling moves, calming palettes and intentional decor that make organized spaces feel like home." },
@@ -22,7 +22,7 @@ const cat = CATS.find((c) => c.slug === catSlug);
 
 const title = cat ? cat.title : 'All Guides & Articles';
 const kicker = cat ? 'Department Archive' : 'The Library';
-const desc = cat ? cat.desc : 'Every guide, system and storage idea from My Sorted Nest — practical home organization for small spaces, kitchens, closets and beyond. New guides weekly.';
+const desc = cat ? cat.desc : 'Every guide, system and storage idea from My Sorted Nest — practical home organization for small spaces, kitchens, closets and beyond.';
 const note = cat ? cat.note : `${all.length} guide${all.length === 1 ? '' : 's'} and counting`;
 const heroImg = cat ? cat.image : '/images/hero-home.jpg';
 

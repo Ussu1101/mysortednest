@@ -1,6 +1,6 @@
 ---
 title: "Under Stairs Storage Ideas for Small Homes"
-description: "Under stairs storage ideas that turn wasted space into a closet, drawers, shelves, or a reading nook — measured plans for every height zone, no dead corners."
+description: "Under stairs storage ideas that turn wasted space into a closet, drawers, shelves, or a reading nook — measured plans for every height zone."
 pubDate: "October 15, 2026"
 keywords: "under stairs storage ideas, under stairs closet organization, small under stairs storage, under staircase storage, awkward space storage"
 category: "storage-ideas"

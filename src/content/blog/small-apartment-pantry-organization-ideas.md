@@ -1,6 +1,6 @@
 ---
 title: "21 Small Apartment Pantry Organization Ideas"
-description: "Small apartment pantry organization doesn't need a remodel. 21 renter-friendly ideas — door racks, shelf risers, decanting systems — that double what fits in a tiny pantry."
+description: "Small apartment pantry organization doesn't need a remodel. 21 renter-friendly ideas — door racks, shelf risers, decanting systems."
 pubDate: "October 12, 2026"
 keywords: "small apartment pantry organization, tiny pantry storage ideas, small pantry organization, apartment pantry ideas"
 category: "kitchen"

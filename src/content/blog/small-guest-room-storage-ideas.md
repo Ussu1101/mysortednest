@@ -1,6 +1,6 @@
 ---
 title: "16 Small Guest Room Storage Ideas"
-description: "Luggage space, closet zones, and thoughtful touches: small guest room storage ideas that make a tiny spare room feel welcoming and ready for overnight guests."
+description: "Luggage space, closet zones, and thoughtful touches: small guest room storage ideas that make a tiny spare room feel welcoming."
 pubDate: "November 9, 2026"
 keywords: "small guest room storage ideas, guest room organization small space, spare bedroom storage ideas"
 category: "small-spaces"

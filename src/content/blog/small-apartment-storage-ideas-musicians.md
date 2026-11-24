@@ -1,6 +1,6 @@
 ---
 title: "15 Small Apartment Storage Ideas for Musicians"
-description: "Small apartment storage ideas for musicians: wall-mounted instruments, cable control, and a practice corner that keeps gear safe without taking over the room."
+description: "Small apartment storage ideas for musicians: wall-mounted instruments, cable control, and a practice corner that keeps gear safe."
 pubDate: "November 14, 2026"
 keywords: "small apartment storage ideas musicians, instrument storage apartment, music gear storage small space"
 category: "small-spaces"
