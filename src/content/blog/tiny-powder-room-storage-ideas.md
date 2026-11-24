@@ -1,5 +1,5 @@
 ---
-title: "15 Tiny Powder Room Storage Ideas That Make a Half Bath Work"
+title: "15 Tiny Powder Room Storage Ideas for Half Baths"
 description: "Tiny powder room storage ideas for half baths: over-toilet shelves, wall baskets, pedestal tricks, and guest-ready touches that fit in 20 square feet."
 pubDate: "November 13, 2026"
 keywords: "tiny powder room storage ideas, small half bath organization, powder room organization ideas"

@@ -1,5 +1,5 @@
 ---
-title: "18 Small Apartment Storage Ideas for One-Bedroom Apartments"
+title: "18 Small Apartment Storage Ideas for One-Bedroom"
 description: "Small apartment storage ideas for one-bedroom apartments: every room, every zone, with systems that make 500 square feet feel like enough — starting today."
 pubDate: "November 7, 2026"
 keywords: "small apartment storage ideas one bedroom, one bedroom apartment organization, small one bedroom storage"

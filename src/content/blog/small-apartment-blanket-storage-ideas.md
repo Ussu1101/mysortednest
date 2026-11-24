@@ -1,5 +1,5 @@
 ---
-title: "15 Small Apartment Blanket Storage Ideas (No More Sofa Pile)"
+title: "15 Small Apartment Blanket Storage Ideas"
 description: "Small apartment blanket storage ideas: baskets, ladders, ottomans, and under-bed systems that keep throws handy without the sofa pile taking over your home."
 pubDate: "November 17, 2026"
 keywords: "small apartment blanket storage ideas, throw blanket storage small space, blanket storage ideas apartment"

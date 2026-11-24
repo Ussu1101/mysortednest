@@ -1,5 +1,5 @@
 ---
-title: "17 Small Apartment Storage Ideas for Luggage and Travel Gear"
+title: "17 Small Apartment Storage Ideas for Luggage"
 description: "Small apartment luggage storage ideas that hide suitcases in plain sight: under-bed, closet-top, behind-door, and furniture that doubles as a suitcase garage."
 pubDate: "November 8, 2026"
 keywords: "small apartment luggage storage, luggage storage ideas small apartment, where to store luggage in apartment"

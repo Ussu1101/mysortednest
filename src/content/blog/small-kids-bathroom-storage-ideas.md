@@ -1,5 +1,5 @@
 ---
-title: "16 Small Kids' Bathroom Storage Ideas That Survive Bath Time"
+title: "16 Small Kids' Bathroom Storage Ideas"
 description: "Small kids' bathroom storage ideas: bath toy systems, kid-height hooks, step stools that store, and zones that survive daily bath time — that actually last."
 pubDate: "November 13, 2026"
 keywords: "small kids bathroom storage ideas, kids bathroom organization, tiny kids bathroom storage"

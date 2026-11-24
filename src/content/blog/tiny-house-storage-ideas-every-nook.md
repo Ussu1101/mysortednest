@@ -1,5 +1,5 @@
 ---
-title: "18 Tiny House Storage Ideas for Every Nook (Under 500 Sq Ft)"
+title: "18 Tiny House Storage Ideas for Every Nook"
 description: "Tiny house storage ideas for homes under 500 square feet: stair drawers, loft zones, multi-use furniture, and hidden storage in every nook and cranny."
 pubDate: "November 4, 2026"
 keywords: "tiny house storage ideas, small house storage ideas, tiny home organization ideas"

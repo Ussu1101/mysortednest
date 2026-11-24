@@ -1,5 +1,5 @@
 ---
-title: "18 Cleaning Supply Closet Organization Ideas for Small Homes"
+title: "18 Cleaning Supply Closet Organization Ideas"
 description: "Cleaning supply closet organization ideas for small homes: broom holders, door racks, caddies, and labels that keep every supply tidy and grab-and-go."
 pubDate: "October 24, 2026"
 keywords: "cleaning supply closet organization, small cleaning closet ideas, cleaning supplies storage ideas"

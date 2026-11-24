@@ -1,5 +1,5 @@
 ---
-title: "16 Small Mudroom Ideas for Apartments (Your Entry, Upgraded)"
+title: "16 Small Mudroom Ideas for Apartments"
 description: "Small mudroom ideas for apartments: entry upgrades that catch coats, shoes, and gear like a real mudroom, no dedicated room needed — catch-and-contain."
 pubDate: "October 21, 2026"
 keywords: "small mudroom ideas apartment, tiny mudroom ideas, apartment mudroom entryway, small apartment mudroom, entryway drop zone"
