@@ -1,6 +1,6 @@
 ---
-title: "16 Window Seat & Under-Window Storage Ideas"
-description: "Window seat and under-window storage ideas for small homes: built-in benches, low cabinets, and reading nooks that turn dead window wall into storage."
+title: "16 Under-Window Storage Ideas (Seats, Benches & Cabinets)"
+description: "Under-window storage ideas for small homes: window seats, built-in benches, and low cabinets that turn dead window wall into storage."
 pubDate: "October 31, 2026"
 keywords: "window seat storage ideas, under window storage small homes, window bench storage ideas"
 category: "storage-ideas"
