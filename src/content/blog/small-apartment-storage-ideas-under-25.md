@@ -17,7 +17,7 @@ Cheap storage fails for predictable reasons: random containers bought without me
 
 ### 1. Set a per-zone budget, not a per-trip budget
 
-Give each zone its own number before you shop: $20 for the bathroom cabinet, $25 for the entryway, $15 for the junk drawer. A per-zone budget stops you spending $40 on one pretty basket and having nothing left for the zones that need help. Write the numbers on your phone and stick to them — the whole point of budget apartment organization ideas is that every zone gets a little, not one zone gets everything.
+Give each zone its own number before you shop: $20 for the bathroom cabinet, $25 for the entryway, $15 for the [junk drawer](/blog/junk-drawer-organization-ideas/). A per-zone budget stops you spending $40 on one pretty basket and having nothing left for the zones that need help. Write the numbers on your phone and stick to them — the whole point of budget apartment organization ideas is that every zone gets a little, not one zone gets everything.
 
 ### 2. Measure first, buy second — every single time
 

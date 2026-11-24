@@ -53,7 +53,7 @@ Kitchen and pantry doors take the highest-traffic chaos — the wrap drawer that
 
 ### Build a visible spice rack
 
-Two rows of slim wire baskets on the pantry door hold 20–30 standard spice jars with labels facing out, mounted no higher than 60 inches so everything is reachable without a step stool. Group by cooking zone — everyday in the center, baking in one row, occasional in the other. Alphabetical order breaks the moment you buy one new jar; grouping by use survives real life.
+Two rows of slim wire baskets on the [pantry door](/blog/small-pantry-door-organization-ideas/) hold 20–30 standard spice jars with labels facing out, mounted no higher than 60 inches so everything is reachable without a step stool. Group by cooking zone — everyday in the center, baking in one row, occasional in the other. Alphabetical order breaks the moment you buy one new jar; grouping by use survives real life.
 
 ### Tame wraps, bags, and lids
 

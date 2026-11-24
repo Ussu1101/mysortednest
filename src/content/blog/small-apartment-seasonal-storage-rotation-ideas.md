@@ -13,7 +13,7 @@ If your closet is bursting with heavy coats in July and sandals in January, the 
 
 ## The rotation rule: only the current season lives within reach
 
-The whole system rests on one rule: prime real estate — your closet rod, your most-used drawers, and your entryway hooks — belongs only to what you are actually wearing and using right now. Everything else moves to a secondary home, so the things you need today are easy to grab and easy to put back.
+The whole system rests on one rule: prime real estate — your closet rod, your most-used drawers, and your [entryway hooks](/blog/small-entryway-organization-ideas-no-foyer/) — belongs only to what you are actually wearing and using right now. Everything else moves to a secondary home, so the things you need today are easy to grab and easy to put back.
 
 ### 1. Define your two seasons, not four
 

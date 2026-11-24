@@ -75,7 +75,7 @@ Give each person their own hanging shower caddy — a suction-cup basket for til
 
 Three bottles per person is the rule that keeps shower caddies from overflowing: one shampoo, one conditioner or body wash, and one personal item, like a face wash or a razor. Anything beyond that — hair masks, scrubs, treatments — lives in the person's caddy in their bedroom and comes into the shower only on the days it is used.
 
-## Under-sink division: bins that keep products separate
+## [Under-sink division](/blog/under-sink-bathroom-storage-ideas/): bins that keep products separate
 
 The under-sink cabinet is usually the biggest storage space in a small bathroom, and the most wasted — one dark hole where everything gets shoved to the back. Divided bins turn it into a filing cabinet.
 

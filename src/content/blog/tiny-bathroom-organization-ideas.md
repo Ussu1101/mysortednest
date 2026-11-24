@@ -13,7 +13,7 @@ Tiny bathroom organization fails for one predictable reason: people buy storage 
 
 ### 1. Measure every zone before buying anything
 
-Grab a tape measure and record four numbers: the width above your toilet (wall to wall), the depth and height inside your under-sink cabinet (accounting for pipes), your drawer interiors, and the back-of-door clearance. Write them in your phone. Roughly 80% of bathroom organizer returns happen because someone guessed — a "standard" over-toilet shelf is 24 inches wide, but many apartment bathrooms only have 20 inches of clearance.
+Grab a tape measure and record four numbers: the width above your toilet (wall to wall), the depth and height inside your [under-sink cabinet](/blog/under-sink-bathroom-storage-ideas/) (accounting for pipes), your drawer interiors, and the back-of-door clearance. Write them in your phone. Roughly 80% of bathroom organizer returns happen because someone guessed — a "standard" over-toilet shelf is 24 inches wide, but many apartment bathrooms only have 20 inches of clearance.
 
 ### 2. Map your plumbing before planning under-sink storage
 

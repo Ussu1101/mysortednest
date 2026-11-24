@@ -77,7 +77,7 @@ Buy a tension rod about 2 inches longer than the inside width of the cabinet, so
 
 A tension rod across the shower, just below the showerhead, holds hanging caddies, a mesh bag, or S-hooks for loofahs and washcloths. In a tub-and-shower combo, mount it on the wall side, not over the curtain rod.
 
-## Vanity zones: drawers, trays, and the daily-use caddy
+## Vanity zones: [drawers](/blog/junk-drawer-organization-ideas/), trays, and the daily-use caddy
 
 Without zones, every product migrates to the counter and stays there. With zones, the counter holds only what you use today and the drawer holds the rest. Start by emptying the vanity completely.
 

@@ -47,7 +47,7 @@ Set a daily-mug rule: two mugs live at the station, one for each regular coffee 
 
 ### 6. Hang mugs under a cabinet with adhesive hooks
 
-Self-adhesive or clamp-on under-cabinet hooks hold two to four mugs by their handles, freeing the counter space those mugs used to occupy. Check the hook's weight rating first — a full ceramic mug weighs roughly 12 to 16 ounces — and the clearance below the cabinet.
+Self-adhesive or clamp-on [under-cabinet hooks](/blog/under-cabinet-kitchen-storage-ideas/) hold two to four mugs by their handles, freeing the counter space those mugs used to occupy. Check the hook's weight rating first — a full ceramic mug weighs roughly 12 to 16 ounces — and the clearance below the cabinet.
 
 ## Bean, filter, and pod storage that stays fresh
 

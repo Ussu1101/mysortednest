@@ -47,7 +47,7 @@ Folding chairs fail for one reason: no parking spot. Each idea below names the s
 
 **7. The wall-hook chair row.** Slim wooden or metal folding chairs, about 2 inches thick when folded, hung on heavy-duty hooks behind the bedroom door or along a hallway wall. Four chairs take roughly 8 inches of depth and a 5-foot strip of wall. Keep the most-used hook at the easiest height so the first chair comes off in one motion.
 
-**8. The under-bed guest stool stash.** Low folding stools, 12 to 14 inches tall when folded flat, slide under the bed in a shallow bin. A frame with 7 inches of clearance holds four to six stools in a 36-by-18-inch bin. Pull the bin out like a drawer and the stools are out in seconds — best for renters who cannot drill hooks.
+**8. The under-bed guest stool stash.** Low folding stools, 12 to 14 inches tall when folded flat, slide [under the bed](/blog/under-bed-storage-ideas-small-bedrooms/) in a shallow bin. A frame with 7 inches of clearance holds four to six stools in a 36-by-18-inch bin. Pull the bin out like a drawer and the stools are out in seconds — best for renters who cannot drill hooks.
 
 **9. The chair-that-is-a-side-table.** Folding chairs with a flat, wide seat that doubles as a side table or plant stand when folded and stood on end. Two flank the sofa as end tables daily and become dinner seating in under a minute. Buy a matching pair so they look intentional — mismatched chairs read as clutter.
 

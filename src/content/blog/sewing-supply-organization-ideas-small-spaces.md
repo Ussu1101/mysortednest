@@ -25,7 +25,7 @@ A clear shoebox-sized container (about 13 x 8 x 5 inches) holds one project's pa
 
 ## Thread storage: wall racks, boxes, and color order
 
-Thread tangles because spools roll and unwind in drawers. Keep it visible, upright, and sorted.
+Thread tangles because spools roll and unwind in [drawers](/blog/junk-drawer-organization-ideas/). Keep it visible, upright, and sorted.
 
 ### 3. Hang a wall-mounted thread rack by color family
 

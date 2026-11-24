@@ -81,7 +81,7 @@ Mount a wooden peg rail — 36 to 48 inches long, pegs every 6 to 8 inches — i
 
 A 24-inch floating ledge with a small lip holds perfume bottles, a jewelry stand, or three or four pretty glasses and a bottle — a vanity or bar that takes zero floor space. Add a small mirror above it and the ledge becomes a focal point. Keep the count low (five to seven objects) and leave breathing room between them; a crowded ledge looks like a shelf that fell over. For plant lovers, a similar ledge displays greenery without losing a surface — see [15 Indoor Plant Display Ideas for Small Apartments](/blog/indoor-plant-display-ideas-small-apartments/).
 
-## Entry and living room styling with storage built in
+## Entry and [living room styling with storage built in](/blog/small-living-room-storage-ideas-apartments/)
 
 The entry and the living room are the two places guests see first, and the two places clutter lands fastest. Both need storage that is part of the furniture, not added to it.
 

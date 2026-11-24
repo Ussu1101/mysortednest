@@ -85,7 +85,7 @@ Before buying, run the three-question filter: Does it match at least three thing
 
 ## Keeping it edited year-round
 
-A December declutter that collapses by April is wasted. The maintenance that works is boring and small: a 10-minute seasonal check each quarter. When you rotate seasonal clothes (or when the weather turns), pull anything you didn't wear that season and decide on it immediately — no "maybe next season."
+A December declutter that collapses by April is wasted. The maintenance that works is boring and small: a 10-minute seasonal check each quarter. When you [rotate seasonal clothes](/blog/under-bed-storage-ideas-small-bedrooms/) (or when the weather turns), pull anything you didn't wear that season and decide on it immediately — no "maybe next season."
 
 Build the exit bag habit too. Keep a small bag or hook on the closet door; when you spot a stain that won't come out, a fit that went off, or an item you passed over for the third time, it goes straight in. When the bag is full — roughly every 6–8 weeks — it leaves the house that week.
 

@@ -49,7 +49,7 @@ When the drawer is full, the wall is the next storage surface, and it is usually
 
 ### 6. Hang a stainless rail beside the stove for the daily five
 
-Mount an 18- to 24-inch stainless rail on the backsplash or the wall beside the stove, and hang your daily five — spatula, tongs, ladle, slotted spoon, and wooden spoon — on S-hooks. Keep the rail at shoulder height and within one step of the stove. Renters: choose adhesive mounts rated for at least 10 pounds. More vertical-space ideas: [17 Kitchen Wall Storage Ideas for Small Kitchens (No Counter Space Wasted)](/blog/kitchen-wall-storage-ideas-small-kitchens/).
+Mount an 18- to 24-inch stainless [rail on the backsplash](/blog/tiny-kitchen-backsplash-storage-ideas/) or the wall beside the stove, and hang your daily five — spatula, tongs, ladle, slotted spoon, and wooden spoon — on S-hooks. Keep the rail at shoulder height and within one step of the stove. Renters: choose adhesive mounts rated for at least 10 pounds. More vertical-space ideas: [17 Kitchen Wall Storage Ideas for Small Kitchens (No Counter Space Wasted)](/blog/kitchen-wall-storage-ideas-small-kitchens/).
 
 ### 7. Add a magnetic strip for metal tools only
 

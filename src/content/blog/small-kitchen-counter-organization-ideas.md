@@ -82,7 +82,7 @@ Renters can't drill, but the best counter-adding upgrades don't need holes anywa
 
 **Tension-rod under-cabinet shelf.** A short tension rod wedged between two cabinet sides creates a hanging spot for spray bottles or a paper towel holder, moving them off the counter without mounts.
 
-**Adhesive hooks and rails.** Modern adhesive strips hold surprising weight — a rail rated for 5 to 7 pounds handles utensils easily. Stick it to the backsplash or the side of a cabinet. When you move out, they peel off cleanly with heat from a hair dryer.
+**Adhesive hooks and rails.** Modern adhesive strips hold surprising weight — a rail rated for 5 to 7 pounds handles utensils easily. Stick it to the [backsplash](/blog/tiny-kitchen-backsplash-storage-ideas/) or the side of a cabinet. When you move out, they peel off cleanly with heat from a hair dryer.
 
 **A rolling cart as overflow counter.** A narrow rolling cart (roughly 12 inches wide) parked at the end of the counter run adds a square foot of work surface that rolls away when you need floor space.
 

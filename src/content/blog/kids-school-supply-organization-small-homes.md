@@ -13,7 +13,7 @@ School supplies have a way of taking over a small home. Pencils multiply on the 
 
 You do not need a study room. A homework station for a small space is one surface, one chair, and one set of supplies in the same place every day — the end of the kitchen counter, a fold-down desk, or a corner of the dining table. Everything else here hangs off this one decision.
 
-**1. Claim a 24-inch homework zone and defend it.** Mark a 24-inch stretch of counter or table with a placemat or small tray. One child, one zone, one set of supplies. Kids stop wandering the house hunting for a pencil and sit down on their own.
+**1. Claim a 24-inch [homework zone](/blog/studio-apartment-organization-zones/) and defend it.** Mark a 24-inch stretch of counter or table with a placemat or small tray. One child, one zone, one set of supplies. Kids stop wandering the house hunting for a pencil and sit down on their own.
 
 **2. Keep a homework caddy stocked with the daily five.** A handled caddy about 10×7×6 inches holds the five things homework needs: pencils, eraser, ruler, scissors, glue. Stock it weekly from a backup box on a high shelf. If a supply is not in the caddy, it does not exist during homework time.
 

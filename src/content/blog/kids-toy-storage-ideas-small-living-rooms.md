@@ -7,7 +7,7 @@ category: "storage-ideas"
 image: "/images/kids-toy-storage-ideas-small-living-rooms-hero.jpg"
 ---
 
-Toys multiply. One day your small living room looks calm; the next, it's a floor-is-lava landscape of blocks, dolls, and puzzle pieces with no safe path to the couch. If you're short on square footage, you've probably searched for kids toy storage ideas small living room parents swear by and found solutions that assume you have a spare playroom. You don't — and that's fine. These 18 ideas of small space toy storage are built around one goal: toys stay accessible for your kids and invisible for your evenings. The formula is hidden furniture storage plus a simple rotation system, and none of it requires a bigger apartment.
+Toys multiply. One day your [small living room](/blog/small-living-room-storage-ideas-apartments/) looks calm; the next, it's a floor-is-lava landscape of blocks, dolls, and puzzle pieces with no safe path to the couch. If you're short on square footage, you've probably searched for kids toy storage ideas small living room parents swear by and found solutions that assume you have a spare playroom. You don't — and that's fine. These 18 ideas of small space toy storage are built around one goal: toys stay accessible for your kids and invisible for your evenings. The formula is hidden furniture storage plus a simple rotation system, and none of it requires a bigger apartment.
 
 ## The toy equation: volume vs living room you still want
 

@@ -19,7 +19,7 @@ Measure your child standing flat-footed, then mark their shoulder height on the 
 
 ### 2. Swap one tall unit for two low ones
 
-A single tall wardrobe or bookcase eats visual space and puts half its storage out of reach. Two low units along one wall do the opposite: they double as a display ledge on top, keep everything reachable, and make the room feel wider rather than taller. Leave at least 3 feet of clear floor in front of them for play. If the room is very tight, a low unit under the window works as both storage and a reading perch with a cushion on top.
+A single tall wardrobe or bookcase eats visual space and puts half its storage out of reach. Two low units along one wall do the opposite: they double as a display ledge on top, keep everything reachable, and make the room feel wider rather than taller. Leave at least 3 feet of clear floor in front of them for play. If the room is very tight, a [low unit under the window](/blog/window-seat-under-window-storage-ideas/) works as both storage and a reading perch with a cushion on top.
 
 ## Low open bins for toys: one bin, one kind of toy
 

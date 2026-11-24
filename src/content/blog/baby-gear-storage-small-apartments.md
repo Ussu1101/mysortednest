@@ -7,7 +7,7 @@ category: "small-spaces"
 image: "/images/babygear-hero.jpg"
 ---
 
-A baby arrives with a surprising amount of stuff. One week you have a clear living room; the next, a stroller blocks the door. Baby gear storage small apartment success is about systems, not square footage: fold-flat gear, one spot per item, and a steady outgrown pipeline.
+A baby arrives with a surprising amount of stuff. One week you have a [clear living room](/blog/small-living-room-storage-ideas-apartments/); the next, a stroller blocks the door. Baby gear storage small apartment success is about systems, not square footage: fold-flat gear, one spot per item, and a steady outgrown pipeline.
 
 ![A tidy small apartment living room with a folded stroller parked by the door, a compact high chair, and a diaper caddy on a shelf in warm daylight](/images/babygear-hero.jpg)
 

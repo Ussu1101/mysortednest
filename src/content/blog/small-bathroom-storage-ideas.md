@@ -45,7 +45,7 @@ The dead gap between the toilet and the wall or vanity is often 6–8 inches wid
 
 ## Vanity cabinet and drawer zones: every inch assigned
 
-The cabinet under the sink is usually a dark cave where bottles fall over behind the pipes. The fix isn't more space — it's assigned zones so nothing migrates.
+The [cabinet under the sink](/blog/under-sink-bathroom-storage-ideas/) is usually a dark cave where bottles fall over behind the pipes. The fix isn't more space — it's assigned zones so nothing migrates.
 
 ### 6. Stack 10×6×6-inch bins around the pipes
 
