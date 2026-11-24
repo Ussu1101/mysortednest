@@ -4,7 +4,10 @@
 // Consent defaults (denied) are set in Layout.astro <head> before any tag loads.
 ---
 <div id="cookie-consent" class="hidden fixed bottom-4 inset-x-4 sm:inset-x-auto sm:bottom-6 sm:right-6 sm:left-auto sm:max-w-sm z-[100]" role="dialog" aria-live="polite" aria-label="Cookie consent">
-  <div class="bg-surface-container-lowest rounded-xl border border-outline-variant shadow-[0_8px_30px_rgba(0,0,0,0.12)] p-5 cookie-pop">
+  <div class="relative bg-surface-container-lowest rounded-xl border border-outline-variant shadow-[0_8px_30px_rgba(0,0,0,0.12)] p-5 cookie-pop">
+    <button id="cookie-dismiss" aria-label="Dismiss" class="absolute top-3 right-3 p-1 text-on-surface-variant hover:text-on-surface transition-colors flex items-center justify-center">
+      <span class="material-symbols-outlined text-[18px]">close</span>
+    </button>
     <p class="font-title-editorial text-title-editorial text-on-surface mb-2">A quick note on cookies</p>
     <p class="font-body-compact text-body-compact text-on-surface-variant mb-4">
       We use cookies to remember your preferences and understand how the site is used.
@@ -31,6 +34,15 @@
 <script is:inline>
 (function () {
   var KEY = 'msn-cookie-consent';
+  var DISMISS_KEY = 'msn-cookie-dismissed'; // X button: hide for this session only, ask again next visit
+  function showBanner() {
+    banner.classList.remove('hidden');
+    document.body.classList.add('cookie-banner-open');
+  }
+  function hideBanner() {
+    banner.classList.add('hidden');
+    document.body.classList.remove('cookie-banner-open');
+  }
   function applyConsent(granted) {
     try {
       if (typeof gtag === 'function') {
@@ -50,16 +62,23 @@
     try { stored = localStorage.getItem(KEY); } catch (e) {}
     if (stored === 'accepted') { applyConsent(true); return; }
     if (stored === 'declined') { applyConsent(false); return; }
-    setTimeout(function () { banner.classList.remove('hidden'); }, 1200);
+    var dismissed = null;
+    try { dismissed = sessionStorage.getItem(DISMISS_KEY); } catch (e) {}
+    if (dismissed) return; // X was clicked this session — ask again next visit
+    setTimeout(showBanner, 1200);
     document.getElementById('cookie-accept').addEventListener('click', function () {
       try { localStorage.setItem(KEY, 'accepted'); } catch (e) {}
       applyConsent(true);
-      banner.classList.add('hidden');
+      hideBanner();
     });
     document.getElementById('cookie-decline').addEventListener('click', function () {
       try { localStorage.setItem(KEY, 'declined'); } catch (e) {}
       applyConsent(false);
-      banner.classList.add('hidden');
+      hideBanner();
+    });
+    document.getElementById('cookie-dismiss').addEventListener('click', function () {
+      try { sessionStorage.setItem(DISMISS_KEY, '1'); } catch (e) {}
+      hideBanner();
     });
   } catch (e) {}
 })();

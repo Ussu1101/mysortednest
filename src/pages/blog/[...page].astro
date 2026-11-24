@@ -1,0 +1,12 @@
+---
+import CategoryArchive from '../../components/CategoryArchive.astro';
+import { getCollection } from 'astro:content';
+
+export async function getStaticPaths({ paginate }) {
+  const all = (await getCollection('blog')).sort((a, b) => b.id.localeCompare(a.id));
+  return paginate(all, { pageSize: 24, props: { catSlug: 'all', all } });
+}
+
+const { page, all } = Astro.props;
+---
+<CategoryArchive catSlug="all" posts={page.data} page={page} all={all} />

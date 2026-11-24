@@ -105,7 +105,7 @@ const suggestions = ['pantry organization', 'small closet', 'under-bed storage',
     var cat = CATS[post.category] || 'Guides';
     return '<article class="bg-surface-container-lowest p-space-lg rounded-xl shadow-sm hover:shadow-md transition-shadow flex flex-col md:flex-row gap-space-md group">'
       + '<div class="md:w-52 h-48 md:h-auto flex-shrink-0 relative overflow-hidden rounded-lg bg-surface-container">'
-      + '<a href="' + post.url + '"><img class="w-full h-full object-cover transition-transform duration-500 group-hover:scale-105" src="' + post.image + '" alt="' + esc(post.title) + '" loading="lazy"/></a></div>'
+      + '<a href="' + post.url + '"><img class="w-full h-full object-cover transition-transform duration-500 group-hover:scale-105" src="' + post.image.replace(/\.jpg$/i, '.webp') + '" onerror="this.onerror=null;this.src=\'' + post.image + '\'" alt="' + esc(post.title) + '" loading="lazy"/></a></div>'
       + '<div class="flex flex-col justify-between flex-grow min-w-0"><div>'
       + '<div class="flex items-center gap-space-sm mb-space-xs"><span class="font-label-caps text-label-caps uppercase tracking-wider text-secondary">' + cat + '</span></div>'
       + '<h2 class="font-headline-sm text-headline-sm text-on-surface group-hover:text-primary transition-colors mb-space-xs leading-snug"><a href="' + post.url + '">' + highlight(post.title, q) + '</a></h2>'
@@ -127,17 +127,36 @@ const suggestions = ['pantry organization', 'small closet', 'under-bed storage',
     noResults.classList.toggle('hidden', hits.length > 0);
     resultsEl.classList.toggle('hidden', hits.length === 0);
   }
-  fetch('/search-index.json').then(function(r){ return r.json(); }).then(function(data){
-    index = data;
-    var initial = new URLSearchParams(window.location.search).get('q') || '';
-    input.value = initial;
-    run(initial);
-  });
+  var indexLoaded = false;
+  function loadIndex(cb){
+    if (indexLoaded) { if (cb) cb(); return; }
+    fetch('/search-index.json').then(function(r){ return r.json(); }).then(function(data){
+      index = data;
+      indexLoaded = true;
+      var initial = new URLSearchParams(window.location.search).get('q') || '';
+      input.value = initial;
+      run(initial);
+      if (cb) cb();
+    });
+  }
+  // Fetch the index only when the user actually searches (not on page load).
+  input.addEventListener('focus', function(){ loadIndex(); }, { once: true });
+  if (new URLSearchParams(window.location.search).get('q')) loadIndex();
   var t;
-  input.addEventListener('input', function(){ clearTimeout(t); t = setTimeout(function(){ run(input.value); }, 200); });
+  input.addEventListener('input', function(){
+    clearTimeout(t);
+    t = setTimeout(function(){
+      if (!indexLoaded) loadIndex(function(){ run(input.value); });
+      else run(input.value);
+    }, 200);
+  });
   clearBtn.addEventListener('click', function(){ input.value=''; run(''); input.focus(); });
   document.querySelectorAll('.suggest-pill').forEach(function(p){
-    p.addEventListener('click', function(){ input.value = p.getAttribute('data-suggest'); run(input.value); });
+    p.addEventListener('click', function(){
+      input.value = p.getAttribute('data-suggest');
+      if (!indexLoaded) loadIndex(function(){ run(input.value); });
+      else run(input.value);
+    });
   });
 })();
 </script>

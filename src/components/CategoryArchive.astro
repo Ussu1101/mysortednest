@@ -1,9 +1,12 @@
 ---
 import Layout from '../layouts/Layout.astro';
-import { getCollection } from 'astro:content';
+import { imgProps } from '../lib/img';
 
 interface Props {
   catSlug: string; // 'all' for blog index
+  posts: any[];
+  page?: any;
+  all: any[];
 }
 
 export const CATS = [
@@ -14,9 +17,7 @@ export const CATS = [
   { slug: 'decorating', name: 'Decorating', title: 'Decorating & Living', image: '/images/cat-decorating.jpg', note: 'Calm, warm, intentional', desc: "Warm minimalism for real homes. Small styling moves, calming palettes and intentional decor that make organized spaces feel like home." },
 ];
 
-const { catSlug } = Astro.props;
-const all = (await getCollection('blog')).sort((a, b) => b.id.localeCompare(a.id));
-const posts = catSlug === 'all' ? all : all.filter((p) => p.data.category === catSlug);
+const { catSlug, posts, page, all } = Astro.props;
 const cat = CATS.find((c) => c.slug === catSlug);
 
 const title = cat ? cat.title : 'All Guides & Articles';
@@ -28,7 +29,10 @@ const heroImg = cat ? cat.image : '/images/hero-home.jpg';
 const readMins = (b: string) => Math.max(3, Math.round(b.split(/\s+/).length / 200));
 const blogHref = (p: any) => '/blog/' + p.id.replace(/\.md$/, '') + '/';
 const catNameOf = (c: string) => (CATS.find((x) => x.slug === c)?.name ?? 'Guides');
-const [featured, ...rest] = posts;
+const isFirstPage = !page || page.currentPage === 1;
+const featured = isFirstPage ? posts[0] : null;
+const rest = isFirstPage ? posts.slice(1) : posts;
+const baseUrl = catSlug === 'all' ? '/blog/' : `/categories/${catSlug}/`;
 const adjacent = CATS.filter((c) => c.slug !== catSlug).slice(0, 3);
 ---
 
@@ -80,20 +84,12 @@ const adjacent = CATS.filter((c) => c.slug !== catSlug).slice(0, 3);
 </div>
 <div class="lg:col-span-7 order-1 lg:order-2">
 <div class="aspect-[16/10] w-full rounded-lg overflow-hidden bg-surface-container">
-<a href={blogHref(featured)}><img class="w-full h-full object-cover transition-transform duration-700 group-hover:scale-[1.02]" src={featured.data.image} alt={featured.data.title} /></a>
+<a href={blogHref(featured)}><img {...imgProps(featured.data.image)} class="w-full h-full object-cover transition-transform duration-700 group-hover:scale-[1.02]" alt={featured.data.title} /></a>
 </div>
 </div>
 </article>
 </section>
-) : (
-<section class="mb-space-xl">
-<div class="bg-surface-container-low rounded-xl p-space-xl text-center">
-<span class="material-symbols-outlined text-primary text-[40px]">edit_note</span>
-<h2 class="font-headline-md text-headline-md text-on-surface mt-space-sm mb-space-xs">Fresh guides are on the way</h2>
-<p class="font-body-regular text-body-regular text-on-surface-variant max-w-xl mx-auto">We're writing the {cat?.name.toLowerCase()} guides right now — researched, original, and renter-friendly. Join the newsletter below and you'll be the first to read them.</p>
-</div>
-</section>
-)}
+) : null}
 
 {rest.length > 0 && (
 <section class="mb-space-xl">
@@ -101,7 +97,7 @@ const adjacent = CATS.filter((c) => c.slug !== catSlug).slice(0, 3);
 {rest.map((post) => (
 <article class="flex flex-col bg-surface-container-lowest rounded-xl p-space-sm shadow-sm hover:shadow-md transition-all group">
 <div class="aspect-[16/10] rounded-lg overflow-hidden bg-surface-container mb-space-sm relative">
-<a href={blogHref(post)}><img class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500" src={post.data.image} alt={post.data.title} loading="lazy"/></a>
+<a href={blogHref(post)}><img {...imgProps(post.data.image)} class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500" alt={post.data.title} loading="lazy"/></a>
 <span class="absolute top-2.5 left-2.5 bg-surface/90 px-2 py-0.5 rounded-full font-label-caps text-label-caps text-on-surface">{catNameOf(post.data.category)}</span>
 </div>
 <div class="flex items-center gap-space-xs text-on-surface-variant font-body-compact text-body-compact mb-1">
@@ -117,6 +113,28 @@ const adjacent = CATS.filter((c) => c.slug !== catSlug).slice(0, 3);
 </section>
 )}
 
+{page && page.lastPage > 1 && (
+<nav class="mb-space-xl flex flex-wrap items-center justify-center gap-space-xs" aria-label="Pagination">
+{page.url.prev ? (
+<a href={page.url.prev} class="px-space-md py-space-xs bg-surface-container-low text-on-surface rounded-lg font-label-caps text-label-caps uppercase tracking-wider hover:bg-surface-container transition-colors">← Previous</a>
+) : (
+<span class="px-space-md py-space-xs bg-surface-container-low text-outline-variant rounded-lg font-label-caps text-label-caps uppercase tracking-wider opacity-50">← Previous</span>
+)}
+{Array.from({ length: page.lastPage }, (_, i) => i + 1).map((n) => (
+  n === page.currentPage ? (
+  <span aria-current="page" class="px-space-md py-space-xs bg-primary text-on-primary rounded-lg font-label-caps text-label-caps uppercase tracking-wider">{n}</span>
+  ) : (
+  <a href={n === 1 ? baseUrl : `${baseUrl}${n}/`} class="px-space-md py-space-xs bg-surface-container-low text-on-surface rounded-lg font-label-caps text-label-caps uppercase tracking-wider hover:bg-surface-container transition-colors">{n}</a>
+  )
+))}
+{page.url.next ? (
+<a href={page.url.next} class="px-space-md py-space-xs bg-surface-container-low text-on-surface rounded-lg font-label-caps text-label-caps uppercase tracking-wider hover:bg-surface-container transition-colors">Next →</a>
+) : (
+<span class="px-space-md py-space-xs bg-surface-container-low text-outline-variant rounded-lg font-label-caps text-label-caps uppercase tracking-wider opacity-50">Next →</span>
+)}
+</nav>
+)}
+
 <section class="bg-surface-container-low rounded-xl p-space-lg md:p-space-xl mb-space-xl flex flex-col md:flex-row items-center gap-space-lg">
 <div class="flex-1">
 <span class="font-label-caps text-label-caps uppercase tracking-widest text-secondary">The Weekly Edition</span>
@@ -128,7 +146,7 @@ const adjacent = CATS.filter((c) => c.slug !== catSlug).slice(0, 3);
 </form>
 </div>
 <div class="hidden md:block w-64 shrink-0">
-<img class="w-full aspect-[4/3] object-cover rounded-lg" src={heroImg} alt={title} loading="lazy"/>
+<img {...imgProps(heroImg)} class="w-full aspect-[4/3] object-cover rounded-lg" alt={title} loading="lazy"/>
 </div>
 </section>
 
@@ -141,7 +159,7 @@ const adjacent = CATS.filter((c) => c.slug !== catSlug).slice(0, 3);
 {adjacent.map((c) => (
 <a href={`/categories/${c.slug}/`} class="group bg-surface-container-lowest rounded-xl overflow-hidden shadow-sm hover:shadow-md transition-all">
 <div class="aspect-[16/9] overflow-hidden bg-surface-container">
-<img class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500" src={c.image} alt={c.title} loading="lazy"/>
+<img {...imgProps(c.image)} class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500" alt={c.title} loading="lazy"/>
 </div>
 <div class="p-space-md">
 <p class="font-label-caps text-label-caps uppercase tracking-wider text-on-surface-variant mb-1">{all.filter((p) => p.data.category === c.slug).length} guides</p>

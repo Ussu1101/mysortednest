@@ -9,7 +9,7 @@ export async function GET() {
     category: p.data.category,
     image: p.data.image,
     date: p.data.pubDate,
-    body: p.body.slice(0, 4000),
+    body: p.body.slice(0, 500),
   }));
   return new Response(JSON.stringify(index), {
     headers: { 'Content-Type': 'application/json' },

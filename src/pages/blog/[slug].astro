@@ -1,6 +1,7 @@
 ---
 import Layout from '../../layouts/Layout.astro';
 import { getCollection, render } from 'astro:content';
+import { imgProps } from '../../lib/img';
 
 export async function getStaticPaths() {
   const posts = await getCollection('blog');
@@ -104,7 +105,7 @@ const relatedFill = related.length ? related : all.filter((p) => p.id !== post.i
 </div>
 </div>
 <figure class="mb-space-xl">
-<img class="w-full aspect-[16/8] object-cover rounded-xl" src={post.data.image} alt={post.data.title} />
+<img {...imgProps(post.data.image)} class="w-full aspect-[16/8] object-cover rounded-xl" alt={post.data.title} fetchpriority="high" />
 </figure>
 <div class="grid grid-cols-1 lg:grid-cols-12 gap-gutter">
 <!-- Left Column: Table of Contents & Quick Read Progress -->
@@ -189,7 +190,7 @@ const relatedFill = related.length ? related : all.filter((p) => p.id !== post.i
 {relatedFill.map((p) => (
 <article class="flex flex-col bg-surface-container-lowest rounded-xl p-space-sm shadow-sm hover:shadow-md transition-all group">
 <div class="aspect-[16/10] rounded-lg overflow-hidden bg-surface-container mb-space-sm relative">
-<a href={blogHref(p)}><img class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500" src={p.data.image} alt={p.data.title} loading="lazy"/></a>
+<a href={blogHref(p)}><img {...imgProps(p.data.image)} class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500" alt={p.data.title} loading="lazy"/></a>
 <span class="absolute top-2.5 left-2.5 bg-surface/90 px-2 py-0.5 rounded-full font-label-caps text-label-caps text-on-surface">{catNameOf(p.data.category)}</span>
 </div>
 <div class="flex items-center gap-space-xs text-on-surface-variant font-body-compact text-body-compact mb-1">

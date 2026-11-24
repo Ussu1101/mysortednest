@@ -1,0 +1,20 @@
+---
+import CategoryArchive from '../../../components/CategoryArchive.astro';
+import { getCollection } from 'astro:content';
+
+export async function getStaticPaths({ paginate }) {
+  const all = (await getCollection('blog')).sort((a, b) => b.id.localeCompare(a.id));
+  const cats = ['small-spaces', 'kitchen', 'closet-organization', 'storage-ideas', 'decorating'];
+  return cats.flatMap((cat) =>
+    paginate(all.filter((p) => p.data.category === cat), {
+      pageSize: 24,
+      params: { cat },
+      props: { catSlug: cat, all },
+    })
+  );
+}
+
+const { page, all } = Astro.props;
+const { cat } = Astro.params;
+---
+<CategoryArchive catSlug={cat} posts={page.data} page={page} all={all} />
