@@ -11,6 +11,7 @@ const pageUrl = canonical ? site + canonical : site + Astro.url.pathname;
 <head>
 <meta charset="UTF-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta name="referrer" content="strict-origin-when-cross-origin" /><!-- Referrer-Policy: GitHub Pages sends no security headers, so the meta tag sets it for browsers -->
 <meta name="p:domain_verify" content="c8295bfba6dffae25c86dad7c5ec271d" /><!-- Pinterest domain claim -->
 <title>{brand ? `${title} | My Sorted Nest` : title}</title>
 <meta name="description" content={description} />
