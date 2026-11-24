@@ -1,5 +1,5 @@
 ---
-title: "16 Small Entryway Bench Ideas With Hidden Storage for Tiny Halls"
+title: "16 Small Entryway Bench Ideas With Hidden Storage"
 description: "Small entryway bench ideas with hidden storage: lift-top seats, shoe cubbies, and slim benches that give tiny halls a place to sit, stash, and reset daily."
 pubDate: "November 11, 2026"
 keywords: "small entryway bench ideas, entryway bench with storage, small hallway bench storage"

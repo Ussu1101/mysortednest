@@ -1,5 +1,5 @@
 ---
-title: "17 Small Apartment Storage Ideas for Roommates (Shared Spaces That Work)"
+title: "17 Small Apartment Storage Ideas for Roommates"
 description: "Small apartment storage ideas for roommates: labeled zones, shared shelves, personal bins, and ground rules that keep shared spaces working for everyone."
 pubDate: "November 14, 2026"
 keywords: "small apartment storage ideas roommates, shared apartment storage, roommate storage ideas small apartment"

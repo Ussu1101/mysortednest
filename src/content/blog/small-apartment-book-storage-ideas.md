@@ -1,5 +1,5 @@
 ---
-title: "18 Small Apartment Book Storage Ideas (No Bookshelf Required)"
+title: "18 Small Apartment Book Storage Ideas"
 description: "Small apartment book storage ideas that work without a big bookshelf: floating shelves, under-bed stacks, door ledges, and rotation that keeps favorites close."
 pubDate: "November 12, 2026"
 keywords: "small apartment book storage ideas, book storage small space, where to store books small apartment"

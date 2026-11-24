@@ -1,5 +1,5 @@
 ---
-title: "17 Small Apartment Storage Ideas for Vinyl Records (Display, Store & Protect)"
+title: "17 Small Apartment Storage Ideas for Vinyl Records"
 description: "Small apartment storage ideas for vinyl records: cube shelves, flip bins, wall displays, and sleeves that protect your collection in even the tightest space."
 pubDate: "November 16, 2026"
 keywords: "small apartment storage ideas vinyl records, vinyl record storage small apartment, record collection storage ideas"

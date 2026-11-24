@@ -1,5 +1,5 @@
 ---
-title: "15 Small Apartment Storage Ideas for Fishing Gear (Rods, Tackle & Waders)"
+title: "15 Small Apartment Storage Ideas for Fishing Gear"
 description: "Small apartment storage ideas for fishing gear: vertical rod racks, tackle walls, wader hooks, and a grab-and-go kit that fits neatly in one closet corner."
 pubDate: "November 15, 2026"
 keywords: "small apartment storage ideas fishing gear, fishing gear storage apartment, fishing rod storage small space"

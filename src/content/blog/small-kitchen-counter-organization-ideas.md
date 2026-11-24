@@ -1,5 +1,5 @@
 ---
-title: "Small Kitchen Counter Organization: What to Keep Out (and What to Hide)"
+title: "Small Kitchen Counter Organization: What to Keep Out"
 description: "Small kitchen counter organization starts with knowing what earns the space. Learn what to keep out, what to hide, and renter-safe ways to add counter room."
 pubDate: "October 14, 2026"
 keywords: "small kitchen counter organization, kitchen counter organization ideas, tiny kitchen counter storage, small kitchen counters, renter friendly kitchen organization"

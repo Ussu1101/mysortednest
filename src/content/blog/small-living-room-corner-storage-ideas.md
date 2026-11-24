@@ -1,5 +1,5 @@
 ---
-title: "14 Small Living Room Corner Storage Ideas That Use Wasted Space"
+title: "14 Small Living Room Corner Storage Ideas"
 description: "Small living room corner storage ideas that turn wasted corners into real storage: corner shelves, cabinets, baskets, and reading nooks that fit small spaces."
 pubDate: "November 7, 2026"
 keywords: "small living room corner storage ideas, living room corner storage, corner storage small apartment"

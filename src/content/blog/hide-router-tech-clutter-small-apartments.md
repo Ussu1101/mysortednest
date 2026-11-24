@@ -1,5 +1,5 @@
 ---
-title: "15 Small Apartment Ideas to Hide Your Router and Tech Clutter"
+title: "15 Small Apartment Ideas to Hide Router Clutter"
 description: "15 ideas to hide router small apartment clutter — ventilated boxes, bookshelf camouflage, and cable-free walls that keep your Wi-Fi fast and strong every day."
 pubDate: "November 24, 2026"
 keywords: "hide router small apartment, hide tech clutter apartment, router storage ideas"

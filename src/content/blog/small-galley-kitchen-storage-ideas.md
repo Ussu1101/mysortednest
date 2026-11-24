@@ -1,5 +1,5 @@
 ---
-title: "16 Small Galley Kitchen Storage Ideas That Make a Narrow Kitchen Work"
+title: "16 Small Galley Kitchen Storage Ideas"
 description: "Small galley kitchen storage ideas for narrow layouts: wall rails, door racks, and pull-outs that stop the two-wall squeeze from wasting any space at all."
 pubDate: "November 11, 2026"
 keywords: "small galley kitchen storage ideas, narrow galley kitchen organization, galley kitchen storage"

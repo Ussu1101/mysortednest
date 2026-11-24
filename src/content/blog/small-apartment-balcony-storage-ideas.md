@@ -1,5 +1,5 @@
 ---
-title: "16 Small Apartment Balcony Storage Ideas (Use Every Inch Outside)"
+title: "16 Small Apartment Balcony Storage Ideas"
 description: "Small apartment balcony storage ideas that work outdoors: weatherproof bins, vertical planters, fold-away furniture, and renter-safe systems for tiny spaces."
 pubDate: "November 21, 2026"
 keywords: "small apartment balcony storage ideas, balcony storage ideas apartment, small balcony organization"

@@ -1,5 +1,5 @@
 ---
-title: "15 Fold-Down Table Ideas for Tiny Kitchens (Eat-In Space That Disappears)"
+title: "15 Fold-Down Table Ideas for Tiny Kitchens"
 description: "Fold-down table ideas for tiny kitchens: wall-mounted drop-leaf tables, gateleg dining, window nooks, and eat-in setups that vanish when you need the room."
 pubDate: "October 21, 2026"
 keywords: "fold down table ideas small kitchen, tiny kitchen dining ideas, wall mounted table small kitchen"

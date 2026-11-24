@@ -1,5 +1,5 @@
 ---
-title: "16 Small Makeup Organization Ideas for Tiny Vanities and Bathrooms"
+title: "16 Small Makeup Organization Ideas"
 description: "Small makeup organization ideas for tiny vanities and bathrooms: acrylic risers, drawer dividers, magnetic boards, and systems that end the counter pile."
 pubDate: "November 17, 2026"
 keywords: "small makeup organization ideas, tiny vanity makeup storage, small bathroom makeup organization"

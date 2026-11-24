@@ -1,5 +1,5 @@
 ---
-title: "15 Indoor Plant Display Ideas for Small Apartments (Green Without the Clutter)"
+title: "15 Indoor Plant Display Ideas for Small Apartments"
 description: "Indoor plant display ideas for small apartments: wall shelves, hanging planters, window ledges, and watering systems that keep plants thriving without clutter."
 pubDate: "November 3, 2026"
 keywords: "indoor plant display ideas small apartment, small apartment plant storage, plant shelf ideas apartment"

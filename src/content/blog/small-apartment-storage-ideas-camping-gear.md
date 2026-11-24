@@ -1,5 +1,5 @@
 ---
-title: "15 Small Apartment Storage Ideas for Camping Gear (No Garage Needed)"
+title: "15 Small Apartment Storage Ideas for Camping Gear"
 description: "Small apartment storage ideas for camping gear: vacuum bags, ceiling hooks, under-bed bins, and a grab-and-go kit that fits neatly in a single closet."
 pubDate: November 15, 2026
 keywords: small apartment storage ideas camping gear, camping gear storage apartment, outdoor gear storage small space

@@ -1,5 +1,5 @@
 ---
-title: "17 Small Bedroom Storage Ideas for Teenagers (Desk, Clothes & Hobbies)"
+title: "17 Small Bedroom Storage Ideas for Teenagers"
 description: "Small bedroom storage ideas for teenagers: desk zones, closet systems, and hobby storage that fit a tiny teen room without a full makeover or a bigger room."
 pubDate: "November 16, 2026"
 keywords: "small bedroom storage ideas teenagers, teen bedroom organization ideas, small teen room storage"

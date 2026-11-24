@@ -1,5 +1,5 @@
 ---
-title: "16 Sports Gear Storage Ideas for Small Apartments (Beyond the Bike)"
+title: "16 Sports Gear Storage Ideas for Small Apartments"
 description: "Sports gear storage ideas for small apartments: wall racks for boards and racquets, ball bins, and grab-and-go kits that keep every season's sport ready."
 pubDate: "November 9, 2026"
 keywords: "sports gear storage small apartment, small apartment sports equipment storage, storing sports gear apartment"

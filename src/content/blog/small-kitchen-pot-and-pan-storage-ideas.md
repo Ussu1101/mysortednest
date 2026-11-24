@@ -1,5 +1,5 @@
 ---
-title: "17 Small Kitchen Pot and Pan Storage Ideas That Free Your Cabinets"
+title: "17 Small Kitchen Pot and Pan Storage Ideas"
 description: "Small kitchen pot and pan storage ideas that free your cabinets: lid racks, wall hooks, drawer dividers, and vertical filing that works in any tiny kitchen."
 pubDate: "November 17, 2026"
 keywords: "small kitchen pot and pan storage ideas, pot and pan organization small kitchen, kitchen pan storage ideas"

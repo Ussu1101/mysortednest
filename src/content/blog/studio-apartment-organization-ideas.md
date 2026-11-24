@@ -1,5 +1,5 @@
 ---
-title: "18 Studio Apartment Organization Ideas (One Room, Five Zones)"
+title: "18 Studio Apartment Organization Ideas"
 description: "18 studio apartment organization ideas that turn one room into five zones — sleep, kitchen, work, living, storage — with renter-safe dividers and tips."
 pubDate: "October 22, 2026"
 keywords: "studio apartment organization ideas, small studio apartment storage, studio apartment organization tips"

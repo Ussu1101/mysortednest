@@ -1,5 +1,5 @@
 ---
-title: "16 Small Apartment Charger and Cable Organization Ideas That End the Tangle"
+title: "16 Small Apartment Charger and Cable Organization Ideas"
 description: "Small apartment charger and cable organization ideas: charging stations, labeled cables, and hidden cord route ideas that end the nightly tangle for good."
 pubDate: "November 18, 2026"
 keywords: "small apartment charger organization ideas, cable organization small apartment, charging station ideas apartment"

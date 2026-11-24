@@ -1,5 +1,5 @@
 ---
-title: "17 Small Bathroom Laundry Organization Ideas (When the Machines Live in the Bathroom)"
+title: "17 Small Bathroom Laundry Organization Ideas"
 description: "Small bathroom laundry organization ideas for machines in the bathroom: over-toilet shelves, slim carts, drying racks, and humidity-safe storage that works."
 pubDate: "November 23, 2026"
 keywords: "small bathroom laundry organization, bathroom laundry room ideas, laundry in bathroom storage"

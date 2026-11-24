@@ -1,5 +1,5 @@
 ---
-title: "15 Small Apartment Storage Ideas for Renters (No Drilling, No Damage)"
+title: "15 Small Apartment Storage Ideas for Renters"
 description: "Small apartment storage ideas for renters with zero drilling: renter-safe hooks, tension rods, freestanding shelves, and systems that move out cleanly."
 pubDate: "November 7, 2026"
 keywords: "small apartment storage ideas for renters, renter friendly storage ideas, apartment storage no drilling, small apartment organization renters"

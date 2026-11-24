@@ -1,5 +1,5 @@
 ---
-title: "16 Kitchen Trash and Bin Ideas for Tiny Kitchens (No Ugly Bin in the Way)"
+title: "16 Kitchen Trash and Bin Ideas for Tiny Kitchens"
 description: "Kitchen trash and bin ideas for tiny kitchens: pull-outs, cabinet-door bins, slim carts, and sorting systems that hide the bin without losing floor space."
 pubDate: "October 31, 2026"
 keywords: "kitchen trash bin ideas small kitchen, tiny kitchen garbage storage, small kitchen bin organization"

@@ -1,5 +1,5 @@
 ---
-title: "18 Under-Bed Storage Ideas That Turn Dead Space Into a Dresser"
+title: "18 Under-Bed Storage Ideas for Small Bedrooms"
 description: "Under-bed storage ideas that reclaim 30+ cubic feet in small bedrooms: flat bins, rolling drawers, and dust-proof bags that stay organized and easy to reach."
 pubDate: "October 19, 2026"
 keywords: "under bed storage ideas, under bed organization, small bedroom under bed storage"

@@ -1,5 +1,5 @@
 ---
-title: "15 Small Kitchen Cutting Board Storage Ideas (End the Leaning Stack)"
+title: "15 Small Kitchen Cutting Board Storage Ideas"
 description: "Small kitchen cutting board storage ideas: vertical racks, door mounts, and slim dividers that end the leaning stack and free up cabinet space for good."
 pubDate: "November 1, 2026"
 keywords: "small kitchen cutting board storage, cutting board organizer ideas, tiny kitchen cutting board storage"

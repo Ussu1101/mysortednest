@@ -1,5 +1,5 @@
 ---
-title: "15 Small Bathroom Hair Tool Storage Ideas That End the Cord Tangle"
+title: "15 Small Bathroom Hair Tool Storage Ideas"
 description: "Small bathroom hair tool storage ideas that end the cord tangle: heat-safe holders, door racks, drawer zones, and renter-safe mounts for dryers and stylers."
 pubDate: "November 17, 2026"
 keywords: "small bathroom hair tool storage ideas, hair dryer storage small bathroom, hair tool organizer ideas"

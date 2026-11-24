@@ -1,5 +1,5 @@
 ---
-title: "16 Small Apartment Storage Ideas for Collectors (Display It, Store the Rest)"
+title: "16 Small Apartment Storage Ideas for Collectors"
 description: "Small apartment storage ideas for collectors: display rotation, protective cases, and cataloging systems that show off favorites without burying the room."
 pubDate: "November 14, 2026"
 keywords: "small apartment storage ideas collectors, collectibles storage small space, display storage small apartment"

@@ -1,5 +1,5 @@
 ---
-title: "16 Small Kitchen Open Shelving Storage Ideas That Actually Stay Tidy"
+title: "16 Small Kitchen Open Shelving Storage Ideas"
 description: "Small kitchen open shelving storage ideas that stay tidy: what earns a shelf, uniform stacks, daily-use zones, and the weekly reset that keeps it calm."
 pubDate: "November 8, 2026"
 keywords: "small kitchen open shelving ideas, open shelf kitchen storage, tiny kitchen open shelves organization"

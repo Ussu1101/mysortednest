@@ -1,5 +1,5 @@
 ---
-title: "17 Accessory Organization Ideas for Small Closets (Scarves, Bags & Belts)"
+title: "17 Accessory Organization Ideas for Small Closets"
 description: "Accessory organization ideas for small closets: scarf rings, bag dividers, and belt racks that end tangles and keep every piece visible daily in any home."
 pubDate: "October 27, 2026"
 keywords: "accessory organization ideas, small closet accessory storage, scarf belt bag organization"

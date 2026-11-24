@@ -1,5 +1,5 @@
 ---
-title: "15 Small Apartment Robot Vacuum Storage Ideas That Hide the Dock"
+title: "15 Small Apartment Robot Vacuum Storage Ideas"
 description: "Small apartment robot vacuum storage ideas that hide the dock: under-furniture garages, closet docks, and kick-plate hideaways that charge out of sight."
 pubDate: "November 24, 2026"
 keywords: "small apartment robot vacuum storage, hide robot vacuum dock, robot vacuum dock ideas"

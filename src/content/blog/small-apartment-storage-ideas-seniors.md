@@ -1,5 +1,5 @@
 ---
-title: "16 Small Apartment Storage Ideas for Seniors (Safe, Reachable, Clutter-Free)"
+title: "16 Small Apartment Storage Ideas for Seniors"
 description: "Small apartment storage ideas for seniors: waist-height zones, easy-grip bins, good lighting, and clutter-free paths that make daily living safer and simpler."
 pubDate: "November 14, 2026"
 keywords: "small apartment storage ideas seniors, senior apartment organization, accessible storage small apartment"

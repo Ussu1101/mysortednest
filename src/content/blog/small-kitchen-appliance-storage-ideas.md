@@ -1,5 +1,5 @@
 ---
-title: "18 Small Kitchen Appliance Storage Ideas (Clear the Counter for Good)"
+title: "18 Small Kitchen Appliance Storage Ideas"
 description: "Small kitchen appliance storage ideas that clear your counters: appliance garages, deep drawers, pull-outs, and rules for what earns a permanent spot."
 pubDate: "October 28, 2026"
 keywords: "small kitchen appliance storage ideas, kitchen appliance organization, tiny kitchen appliance storage, where to store kitchen appliances"

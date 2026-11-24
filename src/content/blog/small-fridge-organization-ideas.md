@@ -1,5 +1,5 @@
 ---
-title: "15 Small Fridge Organization Ideas That End the 'What's in There' Game"
+title: "15 Small Fridge Organization Ideas"
 description: "Small fridge organization ideas that end food waste for good: shelf zones, clear bins, door rules, the eat-first box, and a quick 5-minute weekly audit."
 pubDate: "October 17, 2026"
 keywords: "small fridge organization ideas, tiny fridge organization, mini fridge organization ideas"

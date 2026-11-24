@@ -1,5 +1,5 @@
 ---
-title: "15 Small Apartment Media Storage Ideas for TVs, Consoles, and Cables"
+title: "15 Small Apartment Media Storage Ideas"
 description: "Small apartment media storage ideas: TV consoles, game storage, and cable control that keep a small living room calm, tidy, and clutter-free every day."
 pubDate: "November 10, 2026"
 keywords: "small apartment media storage ideas, tv console organization small living room, media cabinet organization"

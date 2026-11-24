@@ -1,5 +1,5 @@
 ---
-title: "17 Kids Bedroom Storage Ideas for Small Rooms (Room to Play, Room to Tidy)"
+title: "17 Kids Bedroom Storage Ideas for Small Rooms"
 description: "Kids bedroom storage ideas for small rooms: low bins, wall shelves, and under-bed zones that keep toys and clothes tidy without squeezing out play space."
 pubDate: "November 2, 2026"
 keywords: "kids bedroom storage ideas small rooms, small kids room organization, tiny kids bedroom storage"

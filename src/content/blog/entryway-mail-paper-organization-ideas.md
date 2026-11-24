@@ -1,5 +1,5 @@
 ---
-title: "15 Entryway Mail and Paper Organization Ideas for Small Homes"
+title: "15 Entryway Mail and Paper Organization Ideas"
 description: "Entryway mail and paper organization ideas for small homes: wall sorters, one inbox tray, and a weekly paper routine that stops piles at the door every day."
 pubDate: "October 31, 2026"
 keywords: "entryway mail organization ideas, small home mail station, paper organization entryway"

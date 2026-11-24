@@ -1,5 +1,5 @@
 ---
-title: "18 Board Game Storage Ideas for Small Apartments (No More Box Towers)"
+title: "18 Board Game Storage Ideas for Small Apartments"
 description: "Board game storage ideas for small apartments: ditch the box towers with vertical shelving, zip bags, and slim cabinets that keep every game ready to play."
 pubDate: "November 1, 2026"
 keywords: "board game storage ideas small apartments, board game storage small space, how to store board games apartment"

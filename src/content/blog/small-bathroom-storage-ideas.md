@@ -1,5 +1,5 @@
 ---
-title: "18 Small Bathroom Storage Ideas That Make a Tiny Bathroom Work Harder"
+title: "18 Small Bathroom Storage Ideas"
 description: "Small bathroom storage ideas that actually fit: over-toilet shelving, vanity zones, door organizers, and renter-safe upgrades for tiny bathroom spaces."
 pubDate: "October 18, 2026"
 keywords: "small bathroom storage ideas, tiny bathroom organization, small bathroom organization ideas"

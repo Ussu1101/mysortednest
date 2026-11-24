@@ -1,5 +1,5 @@
 ---
-title: "16 Above-Fridge Storage Ideas for Small Kitchens (That Dead Space Above the Refrigerator)"
+title: "16 Above-Fridge Storage Ideas for Small Kitchens"
 description: "Above-fridge storage ideas for small kitchens: measure the dead space, build reachable zones with bins, and learn what never belongs above the fridge."
 pubDate: "October 21, 2026"
 keywords: "above fridge storage ideas, above refrigerator storage ideas, small kitchen storage above fridge"

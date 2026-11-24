@@ -1,5 +1,5 @@
 ---
-title: "18 Small Kitchen Cabinet Organization Ideas That Maximize Every Shelf"
+title: "18 Small Kitchen Cabinet Organization Ideas"
 description: "Small kitchen cabinet organization with 18 renter-friendly ideas: shelf risers, stackable bins, lazy Susans, lid storage, door racks, and zones that double every shelf."
 pubDate: "October 13, 2026"
 keywords: "small kitchen cabinet organization, tiny kitchen storage ideas, small kitchen organization ideas, small kitchen cabinet storage"

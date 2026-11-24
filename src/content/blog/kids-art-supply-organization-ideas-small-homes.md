@@ -1,5 +1,5 @@
 ---
-title: "15 Kids' Art Supply Organization Ideas for Small Homes (Contain the Creativity)"
+title: "15 Kids' Art Supply Organization Ideas for Small Homes"
 description: "Kids art supply organization ideas for small homes: rolling carts, labeled bins, and display systems that contain the creativity without taking over the house."
 pubDate: "October 30, 2026"
 keywords: "kids art supply organization, kids craft storage small spaces, art supply storage kids"

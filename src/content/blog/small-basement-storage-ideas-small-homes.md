@@ -1,5 +1,5 @@
 ---
-title: "18 Small Basement Storage Ideas for Small Homes (Dry, Labeled, Reachable)"
+title: "18 Small Basement Storage Ideas for Small Homes"
 description: "Small basement storage ideas for small homes: moisture-proof bins, wall systems, and zones that keep everything dry, labeled, and reachable every day."
 pubDate: "November 10, 2026"
 keywords: "small basement storage ideas, basement organization small space, basement storage systems"

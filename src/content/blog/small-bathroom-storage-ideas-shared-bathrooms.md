@@ -1,5 +1,5 @@
 ---
-title: "16 Small Bathroom Storage Ideas for Shared Bathrooms (No More Counter Wars)"
+title: "16 Small Bathroom Storage Ideas for Shared Bathrooms"
 description: "Small bathroom storage ideas for shared bathrooms: labeled zones, personal caddies, color-coded towels, and a nightly reset that ends the counter wars."
 pubDate: "November 7, 2026"
 keywords: "small bathroom storage ideas shared bathroom, shared bathroom organization, tiny shared bathroom storage"

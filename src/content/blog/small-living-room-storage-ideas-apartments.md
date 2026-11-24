@@ -1,5 +1,5 @@
 ---
-title: "17 Small Living Room Storage Ideas for Apartments (No Built-Ins Needed)"
+title: "17 Small Living Room Storage Ideas for Apartments"
 description: "Small living room storage ideas for apartments with no built-ins: media walls, hidden seating storage, and zones that keep a tiny living room calm and tidy."
 pubDate: "October 30, 2026"
 keywords: "small living room storage ideas, apartment living room storage, tiny living room organization"

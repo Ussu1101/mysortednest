@@ -1,5 +1,5 @@
 ---
-title: "16 Small Kitchen Herb Garden Ideas for Tiny Kitchens (Fresh Herbs, No Counter Lost)"
+title: "16 Small Kitchen Herb Garden Ideas for Tiny Kitchens"
 description: "Small kitchen herb garden ideas for tiny kitchens: windowsill planters, wall pockets, and rail systems that grow fresh herbs without losing counter space."
 pubDate: "November 23, 2026"
 keywords: "small kitchen herb garden ideas, indoor herb garden small kitchen, kitchen herb storage ideas"

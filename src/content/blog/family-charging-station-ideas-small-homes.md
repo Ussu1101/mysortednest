@@ -1,5 +1,5 @@
 ---
-title: "15 Family Charging Station Ideas for Small Homes (End the Cable Chaos)"
+title: "15 Family Charging Station Ideas for Small Homes"
 description: "Family charging station ideas for small homes: one tidy hub for every phone, tablet, and laptop, with cables labeled, hidden, and always ready to go every day."
 pubDate: "October 29, 2026"
 keywords: "family charging station ideas, charging station organization, small home charging station, cable organization ideas"

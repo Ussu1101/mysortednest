@@ -1,5 +1,5 @@
 ---
-title: "15 Small Bedroom Storage Ideas for Sloped Ceilings and Attic Rooms"
+title: "15 Small Bedroom Storage Ideas for Sloped Ceilings"
 description: "Small bedroom storage ideas for sloped ceilings: low-profile furniture, knee-wall drawers, under-eaves bins, and storage systems that fit the awkward angles."
 pubDate: "November 8, 2026"
 keywords: "small bedroom storage sloped ceiling, attic bedroom storage ideas, sloped ceiling bedroom organization"

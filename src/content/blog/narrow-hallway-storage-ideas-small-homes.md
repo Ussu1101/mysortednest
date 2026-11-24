@@ -1,5 +1,5 @@
 ---
-title: "17 Narrow Hallway Storage Ideas for Small Homes (No More Wasted Walls)"
+title: "17 Narrow Hallway Storage Ideas for Small Homes"
 description: "Narrow hallway storage ideas for small homes: slim consoles, wall ledges, hooks, and hidden nooks that turn a pass-through into useful everyday storage."
 pubDate: "October 28, 2026"
 keywords: "narrow hallway storage ideas, small hallway storage, hallway organization ideas, narrow hallway ideas"

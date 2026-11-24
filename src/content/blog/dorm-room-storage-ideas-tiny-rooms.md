@@ -1,5 +1,5 @@
 ---
-title: "18 Dorm Room Storage Ideas for Tiny Rooms (No Drilling, No Damage)"
+title: "18 Dorm Room Storage Ideas for Tiny Rooms"
 description: "Dorm room storage ideas for tiny shared rooms: under-bed systems, over-door organizers, desk zones, and renter-safe tricks that survive move-out day."
 pubDate: "November 3, 2026"
 keywords: "dorm room storage ideas, small dorm room organization, college dorm storage ideas"

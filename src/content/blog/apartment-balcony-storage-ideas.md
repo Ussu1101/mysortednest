@@ -1,5 +1,5 @@
 ---
-title: "16 Small Apartment Balcony Storage Ideas (Weatherproof & Renter-Safe)"
+title: "16 Small Apartment Balcony Storage Ideas"
 description: "Small apartment balcony storage ideas that survive real weather: deck boxes, vertical racks, sealed bins, and renter-safe systems that keep all your gear dry."
 pubDate: "October 20, 2026"
 keywords: "apartment balcony storage ideas, small balcony storage ideas, balcony storage box ideas"

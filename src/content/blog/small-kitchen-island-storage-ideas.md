@@ -1,5 +1,5 @@
 ---
-title: "17 Small Kitchen Island Storage Ideas for Tiny Kitchens (No Space Wasted)"
+title: "17 Small Kitchen Island Storage Ideas for Tiny Kitchens"
 description: "Small kitchen island storage ideas that turn a tiny island into your hardest-working surface: shelves, drawers, seating storage, and renter-friendly upgrades."
 pubDate: "November 2, 2026"
 keywords: "small kitchen island storage ideas, tiny kitchen island organization, small island storage solutions"

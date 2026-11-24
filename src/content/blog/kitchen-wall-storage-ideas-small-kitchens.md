@@ -1,5 +1,5 @@
 ---
-title: "17 Kitchen Wall Storage Ideas for Small Kitchens (No Counter Space Wasted)"
+title: "17 Kitchen Wall Storage Ideas for Small Kitchens"
 description: "Kitchen wall storage ideas for small kitchens: magnetic rails, pegboards, open shelves and renter-safe mounts that move tools off counters and cabinets."
 pubDate: "October 17, 2026"
 keywords: "kitchen wall storage ideas, small kitchen wall organization, kitchen wall mounted storage ideas"

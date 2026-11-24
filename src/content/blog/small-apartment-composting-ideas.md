@@ -1,5 +1,5 @@
 ---
-title: "16 Small Apartment Composting Ideas (From Countertop to Balcony)"
+title: "16 Small Apartment Composting Ideas"
 description: "Small apartment composting ideas that don't smell: countertop bins, freezer scraps, bokashi, worm bins and balcony systems for tiny kitchens and renters."
 pubDate: "November 18, 2026"
 keywords: "small apartment composting ideas, apartment composting without smell, countertop compost bin ideas"

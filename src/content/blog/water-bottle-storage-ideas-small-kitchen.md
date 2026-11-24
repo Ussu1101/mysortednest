@@ -1,5 +1,5 @@
 ---
-title: "15 Water Bottle Storage Ideas for Small Kitchens (Tumblers Included)"
+title: "15 Water Bottle Storage Ideas for Small Kitchens"
 description: "Water bottle storage ideas for small kitchens: upright racks, cabinet zones, and drawer dividers that end the tumbler avalanche for good — 15 ideas."
 pubDate: "November 21, 2026"
 keywords: "water bottle storage ideas small kitchen, water bottle storage small kitchen, tumbler storage ideas"

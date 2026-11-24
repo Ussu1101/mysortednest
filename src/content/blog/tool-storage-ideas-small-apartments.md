@@ -1,5 +1,5 @@
 ---
-title: "16 Small Apartment Tool Storage Ideas (Every Tool Findable, No Closet Lost)"
+title: "16 Small Apartment Tool Storage Ideas"
 description: "Small apartment tool storage ideas: a compact kit, wall hooks, and slim boxes that keep every tool findable without giving up a whole closet to them all."
 pubDate: "November 1, 2026"
 keywords: "small apartment tool storage ideas, apartment tool organization, tiny space tool storage"

@@ -1,5 +1,5 @@
 ---
-title: "16 Laundry Room Wall Organization Ideas for Small Laundry Spaces"
+title: "16 Laundry Room Wall Organization Ideas"
 description: "Laundry room wall organization ideas for small spaces: sturdy shelves, pegboards, wall-mounted drying racks, and renter-safe mounts that free the floor."
 pubDate: "October 24, 2026"
 keywords: "laundry room wall organization ideas, small laundry room wall storage, laundry room wall shelves ideas, apartment laundry wall organization"

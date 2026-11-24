@@ -1,5 +1,5 @@
 ---
-title: "16 Blind Corner Kitchen Cabinet Storage Ideas That Waste Nothing"
+title: "16 Blind Corner Kitchen Cabinet Storage Ideas"
 description: "Blind corner cabinet storage ideas that reclaim the dead zone: pull-out shelves, swing trays, turntables, and smart systems that keep every inch reachable."
 pubDate: "October 19, 2026"
 keywords: "blind corner cabinet storage ideas, kitchen blind corner storage, corner kitchen cabinet organization"

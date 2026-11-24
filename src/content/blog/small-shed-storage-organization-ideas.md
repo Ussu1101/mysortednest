@@ -1,5 +1,5 @@
 ---
-title: "17 Small Shed Storage Organization Ideas (Every Tool Findable)"
+title: "17 Small Shed Storage Organization Ideas"
 description: "Small shed storage organization ideas that make every tool findable: wall systems, zones, and weatherproof bins for garden sheds with no room to spare."
 pubDate: November 23, 2026
 keywords: small shed storage organization, garden shed organization ideas, small shed storage ideas

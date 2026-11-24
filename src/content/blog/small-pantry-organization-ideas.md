@@ -1,5 +1,5 @@
 ---
-title: "17 Pantry Organization Ideas for Small Pantries (or No Pantry at All)"
+title: "17 Pantry Organization Ideas for Small Pantries"
 description: "Small pantry organization ideas that maximize tiny shelves: zones, clear bins, shelf risers and door racks — plus smart systems when you have no pantry at all."
 pubDate: "October 19, 2026"
 keywords: "small pantry organization ideas, tiny pantry storage, no pantry kitchen organization"

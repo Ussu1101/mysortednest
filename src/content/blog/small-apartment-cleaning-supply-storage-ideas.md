@@ -1,5 +1,5 @@
 ---
-title: "15 Cleaning Supply Storage Ideas for Small Apartments (No Cluttered Closet)"
+title: "15 Cleaning Supply Storage Ideas for Small Apartments"
 description: "Cleaning supply storage ideas for small apartments: caddies, door racks, and under-sink zones that keep every bottle reachable without a cluttered closet."
 pubDate: "November 12, 2026"
 keywords: "cleaning supply storage ideas, small apartment cleaning supplies organization, cleaning closet organization small space"

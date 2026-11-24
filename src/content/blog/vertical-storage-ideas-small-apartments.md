@@ -1,5 +1,5 @@
 ---
-title: "19 Vertical Storage Ideas for Small Apartments (Think Up, Not Out)"
+title: "19 Vertical Storage Ideas for Small Apartments"
 description: "Vertical storage ideas for small apartments: tall shelves, high zones, and wall systems that multiply your storage without ever losing any floor space."
 pubDate: "October 18, 2026"
 keywords: "vertical storage ideas, small apartment vertical storage, use vertical space small apartment, tall storage small apartment, renter friendly vertical storage"

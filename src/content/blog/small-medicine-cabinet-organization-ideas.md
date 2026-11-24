@@ -1,5 +1,5 @@
 ---
-title: "16 Small Medicine Cabinet Organization Ideas That Make Mornings Faster"
+title: "16 Small Medicine Cabinet Organization Ideas"
 description: "Small medicine cabinet organization ideas: zones for daily meds, first aid, and vitamins, plus expiry checks that keep a tiny cabinet safe and fast to use."
 pubDate: "November 19, 2026"
 keywords: "small medicine cabinet organization, medicine cabinet organization ideas, tiny bathroom medicine storage"

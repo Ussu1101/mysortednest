@@ -1,5 +1,5 @@
 ---
-title: "17 Small Laundry Room Organization Ideas for Stacked Machines"
+title: "17 Small Laundry Room Organization Ideas"
 description: "Small laundry room organization ideas for stacked washer dryers: side-gap carts, shelves above the tower, folding zones, and a drying setup that fits."
 pubDate: "November 7, 2026"
 keywords: "small laundry room organization stacked washer dryer, stacked washer dryer storage ideas, tiny laundry room organization"

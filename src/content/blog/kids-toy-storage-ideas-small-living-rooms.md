@@ -1,5 +1,5 @@
 ---
-title: "18 Kids Toy Storage Ideas for Small Living Rooms (Toys Without the Chaos)"
+title: "18 Kids Toy Storage Ideas for Small Living Rooms"
 description: "Kids toy storage ideas for small living rooms: hidden bins, toy rotation systems, and storage furniture that swallows toys whole so your space stays livable."
 pubDate: "October 21, 2026"
 keywords: "kids toy storage ideas small living room, small space toy storage, toddler toy storage apartment, toy organization small living room"

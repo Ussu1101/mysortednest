@@ -1,5 +1,5 @@
 ---
-title: "16 Small Apartment Storage Ideas for Photography Gear (Cameras, Lenses & Backdrops)"
+title: "16 Small Apartment Storage Ideas for Photography Gear"
 description: "Small apartment storage ideas for photography gear: padded dividers, lens walls, backdrop rolls, and a grab-and-go bag that fits neatly in one closet shelf."
 pubDate: November 15, 2026
 keywords: small apartment storage ideas photography gear, camera gear storage apartment, photography equipment storage small space

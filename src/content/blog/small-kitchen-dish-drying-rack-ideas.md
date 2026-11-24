@@ -1,5 +1,5 @@
 ---
-title: "16 Small Kitchen Dish Drying Rack Ideas That Don't Eat Your Counter"
+title: "16 Small Kitchen Dish Drying Rack Ideas"
 description: "Small kitchen dish drying rack ideas that dry dishes fast without eating your counter: over-sink racks, roll-up mats, and fold-away designs for tiny kitchens."
 pubDate: "November 21, 2026"
 keywords: "small kitchen dish drying rack ideas, dish drying rack small kitchen, tiny kitchen dish drying ideas, over sink dish rack, roll up dish drying mat"

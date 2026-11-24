@@ -1,5 +1,5 @@
 ---
-title: "16 Small Laundry Sorting System Ideas for Apartments (No More Floor Piles)"
+title: "16 Small Laundry Sorting System Ideas for Apartments"
 description: "Small laundry sorting system ideas for apartments: slim hampers, color-coded zones, and a wash-day flow that ends the pile on the bedroom floor for good."
 pubDate: "November 3, 2026"
 keywords: "small laundry sorting system ideas, apartment laundry sorting, laundry hamper system small space"

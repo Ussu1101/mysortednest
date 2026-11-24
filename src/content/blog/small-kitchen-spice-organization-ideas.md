@@ -1,5 +1,5 @@
 ---
-title: "16 Small Kitchen Spice Organization Ideas That End the Jumbled Drawer"
+title: "16 Small Kitchen Spice Organization Ideas"
 description: "Small kitchen spice organization ideas that end the jumbled drawer: pull-out racks, tiered risers, door storage, and labels that actually survive cooking."
 pubDate: "November 12, 2026"
 keywords: "small kitchen spice organization ideas, spice storage small kitchen, tiny kitchen spice rack ideas, kitchen spice organization"

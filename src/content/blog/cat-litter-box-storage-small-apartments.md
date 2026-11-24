@@ -1,5 +1,5 @@
 ---
-title: "15 Cat Litter Box Storage Ideas for Small Apartments (Hidden, Ventilated, Odor-Free)"
+title: "15 Cat Litter Box Storage Ideas for Small Apartments"
 description: "Cat litter box storage ideas for small apartments: hidden furniture, ventilated cabinets, odor control, and litter tracking fixes that keep small homes fresh."
 pubDate: "November 19, 2026"
 keywords: "cat litter box storage ideas, hidden litter box small apartment, litter box furniture ideas"

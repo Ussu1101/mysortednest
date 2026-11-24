@@ -1,5 +1,5 @@
 ---
-title: "16 Entryway Coat Storage Ideas for Apartments Without a Closet"
+title: "16 Entryway Coat Storage Ideas Without a Closet"
 description: "Entryway coat storage ideas for apartments with no coat closet: wall hooks, slim racks, over-door systems, and renter-safe seasonal rotation."
 pubDate: "October 19, 2026"
 keywords: "entryway coat storage ideas, apartment coat storage no closet, small entryway coat ideas"

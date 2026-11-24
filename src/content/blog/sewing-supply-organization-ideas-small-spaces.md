@@ -1,5 +1,5 @@
 ---
-title: "17 Sewing Supply Organization Ideas for Small Spaces (No Spare Room Needed)"
+title: "17 Sewing Supply Organization Ideas for Small Spaces"
 description: "Sewing supply organization ideas for small spaces: thread walls, fabric folding, notions in clear jars, and a portable kit that packs away in minutes."
 pubDate: "November 4, 2026"
 keywords: "sewing supply organization ideas, small space craft storage sewing, sewing room organization small"

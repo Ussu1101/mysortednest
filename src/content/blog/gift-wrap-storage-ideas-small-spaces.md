@@ -1,5 +1,5 @@
 ---
-title: "15 Gift Wrap Storage Ideas for Small Spaces (No More Tangled Rolls)"
+title: "15 Gift Wrap Storage Ideas for Small Spaces"
 description: "Gift wrap storage ideas for small spaces: vertical rolls, flat bins, and door-hung organizers that end the tangled-roll mess and keep every holiday ready."
 pubDate: "October 29, 2026"
 keywords: "gift wrap storage ideas, wrapping paper storage small spaces, gift wrap organization"

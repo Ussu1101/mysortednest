@@ -1,5 +1,5 @@
 ---
-title: "15 Small Bedroom Nightstand Alternatives That Save Floor Space"
+title: "15 Small Bedroom Nightstand Alternatives"
 description: "Small bedroom nightstand alternatives for tight rooms: floating wall shelves, clip-on trays, headboard storage, and bedside ideas that need zero floor space."
 pubDate: "October 19, 2026"
 keywords: "small bedroom nightstand alternatives, tiny nightstand ideas, small space bedside storage"

@@ -1,5 +1,5 @@
 ---
-title: "16 Small Apartment Storage Ideas for Students (Dorms, Textbooks & Tiny Desks)"
+title: "16 Small Apartment Storage Ideas for Students"
 description: "Small apartment storage ideas for students: desk zones, textbook shelves, under-bed bins, and a grab-and-go study kit that fits a dorm or shared flat."
 pubDate: November 15, 2026
 keywords: "small apartment storage ideas students, student apartment organization, dorm room storage ideas small space"

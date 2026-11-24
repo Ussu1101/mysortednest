@@ -1,5 +1,5 @@
 ---
-title: "18 Small Garage Organization Ideas That Reclaim Your Parking Spot"
+title: "18 Small Garage Organization Ideas"
 description: "Small garage organization ideas that reclaim your parking spot: wall zones, overhead storage, slatwall systems, and the essential purge before any system."
 pubDate: "October 24, 2026"
 keywords: "small garage organization ideas, tiny garage storage ideas, small garage storage solutions, organize small garage, garage organization small space"

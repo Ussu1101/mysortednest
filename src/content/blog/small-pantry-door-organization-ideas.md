@@ -1,5 +1,5 @@
 ---
-title: "17 Small Pantry Door Organization Ideas (Turn the Door Into Storage)"
+title: "17 Small Pantry Door Organization Ideas"
 description: "Small pantry door organization ideas that turn wasted door space into real storage: wire racks, slim bins, and hooks for spices, wraps, and everyday snacks."
 pubDate: "October 29, 2026"
 keywords: "small pantry door organization, pantry door storage ideas, pantry door rack organization"

@@ -1,5 +1,5 @@
 ---
-title: "17 Renter-Friendly Kitchen Organization Ideas (No Drilling, No Damage)"
+title: "17 Renter-Friendly Kitchen Organization Ideas"
 description: "Renter-friendly kitchen organization ideas with zero drilling: tension rods, over-door racks, freestanding shelves, and removable hooks that move out cleanly."
 pubDate: "November 4, 2026"
 keywords: "renter friendly kitchen organization, apartment kitchen organization no drilling, rental kitchen storage ideas"

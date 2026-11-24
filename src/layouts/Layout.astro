@@ -1,8 +1,8 @@
 ---
-interface Props { title: string; description: string; canonical?: string; ogImage?: string; }
+interface Props { title: string; description: string; canonical?: string; ogImage?: string; brand?: boolean; }
 import CookieConsent from '../components/CookieConsent.astro';
 import '../styles/tailwind.css';
-const { title, description, canonical, ogImage = "/images/hero-home.jpg" } = Astro.props;
+const { title, description, canonical, ogImage = "/images/hero-home.jpg", brand = true } = Astro.props;
 const site = "https://mysortednest.life";
 const pageUrl = canonical ? site + canonical : site + Astro.url.pathname;
 ---
@@ -12,7 +12,7 @@ const pageUrl = canonical ? site + canonical : site + Astro.url.pathname;
 <meta charset="UTF-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 <meta name="p:domain_verify" content="c8295bfba6dffae25c86dad7c5ec271d" /><!-- Pinterest domain claim -->
-<title>{title} | My Sorted Nest</title>
+<title>{brand ? `${title} | My Sorted Nest` : title}</title>
 <meta name="description" content={description} />
 <link rel="canonical" href={pageUrl} />
 <meta property="og:type" content="website" />

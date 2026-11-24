@@ -1,5 +1,5 @@
 ---
-title: "15 Small Home Bar Storage Ideas for Apartments (No Dedicated Bar Needed)"
+title: "15 Small Home Bar Storage Ideas for Apartments"
 description: "Small home bar storage ideas for apartments: bar carts, wall racks, and hidden bottle storage that fit one tiny corner — no dedicated bar needed in a rental."
 pubDate: "November 9, 2026"
 keywords: "small home bar storage ideas, apartment bar cart organization, small bar storage apartment"

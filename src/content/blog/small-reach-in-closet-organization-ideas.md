@@ -1,5 +1,5 @@
 ---
-title: "18 Small Reach-In Closet Organization Ideas That Double Your Space"
+title: "18 Small Reach-In Closet Organization Ideas"
 description: "Small reach-in closet organization ideas that double your space: double-hang conversion, dead corners, above-rod shelves, door storage, and seasonal rotation."
 pubDate: "October 13, 2026"
 keywords: "small reach in closet organization, reach in closet organization ideas, small bedroom closet organization, tiny closet organization"

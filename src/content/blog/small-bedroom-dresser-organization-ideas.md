@@ -1,5 +1,5 @@
 ---
-title: "17 Small Bedroom Dresser Organization Ideas That Double Your Drawers"
+title: "17 Small Bedroom Dresser Organization Ideas"
 description: "Small bedroom dresser organization ideas that truly double your drawers: file folding, drawer dividers, top-of-dresser zones, and the one-in-one-out rule."
 pubDate: "November 12, 2026"
 keywords: "small bedroom dresser organization ideas, dresser drawer organization, tiny bedroom dresser storage"

@@ -1,5 +1,5 @@
 ---
-title: "17 Small Home Office Closet Conversion Ideas (The Cloffice That Works)"
+title: "17 Small Home Office Closet Conversion Ideas"
 description: "Small home office closet conversion ideas: turn a spare closet into a cloffice with a desk, shelves, lighting, and doors that close on work at day's end."
 pubDate: "November 1, 2026"
 keywords: "small home office closet conversion, cloffice ideas small closet, closet office organization"

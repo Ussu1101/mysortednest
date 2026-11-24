@@ -1,5 +1,5 @@
 ---
-title: "18 Small Apartment Recycling Station Ideas That Don't Look Like Trash"
+title: "18 Small Apartment Recycling Station Ideas"
 description: "Small apartment recycling station ideas that hide the bins: pull-outs, stacked sorters, and tidy labeled systems for tiny kitchens, hallways, and balconies."
 pubDate: "October 30, 2026"
 keywords: "small apartment recycling station, apartment recycling ideas, recycling storage small spaces"

@@ -1,5 +1,5 @@
 ---
-title: "16 Small Apartment Storage Ideas for Kids' Backpacks and School Gear"
+title: "16 Small Apartment Storage Ideas for Kids' Backpacks"
 description: "Small apartment storage ideas for kids' backpacks and school gear: entry hooks, cubbies, homework stations, and a nightly pack-the-bag routine in small homes."
 pubDate: "November 17, 2026"
 keywords: "small apartment backpack storage ideas, kids school gear storage small homes, backpack organization ideas"

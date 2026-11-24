@@ -1,5 +1,5 @@
 ---
-title: "16 Small Closet Lighting Ideas That Make a Dark Closet Usable (No Wiring Needed)"
+title: "16 Small Closet Lighting Ideas for Dark Closets"
 description: "Small closet lighting ideas that work without an electrician: battery LED strips, motion lights, and renter-safe tricks that make a dark closet usable."
 pubDate: "November 20, 2026"
 keywords: "small closet lighting ideas, closet light ideas no wiring, battery closet lights, dark closet lighting"

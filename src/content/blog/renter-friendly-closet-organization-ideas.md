@@ -1,5 +1,5 @@
 ---
-title: "17 Renter-Friendly Closet Organization Ideas (No Drilling Required)"
+title: "17 Renter-Friendly Closet Organization Ideas"
 description: "Renter-friendly closet organization ideas with zero drilling: double-hang rods, slim velvet hangers, tension rods, over-door storage, and a clean move-out plan."
 pubDate: "October 13, 2026"
 keywords: "renter friendly closet organization, no drill closet organization, apartment closet organization ideas, closet organization without drilling"

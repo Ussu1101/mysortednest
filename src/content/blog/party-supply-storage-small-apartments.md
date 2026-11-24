@@ -1,5 +1,5 @@
 ---
-title: "16 Party Supply Storage Ideas for Small Apartments (Plates, Decor & Leftovers)"
+title: "16 Party Supply Storage Ideas for Small Apartments"
 description: "Party supply storage ideas for small apartments: one labeled bin per occasion, vertical plate storage, and decor that packs flat between every single party."
 pubDate: "November 20, 2026"
 keywords: "party supply storage ideas, small apartment party storage, birthday party supply organization"

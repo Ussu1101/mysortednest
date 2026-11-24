@@ -1,5 +1,5 @@
 ---
-title: "17 Small Desk Supply Organization Ideas for Tiny Home Offices"
+title: "17 Small Desk Supply Organization Ideas"
 description: "Small desk supply organization ideas for tiny home offices: drawer dividers, wall rails, and surfaces that stay clear for actual work in the smallest rooms."
 pubDate: "October 28, 2026"
 keywords: "small desk supply organization, tiny desk organization ideas, home office desk supplies"

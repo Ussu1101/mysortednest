@@ -1,5 +1,5 @@
 ---
-title: "15 Small Apartment Murphy Bed Storage Ideas That Hide the Whole Bedroom"
+title: "15 Small Apartment Murphy Bed Storage Ideas"
 description: "Small apartment murphy bed storage ideas: built-in shelves, side cabinets, and fold-down desks that hide a whole bedroom away by day, every single day."
 pubDate: "November 12, 2026"
 keywords: "small apartment murphy bed storage ideas, murphy bed storage, fold down bed storage ideas"

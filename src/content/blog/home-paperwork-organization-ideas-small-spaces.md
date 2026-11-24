@@ -1,5 +1,5 @@
 ---
-title: "16 Home Paperwork Organization Ideas for Small Spaces (Bills, Files, No Piles)"
+title: "16 Home Paperwork Organization Ideas for Small Spaces"
 description: "Home paperwork organization ideas for small spaces: one inbox, a slim filing system, a go-bag for vital documents, and a weekly 10-minute paper routine."
 pubDate: "November 3, 2026"
 keywords: "home paperwork organization ideas, small space paper organization, household filing system ideas"

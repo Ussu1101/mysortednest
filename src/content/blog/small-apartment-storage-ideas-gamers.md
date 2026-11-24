@@ -1,5 +1,5 @@
 ---
-title: "15 Small Apartment Storage Ideas for Gamers (Consoles, Controllers & Cable Chaos)"
+title: "15 Small Apartment Storage Ideas for Gamers"
 description: "Small apartment storage ideas for gamers: console shelves, controller docks, game walls, and cable control that tames a whole setup in just one small corner."
 pubDate: "November 16, 2026"
 keywords: "small apartment storage ideas gamers, gaming setup storage small apartment, video game storage ideas small space"

@@ -1,5 +1,5 @@
 ---
-title: "18 Shoe Storage Ideas for Small Apartments (No Pile by the Door)"
+title: "18 Shoe Storage Ideas for Small Apartments"
 description: "Shoe storage ideas for small apartments: slim vertical towers, clever under-bed hiding spots, and a seasonal rotation that ends the door pile for good."
 pubDate: "October 18, 2026"
 keywords: "shoe storage ideas small apartment, small apartment shoe storage, tiny entryway shoe ideas, small space shoe storage"

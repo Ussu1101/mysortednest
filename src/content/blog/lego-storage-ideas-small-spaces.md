@@ -1,5 +1,5 @@
 ---
-title: "16 LEGO Storage Ideas for Small Spaces (No More Bricks Underfoot)"
+title: "16 LEGO Storage Ideas for Small Spaces"
 description: "LEGO storage ideas for small spaces: sorting systems, display shelves, and build stations that keep bricks off the floor — and finished builds on show."
 pubDate: "November 22, 2026"
 keywords: "lego storage ideas small spaces, lego organization ideas, small space lego storage"

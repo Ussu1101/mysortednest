@@ -1,5 +1,5 @@
 ---
-title: "15 Small Bathroom Pedestal Sink Storage Ideas (No Vanity, No Problem)"
+title: "15 Small Bathroom Pedestal Sink Storage Ideas"
 description: "Small bathroom pedestal sink storage ideas: shelves, slim carts, and baskets that replace a vanity without crowding a tiny bathroom or blocking the door."
 pubDate: "November 11, 2026"
 keywords: "small bathroom pedestal sink storage ideas, pedestal sink storage, bathroom storage no vanity"

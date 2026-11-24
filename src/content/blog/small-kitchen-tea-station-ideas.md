@@ -1,5 +1,5 @@
 ---
-title: "15 Small Kitchen Tea Station Organization Ideas for Tiny Kitchens"
+title: "15 Small Kitchen Tea Station Organization Ideas"
 description: "Small kitchen tea station ideas for tiny kitchens: tiered trays, drawer inserts, wall racks, and kettle zones that keep every tea in reach."
 pubDate: "November 18, 2026"
 keywords: "small kitchen tea station ideas, tea organization ideas small kitchen, tea storage ideas"

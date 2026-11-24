@@ -1,5 +1,5 @@
 ---
-title: "15 Small Bedroom Storage Ideas for Couples Sharing a Tiny Room"
+title: "15 Small Bedroom Storage Ideas for Couples"
 description: "Small bedroom storage ideas for couples sharing a tiny room: split closets, his-and-hers zones, under-bed systems, and rules that keep two people sane."
 pubDate: "November 6, 2026"
 keywords: "small bedroom storage ideas for couples, couples sharing small bedroom, tiny bedroom storage for two"

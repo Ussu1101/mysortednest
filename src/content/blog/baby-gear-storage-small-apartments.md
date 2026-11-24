@@ -1,5 +1,5 @@
 ---
-title: "16 Baby Gear Storage Ideas for Small Apartments (Strollers, High Chairs, and More)"
+title: "16 Baby Gear Storage Ideas for Small Apartments"
 description: "Baby gear storage ideas for small apartments: stroller parking, fold-flat high chairs, diaper stations, and rotation systems that keep tiny spaces livable."
 pubDate: "November 8, 2026"
 keywords: "baby gear storage small apartment, small apartment baby storage ideas, storing stroller in small apartment"

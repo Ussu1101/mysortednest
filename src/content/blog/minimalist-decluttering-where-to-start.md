@@ -1,5 +1,5 @@
 ---
-title: "Minimalist Decluttering: Where to Start When You're Overwhelmed"
+title: "Minimalist Decluttering: Where to Start"
 description: "Minimalist decluttering where to start: a calm, step-by-step plan for the overwhelmed — one zone at a time, no perfection required, real progress in week one."
 pubDate: "October 17, 2026"
 keywords: "minimalist decluttering where to start, overwhelmed by clutter, decluttering overwhelmed, minimalist decluttering guide, where to start decluttering"

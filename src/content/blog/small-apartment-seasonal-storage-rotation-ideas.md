@@ -1,5 +1,5 @@
 ---
-title: "18 Small Apartment Seasonal Storage Rotation Ideas (Swap, Don't Stack)"
+title: "18 Small Apartment Seasonal Storage Rotation Ideas"
 description: "Small apartment seasonal storage rotation ideas: a twice-a-year swap system for clothes, gear, and decor that keeps only the current season within reach."
 pubDate: "November 2, 2026"
 keywords: "small apartment seasonal storage rotation, seasonal closet rotation ideas, apartment seasonal storage system"

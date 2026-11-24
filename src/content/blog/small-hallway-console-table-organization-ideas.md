@@ -1,5 +1,5 @@
 ---
-title: "15 Small Hallway Console Table Organization Ideas (Entry Storage Without a Foyer)"
+title: "15 Small Hallway Console Table Organization Ideas"
 description: "Hallway console table organization for narrow halls: slim console picks, landing zones, baskets and mirrors that keep keys, mail and shoes tidy daily."
 pubDate: "November 2, 2026"
 keywords: "hallway console table organization, small hallway console ideas, entryway console table storage"

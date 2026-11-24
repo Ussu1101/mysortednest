@@ -1,5 +1,5 @@
 ---
-title: "15 Small Apartment Move-In Organization Ideas for Your First Week"
+title: "15 Small Apartment Move-In Organization Ideas"
 description: "Moving into a small apartment? These move-in organization ideas set up zones, storage, and routines in your first week — before clutter settles in for good."
 pubDate: "November 21, 2026"
 keywords: "moving into a small apartment, small apartment move-in organization, first apartment organization ideas, unpacking small apartment, apartment move-in checklist"

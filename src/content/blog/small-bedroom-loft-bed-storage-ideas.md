@@ -1,5 +1,5 @@
 ---
-title: "17 Small Bedroom Loft Bed Storage Ideas That Use Every Inch Underneath"
+title: "17 Small Bedroom Loft Bed Storage Ideas"
 description: "Small bedroom loft bed storage ideas that turn the space underneath into a desk, closet, or reading nook — plus safety, weight limits, and dust control tips."
 pubDate: "November 10, 2026"
 keywords: "small bedroom loft bed storage ideas, loft bed storage ideas, under loft bed storage"
