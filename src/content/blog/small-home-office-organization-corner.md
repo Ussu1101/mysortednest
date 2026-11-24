@@ -39,7 +39,7 @@ Pegboards carry the daily-use supplies: scissors, tape, pens, headphones on hook
 
 The lower shelf (within arm's reach while seated) gets the document tray, a small stackable organizer, and a box of printer paper. The higher shelf gets backup supplies and labeled bins for monthly-access items.
 
-Our [Bedroom Storage Ideas for Small Rooms With No Closet](/blog/bedroom-storage-ideas-small-bedrooms/) guide applies the same shelf-and-pegboard strategy to wardrobe walls — one hardware store trip can outfit both.
+Our [Bedroom Storage Ideas for Small Rooms With No Closet](/blog/bedroom-storage-ideas-no-closet/) guide applies the same shelf-and-pegboard strategy to wardrobe walls — one hardware store trip can outfit both.
 
 ![Pegboard wall organizer mounted above a small corner desk with neatly arranged supplies](/images/small-home-office-organization-corner-02.jpg)
 
