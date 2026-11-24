@@ -14,7 +14,8 @@ const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 const imgDir = path.join(root, 'public', 'images');
 const manifestPath = path.join(root, 'src', 'data', 'image-dims.json');
 const MAX_W = 800;
-const QUALITY = 78;
+const MAX_BYTES = 100 * 1024; // Screaming Frog flags images over 100 KB
+const QUALITIES = [78, 60, 45]; // retry ladder for files still over MAX_BYTES
 const CONCURRENCY = 4;
 
 const files = fs.readdirSync(imgDir).filter((f) => /\.(jpe?g|png)$/i.test(f));
@@ -36,8 +37,9 @@ async function processOne(file) {
     const srcStat = fs.statSync(srcPath);
     let webpStat = null;
     try { webpStat = fs.statSync(webpPath); } catch { /* missing */ }
-    if (webpStat && webpStat.mtimeMs > srcStat.mtimeMs) {
-      // WebP already fresh — just record its dimensions in the manifest.
+    if (webpStat && webpStat.mtimeMs > srcStat.mtimeMs && webpStat.size <= MAX_BYTES) {
+      // WebP already fresh and under the size cap — just record its
+      // dimensions in the manifest.
       const wmeta = await sharp(webpPath).metadata();
       manifest[url] = { webp: '/images/' + webpFile, w: wmeta.width, h: wmeta.height };
       skipped++;
@@ -47,8 +49,14 @@ async function processOne(file) {
     }
     const img = sharp(srcPath);
     const meta = await img.metadata();
-    await img.resize({ width: MAX_W, withoutEnlargement: true }).webp({ quality: QUALITY }).toFile(webpPath);
-    const done = fs.statSync(webpPath);
+    // Quality ladder: start at 78, drop to 60 then 45 while the file is
+    // still over the 100 KB cap (keeps the sharpest version that fits).
+    let done = null;
+    for (const q of QUALITIES) {
+      await sharp(srcPath).resize({ width: MAX_W, withoutEnlargement: true }).webp({ quality: q }).toFile(webpPath);
+      done = fs.statSync(webpPath);
+      if (done.size <= MAX_BYTES) break;
+    }
     manifest[url] = {
       webp: '/images/' + webpFile,
       w: Math.min(meta.width, MAX_W),
