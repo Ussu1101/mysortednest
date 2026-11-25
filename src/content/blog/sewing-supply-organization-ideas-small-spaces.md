@@ -21,7 +21,7 @@ Put scissors, seam ripper, tape, pins, and your most-used thread in the weekly p
 
 A clear shoebox-sized container (about 13 x 8 x 5 inches) holds one project's pattern, cut pieces, thread, and notions. When you sit down to sew, you grab one box, not five drawers. This stops works in progress from colonizing every flat surface.
 
-![A tidy sewing corner in a small room with supplies stored in labeled boxes and a sewing machine on a fold-down table](/images/sewing-supply-organization-small-spaces-hero.jpg)
+![A tidy sewing corner in a small room with supplies stored in labeled boxes and a sewing machine on](/images/sewing-supply-organization-small-spaces-hero.jpg)
 
 ## Thread storage: wall racks, boxes, and color order
 
@@ -107,7 +107,7 @@ A hard cover or padded case protects the machine from dust and knocks. Store it 
 
 If you sew weekly, a fold-down table or rolling cart earns its footprint. A wall-mounted fold-down table (about 30 x 20 inches open) folds flat against the wall when not in use. A rolling cart with the machine on top and supplies below wheels to the table and back to a corner.
 
-![Sewing machine stored neatly in a light-wood cabinet under a cream linen dust cover, with folded fabric beside it](/images/sewing-supply-organization-small-spaces-04.jpg)
+![Sewing machine stored neatly in a light-wood cabinet under a cream linen dust cover, with folded](/images/sewing-supply-organization-small-spaces-04.jpg)
 
 ## Scrap rule: when fabric becomes clutter
 

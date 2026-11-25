@@ -91,7 +91,7 @@ Reserve one full shelf in a side tower, about 24 by 18 by 14 inches, for the duv
 
 Keep nightly bedding at waist height, between 30 and 48 inches off the floor, so the morning fold-up takes seconds. The spare set — guest bedding, the winter duvet — goes on the top shelf in a labeled bag. For more ways to tame bulky bedding, see our [bulky bedding storage ideas for small apartments](/blog/bulky-bedding-storage-ideas-small-apartments/).
 
-![Open side cabinet beside a folded murphy bed holding neatly folded duvet and pillows in storage cubes](/images/small-apartment-murphy-bed-storage-ideas-03.jpg)
+![Open side cabinet beside a folded murphy bed holding neatly folded duvet and pillows in storage](/images/small-apartment-murphy-bed-storage-ideas-03.jpg)
 
 ## Lighting and power: reading lights that fold away too
 

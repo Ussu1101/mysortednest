@@ -21,7 +21,7 @@ Before you shop, gather every winter accessory in the house onto the bed and cou
 
 Wet gloves and dry scarves should never share a spot — a wet glove left on a dry scarf leaves both musty by morning. Wet items go to the drip zone only; dry items go to hooks and bins. This single rule prevents the sour smell that makes people blame the entryway instead of the system.
 
-![A small entryway with a wooden peg rail, woven baskets, and a boot tray keeping winter hats, scarves, and gloves organized](/images/winter-accessory-storage-small-entryways-01.jpg)
+![A small entryway with a wooden peg rail, woven baskets, and a boot tray keeping winter hats,](/images/winter-accessory-storage-small-entryways-01.jpg)
 
 ## One hook per person: the peg rail rule
 
@@ -85,7 +85,7 @@ At the end of winter, each person's accessories go into one vacuum-seal bag or a
 
 Before anything goes into the bag, hold each item and ask three questions: did I wear it this winter, is it still in good shape, and does it still fit? Anything with a "no" goes into a donate bag immediately. Most families find 3–5 items to let go each spring. The same three questions work for the rest of the closet — see this [declutter of your closet before January](/blog/declutter-your-closet-before-january/).
 
-![A labeled vacuum-seal bag and lidded bin holding off-season winter hats, scarves, and gloves on a closet shelf](/images/winter-accessory-storage-small-entryways-03.jpg)
+![A labeled vacuum-seal bag and lidded bin holding off-season winter hats, scarves, and gloves on a](/images/winter-accessory-storage-small-entryways-03.jpg)
 
 ## Kids' winter gear: low hooks they can reach
 
@@ -111,7 +111,7 @@ Every evening, each person hangs their hat and scarf on their hook, clips their 
 
 Shoes and winter accessories share the same doorway, so reset them together: shoes on the tray, accessories on their hooks, wet items on the rack. If the shoe side is still a pile, these [18 shoe storage ideas for small apartments](/blog/shoe-storage-ideas-small-apartments/) sort that half with the same logic.
 
-![A tidy small entryway at night with hats on hooks, gloves clipped in pairs, and boots lined up on a tray](/images/winter-accessory-storage-small-entryways-04.jpg)
+![A tidy small entryway at night with hats on hooks, gloves clipped in pairs, and boots lined up on a](/images/winter-accessory-storage-small-entryways-04.jpg)
 
 ## Mistakes to avoid
 

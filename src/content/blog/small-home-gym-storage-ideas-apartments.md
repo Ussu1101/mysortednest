@@ -41,7 +41,7 @@ Hang each band on its own S-hook on a wall rail or pegboard, lightest to heavies
 
 A 2-by-3-foot pegboard holds jump ropes, ankle straps, wrist wraps, and a small basket for earbuds and a timer. Hooks move in seconds when your routine changes, and the panel comes down with only a few screw holes to fill at move-out. For more wall-based thinking, see these [vertical storage ideas for small apartments](/blog/vertical-storage-ideas-small-apartments/).
 
-![A wall-mounted pegboard holding resistance bands, a jump rope, and small workout accessories in an apartment](/images/small-home-gym-storage-ideas-apartments-01.jpg)
+![A wall-mounted pegboard holding resistance bands, a jump rope, and small workout accessories in an](/images/small-home-gym-storage-ideas-apartments-01.jpg)
 
 ## Rolling carts: a gym that parks in a closet
 

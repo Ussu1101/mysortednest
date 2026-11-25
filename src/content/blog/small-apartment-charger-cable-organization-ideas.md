@@ -9,7 +9,7 @@ image: "/images/small-apartment-charger-cable-organization-ideas-hero.jpg"
 
 Every small apartment has the same mystery drawer: a knotted pile of chargers, half of them for devices you no longer own, and none of them the one you need right now. You dig for your phone cable, pull out three wrong ones, and the battery drops another percent while you search. These small apartment charger organization ideas fix that in one weekend, without drilling a single hole. Cable organization in a small apartment starts with one decision: every charger gets a single home, and every cable gets a label. One charging station, labeled cables, and a few hidden routes turn the nightly tangle into a system you barely have to think about.
 
-![A tidy charging station on a small apartment shelf with labeled cables in a basket, warm neutral tones](/images/small-apartment-charger-cable-organization-ideas-hero.jpg)
+![A tidy charging station on a small apartment shelf with labeled cables in a basket, warm neutral](/images/small-apartment-charger-cable-organization-ideas-hero.jpg)
 
 ## The cable audit: what you charge, where, and how often
 
@@ -65,7 +65,7 @@ The shortest invisible route is usually behind the sofa, the bed, or the TV stan
 
 When the outlet is across the room, run the cable along the baseboard instead of across the floor. Self-adhesive raceways come in 3-foot lengths, cost a few dollars each, and can be painted to match the wall. Snap the cable inside, press the raceway against the baseboard, and the run disappears at eye level. Leave a 6-inch service loop at each end so you can pull the cable out for cleaning. If you rent, test the adhesive on a hidden patch of wall for a day first. These are the same renter-safe tricks in our guide to [15 small apartment storage ideas for renters](/blog/small-apartment-storage-ideas-renters-no-drilling/).
 
-![A white cable raceway running neatly along a baseboard in a small living room, painted to match the wall](/images/small-apartment-charger-cable-organization-ideas-02.jpg)
+![A white cable raceway running neatly along a baseboard in a small living room, painted to match the](/images/small-apartment-charger-cable-organization-ideas-02.jpg)
 
 ### 10. Add an under-desk tray for the work-from-home setup
 

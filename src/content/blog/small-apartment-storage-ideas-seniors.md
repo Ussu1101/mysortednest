@@ -9,7 +9,7 @@ image: "/images/small-apartment-storage-ideas-seniors-hero.jpg"
 
 Finding small apartment storage ideas seniors can actually use starts with one honest question: can you reach everything you use every day without stretching, climbing, or bending low? If the answer is no, your storage is working against you. A small apartment can be the easiest home to keep safe — everything is close at hand — but only when the things you need most live where your hands naturally fall. These 16 ideas follow one rule: waist-height zones, easy-grip bins, better light, and clear paths. You do not need a bigger apartment or expensive furniture — just a few small changes.
 
-![A bright, tidy small apartment living area with low open shelving, a comfortable chair, and storage kept at waist height](/images/small-apartment-storage-ideas-seniors-hero.jpg)
+![A bright, tidy small apartment living area with low open shelving, a comfortable chair, and storage](/images/small-apartment-storage-ideas-seniors-hero.jpg)
 
 ## The accessibility audit: reach, grip, light, and clear paths
 
@@ -151,4 +151,4 @@ Avoid tall bookcases you cannot see into, deep bins without handles, heavy lidde
 
 Safe, reachable storage is not about owning less — it is about putting the right things in the right band, lighting every spot you open, and keeping every path clear. Start with the reach test tonight and the 10-minute reset this week. Save this pin for later, and explore more ideas in our [small-spaces collection](/categories/small-spaces/).
 
-![A calm, clutter-free small apartment corner with a reading chair, low shelf, and a clear walking path](/images/small-apartment-storage-ideas-seniors-04.jpg)
+![A calm, clutter-free small apartment corner with a reading chair, low shelf, and a clear walking](/images/small-apartment-storage-ideas-seniors-04.jpg)

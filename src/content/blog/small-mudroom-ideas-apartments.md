@@ -21,7 +21,7 @@ Shared surfaces become shared messes. Set out one shallow tray or small lidded b
 
 Measure 12 inches out from the wall and treat that strip as your mudroom footprint — deep enough for a slim shoe cabinet, a row of boot trays, a narrow bench, or a leaning coat rack. A disciplined footprint means the zone never swallows the hallway. If an item cannot live inside the 12-inch strip, it belongs elsewhere.
 
-![A defined apartment entry zone with a small rug, wall hooks, and a slim console catching coats and keys](/images/small-mudroom-ideas-apartments-01.jpg)
+![A defined apartment entry zone with a small rug, wall hooks, and a slim console catching coats and](/images/small-mudroom-ideas-apartments-01.jpg)
 
 ## Defining the zone without walls: rugs, paint, furniture
 
@@ -115,7 +115,7 @@ A two- or four-cubby bench on locking casters is the ultimate renter's base: a s
 
 Leaning ladder-style shelves rest against the wall at an angle on rubber feet — no screws, no damage. Hats on the narrow top shelves, folded bags and gloves in the middle, a boot tray tucked underneath. It works in dorms, sublets, and strict rentals.
 
-![A freestanding cubby bench and leaning shelf unit creating a renter-friendly mudroom with no wall damage](/images/small-mudroom-ideas-apartments-04.jpg)
+![A freestanding cubby bench and leaning shelf unit creating a renter-friendly mudroom with no wall](/images/small-mudroom-ideas-apartments-04.jpg)
 
 ## Mistakes to avoid (and what NOT to buy)
 

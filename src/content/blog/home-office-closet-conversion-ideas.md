@@ -9,7 +9,7 @@ image: "/images/home-office-closet-conversion-ideas-hero.jpg"
 
 You need a home office, but you do not have a spare room. What you probably do have is a closet holding a jumble of things you barely use — and that closet is roughly the size of a proper desk setup. A **small home office closet conversion**, better known as a cloffice, turns that dead storage into a real workspace: a desk at the right height, shelves within arm's reach, light where you need it, and doors you can close at 6 p.m. so work stops staring at you all evening. These 17 ideas cover the whole conversion, from the first tape measure to the shutdown routine that keeps it tidy.
 
-![A bright closet converted into a small home office with a wall-mounted desk, shelves, and warm lighting](/images/home-office-closet-conversion-ideas-hero.jpg)
+![A bright closet converted into a small home office with a wall-mounted desk, shelves, and warm](/images/home-office-closet-conversion-ideas-hero.jpg)
 
 ## Measure the closet: depth and width decide desk vs shelf desk
 

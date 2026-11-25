@@ -9,7 +9,7 @@ image: "/images/small-apartment-storage-ideas-gamers-hero.jpg"
 
 A gaming setup in a small apartment has a way of taking over the whole room. One console becomes two, controllers multiply on the coffee table, and the cables behind the console turn into a knot. These small apartment storage ideas gamers can actually use fix that without a bigger apartment or a new entertainment unit. Audit what you actually play with, give the consoles a ventilated home, dock every controller, store games where you can see them, and run the cables in one labeled line. Your whole setup fits in one corner — and a ten-minute weekly reset keeps it that way.
 
-## The setup audit: consoles, controllers, games, and cables — what earns space
+## The setup audit: consoles, controllers, games, and cables
 
 Most gaming clutter is not a storage problem — it is gear you stopped using months ago.
 
@@ -33,7 +33,7 @@ Give each console its own open shelf with 4 inches of clearance above it and 2 i
 
 Everything around it — the extra power brick, the spare HDMI cable, the game cases you are not playing — should be out of sight. One closed cabinet door or one fabric bin (roughly 10×10×11 inches) on the shelf below the console holds all of it. This is the same principle behind good [small apartment media storage ideas](/blog/small-apartment-media-storage-ideas/): daily gear stays out, the rest disappears behind one door.
 
-![A small apartment gaming corner with a console on an open ventilated shelf, controllers docked below, and cables hidden out of sight](/images/small-apartment-storage-ideas-gamers-01.jpg)
+![A small apartment gaming corner with a console on an open ventilated shelf, controllers docked](/images/small-apartment-storage-ideas-gamers-01.jpg)
 
 ## Controller docks and charging stations: every controller has a home
 
@@ -89,7 +89,7 @@ Pick your spot and put exactly three things in it: your chair, the TV, and one s
 
 When floor space is gone, go up. The wall above your gaming zone holds a floating shelf for current games, a small display ledge, and a hook for your headset. The same vertical thinking works for other collections: [board game storage ideas for small apartments](/blog/board-game-storage-ideas-small-apartments/) use wall shelves to show the games in play.
 
-![A compact gaming corner in a small apartment with one chair, a wall shelf above, and a headset hanging on a hook](/images/small-apartment-storage-ideas-gamers-03.jpg)
+![A compact gaming corner in a small apartment with one chair, a wall shelf above, and a headset](/images/small-apartment-storage-ideas-gamers-03.jpg)
 
 ## Headsets, mics, and accessories: hooks and small bins
 
@@ -103,7 +103,7 @@ A headset left on a desk gets knocked off, sat on, or buried under papers. Hang 
 
 Every setup has small items that do not hang: spare batteries, a charging cable, a controller grip, a cleaning cloth, a memory card. Put all of them in one small bin — about 8×6×4 inches — on the shelf under the console, with a label on the front. Empty it once a month — a bin that never gets emptied becomes a junk drawer.
 
-![A headset hanging on a wall hook beside a small labeled bin holding gaming accessories in a tidy corner](/images/small-apartment-storage-ideas-gamers-04.jpg)
+![A headset hanging on a wall hook beside a small labeled bin holding gaming accessories in a tidy](/images/small-apartment-storage-ideas-gamers-04.jpg)
 
 ## The weekly reset: discs filed, controllers charged, desk clear
 

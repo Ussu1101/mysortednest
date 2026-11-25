@@ -117,7 +117,7 @@ A cushion 2 to 3 inches thick makes the bench comfortable enough to sit on every
 
 Two objects are enough: a small tray for keys on one end and a single vase, candle, or framed photo on the other. The middle stays empty so there is always somewhere to set a bag. If the bench top becomes a display shelf, it stops being a seat — and a bench nobody sits on is just a low shelf with a cushion. Keep the top clear enough that you could sit down without moving anything.
 
-![A styled small entryway bench with a slim cushion, a tray for keys, and a vase, looking like furniture](/images/small-entryway-bench-ideas-hidden-storage-04.jpg)
+![A styled small entryway bench with a slim cushion, a tray for keys, and a vase, looking like](/images/small-entryway-bench-ideas-hidden-storage-04.jpg)
 
 ## Mistakes to avoid
 

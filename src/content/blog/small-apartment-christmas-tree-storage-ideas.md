@@ -1,5 +1,5 @@
 ---
-title: "15 Small Apartment Christmas Tree Storage Ideas (Keep It Safe Till Next December)"
+title: "15 Small Apartment Christmas Tree Storage Ideas"
 description: "Small apartment Christmas tree storage ideas that keep your tree safe till next December: bags, boxes, under-bed and closet systems for tiny spaces at home."
 pubDate: "November 24, 2026"
 keywords: "small apartment christmas tree storage ideas, christmas tree storage small space, store christmas tree apartment"
@@ -11,7 +11,7 @@ Every January, the same problem shows up in a small apartment: the tree comes do
 
 ![A Christmas tree storage bag beside a sofa in a bright apartment living room](/images/small-apartment-christmas-tree-storage-ideas-hero.jpg)
 
-## Measure the tree first: height, width, and branch type decide the container
+## Measure the tree first: height, width, and branch type
 
 Measure before you buy: a bag two inches too short bends the top branches, and one a foot too wide wastes space.
 

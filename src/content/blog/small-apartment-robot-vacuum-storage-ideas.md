@@ -9,7 +9,7 @@ image: "/images/robot-vacuum-hero.jpg"
 
 A robot vacuum is the best deal in small-apartment cleaning — until you look at its dock. That black plastic box sits against the wall with a cord trailing across the baseboard, and in a small apartment there is nowhere to ignore it. These small apartment robot vacuum storage ideas hide the dock completely while keeping it charging — and most cost less than a single dinner out.
 
-![A robot vacuum docked inside a slim wooden cabinet under a console table in a bright small apartment living room](/images/robot-vacuum-hero.jpg)
+![A robot vacuum docked inside a slim wooden cabinet under a console table in a bright small](/images/robot-vacuum-hero.jpg)
 
 ## What the dock actually needs: power, clearance, and Wi-Fi
 
@@ -41,7 +41,7 @@ A console table, low media unit, or open bookshelf makes a ready-made dock garag
 
 Under-bed docks work when the bed frame sits at least 7 inches off the floor. The vacuum needs a straight 2-foot run to align itself, so measure from the dock to the bed's edge. A solid-base platform bed will not work.
 
-![A robot vacuum dock tucked under a low wooden console table with its cord hidden behind the furniture leg](/images/robot-vacuum-furniture.jpg)
+![A robot vacuum dock tucked under a low wooden console table with its cord hidden behind the](/images/robot-vacuum-furniture.jpg)
 
 ## The closet dock: charging inside a hall or utility closet
 
@@ -55,7 +55,7 @@ A hall closet dock needs one thing a closed closet cannot give: a gap for the va
 
 A utility closet already holds cleaning gear, so the dock keeps every cleaning tool in one place. Clear one bay about 18 inches wide, put the dock on a rubber mat, and store spare filters and mop pads on a shelf above it. Test the Wi-Fi first — a small hallway extender usually fixes a weak signal for under $30.
 
-![A robot vacuum dock charging inside a tidy hall closet with a curtain instead of a door, cleaning supplies on the shelf above](/images/robot-vacuum-closet.jpg)
+![A robot vacuum dock charging inside a tidy hall closet with a curtain instead of a door, cleaning](/images/robot-vacuum-closet.jpg)
 
 ## Kick-plate and toe-kick hideaways under kitchen cabinets
 
@@ -81,7 +81,7 @@ A cheap nightstand or small cabinet with its back panel removed makes an excelle
 
 If you rent and cannot modify furniture, cover the dock instead of building around it. A tall plant stand with an open base, or a large woven basket with the bottom cut out, slips over the dock. Keep the cover under 5 pounds, and never use a solid box with no exit — it traps heat around the charger.
 
-![A robot vacuum dock hidden inside a small side-table cabinet with a lamp on top, in a cozy apartment corner](/images/small-apartment-robot-vacuum-storage-ideas-03.jpg)
+![A robot vacuum dock hidden inside a small side-table cabinet with a lamp on top, in a cozy](/images/small-apartment-robot-vacuum-storage-ideas-03.jpg)
 
 ## Cable control: keeping the dock's cord invisible
 
@@ -113,7 +113,7 @@ The best-hidden dock is useless if the vacuum cannot get out of it.
 
 Keep the 2 feet in front of the dock clear: no shoes, no bags, no cables, no pet bowls. Do a 60-second evening reset — shoes to the rack, cables off the floor — and it will dock first time, every time. If a threshold or rug edge sits in front of the dock, add a small rubber ramp (about $10 to $15).
 
-![A clear floor path in front of a hidden robot vacuum dock, with shoes stored on a rack and cables tucked away](/images/small-apartment-robot-vacuum-storage-ideas-04.jpg)
+![A clear floor path in front of a hidden robot vacuum dock, with shoes stored on a rack and cables](/images/small-apartment-robot-vacuum-storage-ideas-04.jpg)
 
 ## Mistakes to avoid
 

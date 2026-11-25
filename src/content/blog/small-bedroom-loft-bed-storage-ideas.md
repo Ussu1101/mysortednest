@@ -9,7 +9,7 @@ image: "/images/small-bedroom-loft-bed-storage-ideas-hero.jpg"
 
 A loft bed gives you a whole second room inside a small bedroom — or it gives you a dark, dusty cave where things go to disappear. The difference is planning. These small bedroom loft bed storage ideas turn the space underneath into a desk, a closet, or a reading nook, so the freed-up floor actually works for you. Measure first, then build the zone that fits your life.
 
-## Measure first: clearance, ceiling height, and weight limits before you plan anything
+## Measure first: clearance, ceiling height, and weight limits
 
 ### 1. Map the clearance under the bed before choosing a single piece of furniture
 

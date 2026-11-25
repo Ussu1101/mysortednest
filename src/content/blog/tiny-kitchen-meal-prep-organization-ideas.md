@@ -21,7 +21,7 @@ Look at the last two weeks, not the next two. Write down every dinner you actual
 
 Empty every food container you own onto the counter and count them by size. Now count the meals from your audit that need a container: one per cooked protein, one per grain, one per chopped vegetable, plus two for lunches. If you own 30 containers and your week needs 12, the extra 18 are clutter, not capacity. Keep the 12 that match and donate or recycle the rest.
 
-![A small kitchen counter with a handwritten weekly meal plan and a few stacked glass containers ready for prep](/images/tiny-kitchen-meal-prep-organization-ideas-01.jpg)
+![A small kitchen counter with a handwritten weekly meal plan and a few stacked glass containers](/images/tiny-kitchen-meal-prep-organization-ideas-01.jpg)
 
 ## Container system: one size, one lid, one stack
 
@@ -53,7 +53,7 @@ Pick the stretch of counter closest to the sink — ideally the two feet between
 
 A small caddy — a handled bin about 12 inches long — holds your knife, peeler, measuring cups, tongs, and a small bowl for scraps. It lives in a cabinet and comes out when prep starts, so you are not opening three drawers with wet hands. When prep is done, the caddy goes back and the counter is clear in under a minute. For more ideas on keeping counters clear in a tight kitchen, see our [17 Renter-Friendly Kitchen Organization Ideas (No Drilling, No Damage)](/blog/renter-friendly-kitchen-organization-ideas/).
 
-![A compact prep zone on a small kitchen counter with a cutting board, knife, and a caddy of utensils beside the sink](/images/tiny-kitchen-meal-prep-organization-ideas-02.jpg)
+![A compact prep zone on a small kitchen counter with a cutting board, knife, and a caddy of utensils](/images/tiny-kitchen-meal-prep-organization-ideas-02.jpg)
 
 ## Fridge zones for prepped food: eat-first shelf
 

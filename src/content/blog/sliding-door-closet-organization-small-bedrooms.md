@@ -9,7 +9,7 @@ image: "/images/sliding-door-closet-organization-small-bedrooms-hero.jpg"
 
 A sliding-door closet looks generous until you try to use it. You can only open half of it at a time, so the clothes you need are always behind the panel you cannot move. **Sliding door closet organization** is different from organizing a hinged-door closet because access, not space, is the real limit. These 15 ideas work with that limit: split zones, a double-hang setup, slim bins that clear the door track, and a weekly reset. No renovation or drilling is needed, and the system fits a small bedroom without taking floor space from the rest of the room — just a rod, a few slim bins, and ten minutes a week.
 
-![A small bedroom sliding-door closet with one panel open, showing neatly hung clothes on one side and labeled slim bins on the other](/images/sliding-door-closet-organization-small-bedrooms-hero.jpg)
+![A small bedroom sliding-door closet with one panel open, showing neatly hung clothes on one side](/images/sliding-door-closet-organization-small-bedrooms-hero.jpg)
 
 ## Why sliding doors change the closet math: half-access at a time
 
@@ -37,7 +37,7 @@ The single rod that came with most sliding closets wastes the bottom half of the
 
 **6. Reserve one short stretch of full-length hanging.** Dresses, long coats, and jumpsuits need about 54 inches of clear drop. Give them 18 to 24 inches of rod at the end nearest the wall, and double-hang everything else.
 
-![A sliding-door closet with a double-hang rod conversion, shirts on the top tier and trousers on the lower tier, with the door panel slid to one side](/images/sliding-door-closet-organization-small-bedrooms-01.jpg)
+![A sliding-door closet with a double-hang rod conversion, shirts on the top tier and trousers on the](/images/sliding-door-closet-organization-small-bedrooms-01.jpg)
 
 ## Slim bins and baskets that clear the door track
 
@@ -57,7 +57,7 @@ Shoes, bags, and accessories are what turn a tidy sliding closet into a pile, be
 
 **11. Give small accessories one shallow tray per category.** Scarves, belts, and sunglasses do not need a drawer — they need a shallow tray about 12 by 8 inches that sits on a shelf or on top of a bin, with one category per tray. Roll scarves so you can see every color at a glance, coil belts instead of hanging them where they tangle, and keep sunglasses in a hard case inside the tray. See our [17 Accessory Organization Ideas for Small Closets (Scarves, Bags & Belts)](/blog/accessory-organization-ideas-small-closets/) guide for more detail.
 
-![Slim labeled bins and a low two-tier shoe rack inside a sliding-door closet, with the door track clear and the panels sliding freely](/images/sliding-door-closet-organization-small-bedrooms-02.jpg)
+![Slim labeled bins and a low two-tier shoe rack inside a sliding-door closet, with the door track](/images/sliding-door-closet-organization-small-bedrooms-02.jpg)
 
 ## Keeping sliding doors gliding: what never to block
 
@@ -75,7 +75,7 @@ Every slide nudges hangers, shifts bins, and hides one side from view. A short w
 
 **15. Run a one-in, one-out check at the reset.** Every week, look at the daily side and ask one question: is there anything here I did not wear in the past two weeks? If the answer is yes and it is not a special-occasion piece, move it to the seasonal side or out of the closet entirely. Small closets stay organized because of what leaves them, not because of what is added. Pair it with a bigger twice-a-year edit using our [How to Declutter Your Closet Before January](/blog/declutter-your-closet-before-january/) guide.
 
-![A tidy small bedroom with a sliding-door closet, one panel open to show the daily zone with double-hung clothes and slim bins](/images/sliding-door-closet-organization-small-bedrooms-03.jpg)
+![A tidy small bedroom with a sliding-door closet, one panel open to show the daily zone with](/images/sliding-door-closet-organization-small-bedrooms-03.jpg)
 
 
 ## Mistakes to avoid: what NOT to buy for a sliding-door closet
@@ -104,7 +104,7 @@ A basic setup — a no-drill double-hang rod, slim velvet hangers, four to six s
 
 Yes, if each person gets one side as their daily zone instead of splitting top and bottom. Each side works like a small single-person closet, with shared seasonal storage on the top shelf.
 
-![A small bedroom sliding-door closet after a weekly reset, with clothes sorted by zone and the floor track completely clear](/images/sliding-door-closet-organization-small-bedrooms-04.jpg)
+![A small bedroom sliding-door closet after a weekly reset, with clothes sorted by zone and the floor](/images/sliding-door-closet-organization-small-bedrooms-04.jpg)
 
 ## Conclusion
 

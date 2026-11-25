@@ -9,7 +9,7 @@ image: "/images/closet-renter-hero.jpg"
 
 You open your apartment closet and find a single sad rod, one wire shelf, and a lease that says any holes come out of your security deposit. This is exactly the situation **renter friendly closet organization** is built for: systems that use tension, gravity, hooks, and freestanding furniture instead of screws and anchors. These 17 no-drill closet organization ideas will roughly double what your closet holds, and every one of them comes out cleanly when you move — no drilling, no spackling, no deposit deductions.
 
-![Neatly organized rental closet with a double-hang rod, slim velvet hangers, and freestanding storage with no wall-mounted hardware](/images/closet-renter-hero.jpg)
+![Neatly organized rental closet with a double-hang rod, slim velvet hangers, and freestanding](/images/closet-renter-hero.jpg)
 
 ## The renter's rulebook: what "no damage" really means for closets
 
@@ -69,7 +69,7 @@ The 6-inch gap between closet wall and side frame is wasted space until you wedg
 
 The back of the closet door is roughly 20 by 60 inches of unused real estate. Over-the-door organizers hook over the door top — no screws — and most doors have enough clearance. Test first: drape a dish towel over the door top; if it still shuts, the organizer fits.
 
-![Over-the-door organizer with clear pockets holding shoes and accessories on the back of a closet door](/images/closet-door.jpg)
+![Over-the-door organizer with clear pockets holding shoes and accessories on the back of a closet](/images/closet-door.jpg)
 
 ### 9. Hang an over-the-door shoe organizer with clear pockets
 

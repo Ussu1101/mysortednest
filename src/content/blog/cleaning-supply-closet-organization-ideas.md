@@ -9,7 +9,7 @@ image: "/images/cleaning-supply-closet-organization-ideas-hero.jpg"
 
 If your cleaning supplies live in a jumble at the bottom of a closet — brooms fallen over, spray bottles leaking, and the one cloth you need buried behind half-empty bottles — you are not disorganized, you are just missing a system. Good cleaning supply closet organization is not about buying a prettier closet; it is about giving every tool a home it returns to without thinking, so cleaning starts in thirty seconds instead of ten minutes of hunting. These 18 ideas are built for small homes, where the closet might be a hallway nook, a slice of the laundry closet, or a single narrow door. Every one is renter-friendly and measured to fit real closets.
 
-![A tidy small cleaning supply closet with brooms on wall holders, a door rack of spray bottles, and a labeled caddy on the shelf](/images/cleaning-supply-closet-organization-ideas-hero.jpg)
+![A tidy small cleaning supply closet with brooms on wall holders, a door rack of spray bottles, and](/images/cleaning-supply-closet-organization-ideas-hero.jpg)
 
 ## Measure the closet: brooms, vacuums, and tall tools first
 
@@ -43,7 +43,7 @@ The back of the closet door is roughly 14 square feet of free real estate, perfe
 
 **9. Use adhesive hooks inside the door for gloves and bags.** Two small hooks at eye level hold rubber gloves and a roll of trash bags, two items that are always needed and always lost. If your closet door is already doing heavy lifting, our [Over-the-Door Organization Ideas for Every Room](/blog/over-the-door-organization-ideas/) covers weight limits and no-drill options for every door in the house.
 
-![Spray bottles in a clear over-the-door rack with gloves hanging on hooks inside a small cleaning closet door](/images/cleaning-supply-closet-organization-ideas-01.jpg)
+![Spray bottles in a clear over-the-door rack with gloves hanging on hooks inside a small cleaning](/images/cleaning-supply-closet-organization-ideas-01.jpg)
 
 ## The grab-and-go cleaning caddy
 
@@ -65,7 +65,7 @@ Zones are what stop a small closet from turning into one mixed pile. Each zone h
 
 **15. Send deep-clean supplies to the top shelf.** Oven cleaner, grout brush, carpet stain remover, and specialty polishes belong up high, in a single labeled bin, because they are used a few times a year. One bin, not loose bottles, so nothing tips over when you reach for it. If your cleaning closet shares space with laundry, the same zone logic works there too — our [16 Small Laundry Closet Organization Ideas That Actually Fit](/blog/small-laundry-closet-organization-ideas/) shows how to split detergent, cleaning, and drying zones in one tight closet.
 
-![Labeled bins on closet shelves sorted into daily, weekly, and deep-clean zones with a caddy at waist height](/images/cleaning-supply-closet-organization-ideas-02.jpg)
+![Labeled bins on closet shelves sorted into daily, weekly, and deep-clean zones with a caddy at](/images/cleaning-supply-closet-organization-ideas-02.jpg)
 
 ## Labels and safety: keeping chemicals sorted and safe
 
@@ -77,7 +77,7 @@ Labels are not decoration here. They are how you grab the right bottle without r
 
 <div class="tip"><strong>The one-minute safety rule:</strong> every bottle keeps its original label, every cap clicks shut before it goes back on the shelf, and anything without a readable label gets thrown out. Mystery bottles are how accidents happen.</div>
 
-![A labeled cleaning closet with chemicals stored in a latching bin on the top shelf, away from children's reach](/images/cleaning-supply-closet-organization-ideas-03.jpg)
+![A labeled cleaning closet with chemicals stored in a latching bin on the top shelf, away from](/images/cleaning-supply-closet-organization-ideas-03.jpg)
 
 ## The monthly closet check and restock
 
@@ -89,7 +89,7 @@ Even a perfect closet drifts. The monthly check is the ten-minute habit that kee
 
 Not every storage product helps a small cleaning closet. Skip the giant multi-tier rolling cart unless your closet is at least 30 inches wide — in a narrow closet it blocks the door and becomes a junk shelf on wheels. Skip pretty open baskets for spray bottles, because bottles tip, leak, and hide each other; a rack that holds them upright works better. Skip buying a full matching set of containers before measuring your shelves, since a bin half an inch too tall is useless. And skip storing aerosols next to a water heater or furnace — heat and aerosols are a bad combination.
 
-![A small cleaning closet with a rolling cart that blocks the door, showing what not to do in a narrow space](/images/cleaning-supply-closet-organization-ideas-04.jpg)
+![A small cleaning closet with a rolling cart that blocks the door, showing what not to do in a](/images/cleaning-supply-closet-organization-ideas-04.jpg)
 
 ## Frequently asked questions
 

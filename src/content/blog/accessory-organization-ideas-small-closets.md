@@ -9,7 +9,7 @@ image: "/images/accessory-organization-ideas-small-closets-hero.jpg"
 
 Scarves knotted into one tangled ball, handbags squashed flat under a pile of clothes, and a belt you only find after emptying half the closet — if this sounds familiar, your closet does not have a space problem, it has an accessory problem. Accessories are small and oddly shaped, which is why they eat more closet space than your coats do. These **accessory organization ideas** are built for small closets: every piece visible at a glance, reachable with one hand, and stored in a way that keeps its shape. The 17 ideas below turn that daily hunt into a one-glance system.
 
-![A small closet with scarves on rings, handbags upright in dividers, and belts hanging neatly on a rack](/images/accessory-organization-ideas-small-closets-hero.jpg)
+![A small closet with scarves on rings, handbags upright in dividers, and belts hanging neatly on a](/images/accessory-organization-ideas-small-closets-hero.jpg)
 
 ## The accessory audit: what you actually wear vs what you store
 
@@ -41,7 +41,7 @@ Silk snags on rings and rough wood. Fold each scarf with tissue paper between th
 
 <div class="tip"><strong>Quick test:</strong> If pulling one scarf disturbs three others, that method has failed. One scarf, one slot, one motion.</div>
 
-![Scarves hanging individually on a multi-ring hanger inside a small closet, each scarf visible and unwrinkled](/images/accessory-organization-ideas-small-closets-01.jpg)
+![Scarves hanging individually on a multi-ring hanger inside a small closet, each scarf visible and](/images/accessory-organization-ideas-small-closets-01.jpg)
 
 ## Bag storage: keeping shapes intact in small closets
 
@@ -113,7 +113,7 @@ Twice a year, when you switch your wardrobe for warm or cold weather, pull out o
 
 Set a timer for 10 minutes once a week: re-hang fallen scarves, re-stuff slumped bags, return stray belts to the rack, and toss anything broken into a "fix or donate" bag by the door. Ten minutes a week beats a three-hour overhaul every six months.
 
-![A neatly organized closet shelf with labeled bins for scarves and bags, plus a small tray of jewelry on top](/images/accessory-organization-ideas-small-closets-03.jpg)
+![A neatly organized closet shelf with labeled bins for scarves and bags, plus a small tray of](/images/accessory-organization-ideas-small-closets-03.jpg)
 
 ## Mistakes to avoid
 
@@ -121,7 +121,7 @@ The most common accessory-storage mistakes cost money and damage the pieces you 
 
 <div class="tip"><strong>Renter rule:</strong> If a solution needs screws, check your lease first. Over-the-door racks, adhesive hooks, and freestanding dividers give you nearly everything a drilled system does, with nothing to patch at move-out.</div>
 
-![A closet door organizer with pockets holding clutches and small bags, keeping the main closet rod free](/images/accessory-organization-ideas-small-closets-04.jpg)
+![A closet door organizer with pockets holding clutches and small bags, keeping the main closet rod](/images/accessory-organization-ideas-small-closets-04.jpg)
 
 ## Frequently asked questions
 

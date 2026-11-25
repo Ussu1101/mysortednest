@@ -9,7 +9,7 @@ image: "/images/jewelry-organization-small-spaces-hero.jpg"
 
 You reach for a simple gold chain and pull up a knotted ball of necklaces, one earring with no partner, and a bracelet tangled around both. Ten minutes later you are wearing something else, and the piece you actually wanted is still in the pile. The jewelry organization ideas small spaces actually work with fix exactly this, with no bigger bedroom, no dressing room, and no expensive armoire. They follow one rule: every piece gets its own spot, sized to how often you wear it, so nothing touches anything it can tangle with. The 17 ideas below apply that rule from audit to travel.
 
-![A tidy jewelry display in a small space with necklaces hanging separately, earrings on a board, and rings in a divided tray](/images/jewelry-organization-small-spaces-hero.jpg)
+![A tidy jewelry display in a small space with necklaces hanging separately, earrings on a board, and](/images/jewelry-organization-small-spaces-hero.jpg)
 
 ## The tangle test: why jewelry fails in a pile
 
@@ -89,7 +89,7 @@ Drawer storage wins when you dress at a dresser, rent and cannot drill, or prefe
 
 Wall and door systems win when dresser space is scarce, when you own many necklaces, and when seeing everything at once helps you wear what you own. A mirror with hidden storage, an over-door organizer, or a hook rail inside the closet door all use space that otherwise holds nothing. Keep displays out of direct sun, which fades stones and dries leather cords.
 
-![A wall-mounted jewelry organizer and an over-door rack in a small bedroom, with pieces visible and separated](/images/jewelry-organization-small-spaces-02.jpg)
+![A wall-mounted jewelry organizer and an over-door rack in a small bedroom, with pieces visible and](/images/jewelry-organization-small-spaces-02.jpg)
 
 ## Travel jewelry: rolls and pouches that prevent knots
 
@@ -123,7 +123,7 @@ Four times a year, spend fifteen minutes swapping the daily tray and the front r
 
 The fastest way to wreck a good system is to buy before sorting, which leaves you with organizers that fit nothing you own. Hanging several chains on one hook recreates the tangle you just escaped. Do not store silver in a bathroom: steam and humidity tarnish it quickly, so keep jewelry in the bedroom. Avoid open bowls for mixed pieces — a bowl is just a pile with nicer edges. Never store jewelry in direct sunlight; heat and light fade stones and weaken elastic on stretch bracelets.
 
-![A neatly organized jewelry drawer with dividers separating rings, earrings, and bracelets into tidy compartments](/images/jewelry-organization-small-spaces-04.jpg)
+![A neatly organized jewelry drawer with dividers separating rings, earrings, and bracelets into tidy](/images/jewelry-organization-small-spaces-04.jpg)
 
 ## Frequently asked questions
 

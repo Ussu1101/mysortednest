@@ -9,7 +9,7 @@ image: "/images/reachin-hero.jpg"
 
 The standard apartment reach-in closet is roughly 5 feet wide and 24 inches deep, and out of the box it holds exactly one thing well: disappointment. One rod at 60 inches, one wire shelf above it, and everything you own in a pile on the floor. But **small reach in closet organization** is not about buying a bigger wardrobe — it is about reclaiming the air the builder left empty. These 18 ideas are built for the classic single-rod rental closet: a double-hang conversion, dead-corner storage, a working door, and a rotation system for tiny wardrobes. Together they can roughly double what your closet holds — no drilling, no renovation, and most of it for about the cost of a takeout dinner.
 
-![A small reach-in closet fully organized with a double-hang rod, labeled bins on the upper shelf, a slim shoe rack on the floor, and accessories on the door](/images/reachin-hero.jpg)
+![A small reach-in closet fully organized with a double-hang rod, labeled bins on the upper shelf, a](/images/reachin-hero.jpg)
 
 ## Anatomy of a reach-in closet: why the standard layout wastes space
 
@@ -29,7 +29,7 @@ The highest-impact change in any reach-in: two shorter tiers where one rod hung,
 
 **5. Switch to slim velvet hangers and reclaim 4 to 6 inches of rod.** Standard hangers run about 0.4 inches thick; slim velvet ones about 0.2. Over 40 garments that's roughly 8 inches of freed rod — the difference between cramming and breathing. A box of 50 costs about $20: the cheapest upgrade after the rod itself.
 
-![A double-hang rod setup in a small reach-in closet with shirts on the upper rod and folded pants on the lower rod, all on slim matching hangers](/images/small-reach-in-closet-organization-ideas-03.jpg)
+![A double-hang rod setup in a small reach-in closet with shirts on the upper rod and folded pants on](/images/small-reach-in-closet-organization-ideas-03.jpg)
 
 ## The dead corners: what fits in 12 inches of side space
 
@@ -41,7 +41,7 @@ Every reach-in has two vertical dead zones: the 8- to 12-inch wall strips at eac
 
 <div class="tip"><strong>Dead-zone rule:</strong> measure side clearance before buying — leave half an inch of breathing room each side so the tower pulls out freely.</div>
 
-![The side wall of a small reach-in closet with a slim corner shelf holding rolled scarves, a belt organizer, and handbags on hooks](/images/reachin-corners.jpg)
+![The side wall of a small reach-in closet with a slim corner shelf holding rolled scarves, a belt](/images/reachin-corners.jpg)
 
 ## Shelf above the rod: bins, dividers, and what goes up high
 
@@ -69,7 +69,7 @@ The inside of a standard 24-inch closet door is about 5 square feet of vertical 
 
 **14. Mount hooks on the door's inside face for tomorrow's outfit and the "worn once" zone.** Two to three removable hooks at chest height hold tonight's outfit pick, a robe, or jeans worn once and good for another day — the single biggest anti-chairdrobe tool in a small bedroom. Confirm the door still swings freely with the hooks loaded.
 
-![The inside of a closet door with a clear-pocket organizer holding accessories, plus hooks for an outfit and a belt rack](/images/small-reach-in-closet-organization-ideas-04.jpg)
+![The inside of a closet door with a clear-pocket organizer holding accessories, plus hooks for an](/images/small-reach-in-closet-organization-ideas-04.jpg)
 
 ## Seasonal rotation system for tiny closets
 
@@ -81,7 +81,7 @@ A small closet can't hold four seasons at once. Rotate twice a year: current sea
 
 <div class="tip"><strong>Rotation rule:</strong> rotate on a calendar date, not when the weather turns. Mark October 15 and April 15 — one focused hour beats three chaotic weeks of mixed seasons.</div>
 
-![Labeled seasonal storage bins on a closet's top shelf, marked by season, with winter coats folded inside clear bins](/images/reachin-rotation.jpg)
+![Labeled seasonal storage bins on a closet's top shelf, marked by season, with winter coats folded](/images/reachin-rotation.jpg)
 
 ## The 15-minute weekly closet reset
 

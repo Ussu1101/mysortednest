@@ -1,5 +1,5 @@
 ---
-title: "15 Small Apartment Ironing Board Storage Ideas (No More Leaning It in a Corner)"
+title: "15 Small Apartment Ironing Board Storage Ideas"
 description: "Small apartment ironing board storage ideas: wall hooks, over-door racks, and fold-away boards that end the leaning-in-the-corner mess. Try one this weekend."
 pubDate: "November 24, 2026"
 keywords: "small apartment ironing board storage ideas, ironing board storage small space, where to store ironing board apartment"

@@ -11,7 +11,7 @@ A small dresser in a tiny bedroom has one of the hardest jobs in the house: hold
 
 Below are 17 ideas in the order you should do them — audit first, dividers second, folding third, and a weekly reset last. Followed in order, they let a standard 3- or 4-drawer dresser hold a complete everyday wardrobe.
 
-![A small dresser in a tiny bedroom with neatly organized drawers, folded clothes in soft neutral tones, and a calm styled top](/images/small-dresser-organization-ideas-tiny-bedrooms-hero.jpg)
+![A small dresser in a tiny bedroom with neatly organized drawers, folded clothes in soft neutral](/images/small-dresser-organization-ideas-tiny-bedrooms-hero.jpg)
 
 ## The dresser audit: what actually belongs in each drawer
 
@@ -59,7 +59,7 @@ Small items are where dresser organization goes to die. They are soft, oddly sha
 
 **11. Use a honeycomb insert or grid organizer for underwear and accessories.** A collapsible honeycomb insert turns one drawer into 12 to 16 separate cells, each holding one or two items. Underwear, bras, belts, and small accessories each get their own cells, so nothing tangles and nothing disappears under a pile. This is one of the best dresser drawer organization ideas for renters, because it needs zero modification: the insert lifts out when you move.
 
-![A honeycomb drawer organizer with separate cells for socks, underwear, and small accessories in a dresser drawer](/images/small-dresser-organization-ideas-tiny-bedrooms-02.jpg)
+![A honeycomb drawer organizer with separate cells for socks, underwear, and small accessories in a](/images/small-dresser-organization-ideas-tiny-bedrooms-02.jpg)
 
 ## The dresser top: what earns surface space and what doesn't
 
@@ -87,7 +87,7 @@ No organization system maintains itself. The difference between a dresser that s
 
 **17. Do a 60-second drawer check every night before bed.** Open each drawer, straighten the front row, and close it. That is the whole ritual. It takes less time than brushing your teeth, and it catches small drifts — a slipped divider, a shirt pulled halfway out — before they compound into a full reorganization job. A minute a day protects the hour you spent setting the system up.
 
-![A tidy dresser top with a lamp, small tray, and plant, with organized drawers below in a tiny bedroom](/images/small-dresser-organization-ideas-tiny-bedrooms-03.jpg)
+![A tidy dresser top with a lamp, small tray, and plant, with organized drawers below in a tiny](/images/small-dresser-organization-ideas-tiny-bedrooms-03.jpg)
 
 ## Mistakes to avoid
 
@@ -119,7 +119,7 @@ Use the same system at a smaller scale: one bin per category, file-folding for t
 
 Only if there is genuinely nowhere else for it, and only if the TV replaces — not joins — the other top items. A TV consumes the entire surface, so your daily-carry items need a new home, usually a wall shelf or a tray on the nightstand. In most tiny bedrooms, wall-mounting the TV is the better trade.
 
-![Folded clothes arranged in neat upright rows inside a small dresser drawer using the file-folding method](/images/small-dresser-organization-ideas-tiny-bedrooms-04.jpg)
+![Folded clothes arranged in neat upright rows inside a small dresser drawer using the file-folding](/images/small-dresser-organization-ideas-tiny-bedrooms-04.jpg)
 
 ## Conclusion
 

@@ -19,7 +19,7 @@ If your supplies are scattered across five places, you don't have a kit — you 
 
 **Idea 3: Keep a small go-bag inside the bin.** Pack a backpack with a water bottle, snack bars, a phone charger, a flashlight, copies of IDs, and a little cash. If you ever need to leave on foot — a fire alarm, a gas leak — you grab the backpack and go.
 
-![A bright red latching storage tote labeled emergency kit on a closet shelf, with water bottles and a flashlight visible inside](/images/small-apartment-emergency-supply-storage-ideas-01.jpg)
+![A bright red latching storage tote labeled emergency kit on a closet shelf, with water bottles and](/images/small-apartment-emergency-supply-storage-ideas-01.jpg)
 
 ## Water storage when you have no garage or basement
 
@@ -39,7 +39,7 @@ Most apartments have first aid supplies scattered everywhere: bandages in the ba
 
 **Idea 7: Put a 7-day pill organizer and a printed medication list in a zip-top bag.** If anyone in your home takes daily medication, keep a one-week supply in a labeled pill organizer inside the kit, plus a printed list of every medication, dose, allergies, and your doctor's phone number. A phone can die; paper doesn't.
 
-![A compact labeled first aid box with bandages, gauze, and a pill organizer arranged on a shelf beside a water bottle](/images/small-apartment-emergency-supply-storage-ideas-02.jpg)
+![A compact labeled first aid box with bandages, gauze, and a pill organizer arranged on a shelf](/images/small-apartment-emergency-supply-storage-ideas-02.jpg)
 
 ## Flashlights, batteries, and power: the charging corner
 
@@ -57,7 +57,7 @@ Documents and cash are what you'd grab with 60 seconds to leave — and exactly 
 
 **Idea 11: Store $100 in small bills in a labeled envelope inside the kit.** ATMs and card machines stop working in a power outage. Keep about $100 in small bills — tens, fives, and ones — in a sealed, labeled envelope. This is not a savings stash; it's a tool, and it lives in the kit, not in your wallet. See [16 Home Paperwork Organization Ideas for Small Spaces (Bills, Files, No Piles)](/blog/home-paperwork-organization-ideas-small-spaces/) for the everyday side of this system.
 
-![A waterproof document folder with ID copies, insurance cards, and a cash envelope stored in a closet beside the emergency bin](/images/small-apartment-emergency-supply-storage-ideas-03.jpg)
+![A waterproof document folder with ID copies, insurance cards, and a cash envelope stored in a](/images/small-apartment-emergency-supply-storage-ideas-03.jpg)
 
 ## Under-bed and top-shelf: where the kit lives without cluttering
 
@@ -77,7 +77,7 @@ An unchecked kit is just a box of expired food and dead batteries. The fix is a 
 
 <div class="tip"><strong>Don't overbuy:</strong> A kit for a small apartment should cover three days, not three weeks. Buying a month of canned food you have nowhere to store is how emergency supplies become clutter. Three days of supplies covers the emergencies apartments actually face.</div>
 
-![A person checking expiration dates on emergency supplies with a printed checklist, the labeled bin open on a bed](/images/small-apartment-emergency-supply-storage-ideas-04.jpg)
+![A person checking expiration dates on emergency supplies with a printed checklist, the labeled bin](/images/small-apartment-emergency-supply-storage-ideas-04.jpg)
 
 ## Kids and pets: their emergency needs in the same system
 

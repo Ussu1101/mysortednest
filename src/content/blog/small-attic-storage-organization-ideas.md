@@ -9,7 +9,7 @@ image: "/images/small-attic-storage-organization-ideas-hero.jpg"
 
 A small attic should be the easiest storage in your house. It is already there, it costs nothing extra, and it holds the things you only need twice a year. Instead, most attics become a dark slope full of unmarked boxes, where every trip up the ladder ends with kneeling on joists and guessing. Small attic storage organization is not about buying more bins. It is about deciding what earns attic space, giving every item a zone that matches the ceiling height above it, and building a system you can actually use in the dark and with both hands full.
 
-![A bright, tidy small attic with labeled storage bins stacked along the low eaves and a clear walkway down the center](/images/small-attic-storage-organization-ideas-hero.jpg)
+![A bright, tidy small attic with labeled storage bins stacked along the low eaves and a clear](/images/small-attic-storage-organization-ideas-hero.jpg)
 
 ## The attic audit: what deserves attic space and what doesn't
 
@@ -41,7 +41,7 @@ The triangular corners behind the roofline are the hardest to reach, so give the
 
 <div class="tip"><strong>Measure before you buy:</strong> measure the height at the eaves, the width of your attic hatch, and the depth of your deepest corner before ordering a single bin. A bin that does not fit through the hatch is a bin you will be carrying back down the ladder.</div>
 
-![Labeled storage bins arranged by height in a small attic, with tall bins in the center and low flat bins tucked under the sloped eaves](/images/small-attic-storage-organization-ideas-01.jpg)
+![Labeled storage bins arranged by height in a small attic, with tall bins in the center and low flat](/images/small-attic-storage-organization-ideas-01.jpg)
 
 ## Bins that survive attics: sealed, labeled, and stackable
 
@@ -71,7 +71,7 @@ Install plywood or attic decking panels, at least 24 inches wide, running from t
 
 If your attic still uses a wobbly step stool or a loose ladder, replace it with a proper pull-down attic ladder rated for at least 250 pounds, or a fixed set of steps if you have the room. Mount a grab handle or a short rail beside the hatch opening so you can steady yourself with one hand while carrying a bin with the other. 
 
-![A safe plywood walkway running down the center of a small attic, with storage bins stacked neatly on both sides](/images/small-attic-storage-organization-ideas-02.jpg)
+![A safe plywood walkway running down the center of a small attic, with storage bins stacked neatly](/images/small-attic-storage-organization-ideas-02.jpg)
 
 ## Labeling that works in the dark: big, bright, and on two sides
 
@@ -99,7 +99,7 @@ Paint cans, cleaning chemicals, and aerosol cans can leak, rust, or burst in tem
 
 <div class="tip"><strong>Check for leaks twice a year:</strong> after the first heavy rain of spring and after the first hard freeze of winter, look for water stains on the roof decking above your bins. A small stain caught early is a ten-minute fix; a stain found a year later is a ruined keepsake box.</div>
 
-![Sealed plastic storage bins with large bright labels on two sides, stacked in a small attic under a sloped roof](/images/small-attic-storage-organization-ideas-03.jpg)
+![Sealed plastic storage bins with large bright labels on two sides, stacked in a small attic under a](/images/small-attic-storage-organization-ideas-03.jpg)
 
 ## The yearly attic sweep: keeping it from becoming a dumping ground
 

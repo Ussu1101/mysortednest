@@ -9,7 +9,7 @@ image: "/images/small-kitchen-herb-garden-ideas-hero.jpg"
 
 Fresh basil snipped into a pasta sauce tastes nothing like the dried flakes in your spice drawer, but in a tiny kitchen the counter space for a herb garden feels like a luxury you cannot afford. Herbs do not need a counter at all. These small kitchen herb garden ideas use the windowsill, the wall, and the strip of backsplash above your sink — surfaces you already walk past but never use — so you can grow fresh herbs without giving up a single inch of prep space.
 
-![A bright windowsill herb garden in a tiny kitchen with basil, parsley and mint in matching terracotta pots](/images/small-kitchen-herb-garden-ideas-hero.jpg)
+![A bright windowsill herb garden in a tiny kitchen with basil, parsley and mint in matching](/images/small-kitchen-herb-garden-ideas-hero.jpg)
 
 ## Pick your herbs: the five that earn kitchen space
 

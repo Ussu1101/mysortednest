@@ -11,7 +11,7 @@ A tiny bathroom fails when every bottle, brush, and tube fights for the same two
 
 Here are 18 concrete ideas organized by zone — no renovation required, renter-friendly wherever possible. Each names the product type, the measurements, and the trade-offs.
 
-![Small bathroom storage ideas hero: warm editorial view of a tiny bathroom with over-toilet shelving, sage and terracotta accents, and a tidy countertop](/images/small-bathroom-storage-ideas-hero.jpg)
+![Small bathroom storage ideas hero: warm editorial view of a tiny bathroom with over-toilet](/images/small-bathroom-storage-ideas-hero.jpg)
 
 ## The bathroom triage: purge and measure first
 
@@ -41,7 +41,7 @@ If you can drill, two floating shelves 10–12 inches deep, spaced 12–15 inche
 
 The dead gap between the toilet and the wall or vanity is often 6–8 inches wide — exactly the width of a slim rolling cart. Three tiers hold cleaning supplies, extra toilet paper, and backup toiletries where nothing else fits. Under 5 inches, use a wall-mounted basket instead. For towel overflow that outgrows even this zone, our [Tiny Linen Closet Organization Ideas](/blog/tiny-linen-closet-organization-ideas/) covers where else towels can live.
 
-![Over-toilet shelving in a small bathroom: floating wooden shelves with rolled towels, apothecary jars, and a small trailing plant above a white toilet](/images/small-bathroom-storage-ideas-01.jpg)
+![Over-toilet shelving in a small bathroom: floating wooden shelves with rolled towels, apothecary](/images/small-bathroom-storage-ideas-01.jpg)
 
 ## Vanity cabinet and drawer zones: every inch assigned
 
@@ -93,7 +93,7 @@ Four to six over-door hooks on a single rail, spaced 4–5 inches apart, give ro
 
 A clear over-the-door pocket organizer (the shoe-pocket style) swallows the extras: spare soap, contact lens solution, travel minis, sunscreen. The clear pockets are the whole point — in a dark bathroom, you find what you can see. Keep heavier items in the lower rows so it doesn't pull the door off-balance.
 
-![Over-the-door bathroom storage: towel bars and a hook rail on the back of a bathroom door holding rolled towels, a robe, and a clear pocket organizer](/images/small-bathroom-storage-ideas-02.jpg)
+![Over-the-door bathroom storage: towel bars and a hook rail on the back of a bathroom door holding](/images/small-bathroom-storage-ideas-02.jpg)
 
 ## Medicine cabinet and mirror storage swaps
 
@@ -121,7 +121,7 @@ What stays in the bathroom should survive steam: sealed bottles, tubes, screw-ca
 
 <div class="tip"><strong>Humidity check:</strong> If your mirror stays foggy more than 20 minutes after a shower, your exhaust fan isn't keeping up. Run the fan during showers and for 20 minutes after — the <a href="https://www.epa.gov/mold/brief-guide-mold-moisture-and-your-home">EPA's guide to mold and moisture</a> recommends exactly that habit to keep mold from getting a foothold.</div>
 
-![Under-sink vanity storage zones: labeled bins and a tiered shelf organized around bathroom plumbing pipes in ivory and sage tones](/images/small-bathroom-storage-ideas-03.jpg)
+![Under-sink vanity storage zones: labeled bins and a tiered shelf organized around bathroom plumbing](/images/small-bathroom-storage-ideas-03.jpg)
 
 ## Mistakes to avoid and what NOT to buy
 
@@ -155,6 +155,6 @@ Cap the visible items: nothing on the counter except soap and one tray, everythi
 
 Yes — it's the best home for them. Under-sink space is dark and rarely opened, which suits cleaners. Keep them in one labeled bin (idea 6), away from medications and personal care products, bottles standing upright.
 
-![Shower corner storage: a tension pole caddy with baskets of bottles and a suction shelf on smooth tile in a bright small bathroom](/images/small-bathroom-storage-ideas-04.jpg)
+![Shower corner storage: a tension pole caddy with baskets of bottles and a suction shelf on smooth](/images/small-bathroom-storage-ideas-04.jpg)
 
 Every zone now has a job: purge and measure first, towels above the toilet and behind the door, every vanity inch assigned a category, and the shower holding only what gets wet daily. Eighteen ideas, no renovation, most of them renter-safe. Save this pin for later, then browse more renter-friendly layouts in our [small-spaces collection](/categories/small-spaces/).

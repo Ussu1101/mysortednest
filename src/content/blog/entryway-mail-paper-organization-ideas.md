@@ -9,7 +9,7 @@ image: "/images/entryway-mail-paper-organization-ideas-hero.jpg"
 
 Mail comes in every day, but in a small home it has nowhere to go. It lands on the nearest flat surface by the door — the console, the shoe bench, the top of a radiator — and within a week that surface is buried under envelopes, flyers, catalogs, and school forms. These entryway mail organization ideas are built for exactly that problem: a small home with no spare room and no mudroom, where the front door opens straight into the living space. You will set up one landing spot for paper, sort it in under a minute when it arrives, and clear it out once a week so the pile never comes back.
 
-![A tidy small entryway mail station with a wall sorter, one inbox tray, and keys on hooks beside the front door](/images/entryway-mail-paper-organization-ideas-hero.jpg)
+![A tidy small entryway mail station with a wall sorter, one inbox tray, and keys on hooks beside the](/images/entryway-mail-paper-organization-ideas-hero.jpg)
 
 ## The mail pile problem: why paper lands at the door
 
@@ -105,7 +105,7 @@ Even a good system accumulates paper. The weekly clear-out is the safety net: te
 
 Pick a fixed time — Sunday evening works for most households — and spend ten minutes on three jobs: empty the action tray (pay, reply, or file everything in it), move file items to their permanent folder, and recycle anything that survived the week unopened. Set a phone reminder for the first month until the habit sticks. If a hall closet is nearby, that is the natural home for the file box — our [hall closet organization ideas for small homes](/blog/hall-closet-organization-ideas-small/) show how to carve out a filing spot in even a shallow closet.
 
-![A weekly paper clear-out in progress: a tidy entryway tray, a small filing box, and a recycling bag by the door](/images/entryway-mail-paper-organization-ideas-02.jpg)
+![A weekly paper clear-out in progress: a tidy entryway tray, a small filing box, and a recycling bag](/images/entryway-mail-paper-organization-ideas-02.jpg)
 
 ## Mistakes to avoid
 

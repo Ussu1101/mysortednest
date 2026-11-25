@@ -9,7 +9,7 @@ image: "/images/family-charging-station-ideas-small-homes-hero.jpg"
 
 Every small home has the same nightly scene: phones in kitchen outlets, a tablet cable snaking across the sofa, a laptop charger lost behind the bed, and someone asking where their cable went. The problem is rarely the number of devices. It is that charging has no home, so every device lands wherever an outlet happens to be free. These family charging station ideas fix that with one tidy hub, cables labeled, hidden, and always ready to go. You will learn how to size a station, pick its one spot, hide the cables, keep kids safe, and build a plug-in routine that sticks.
 
-![A tidy family charging station in a small home, with phones and a tablet charging on a shelf in warm neutral tones](/images/family-charging-station-ideas-small-homes-hero.jpg)
+![A tidy family charging station in a small home, with phones and a tablet charging on a shelf in](/images/family-charging-station-ideas-small-homes-hero.jpg)
 
 ## Count the devices: sizing the station to your household
 
@@ -89,7 +89,7 @@ Mount the power strip inside the drawer, under the shelf, or behind a small cove
 
 Teach every child three checks: the cable is not frayed or hot, the plug goes in straight and fully, and the device lies flat on a hard surface, never under bedding, in a bag, or on a sofa cushion. Damaged cables go into a labeled "broken" box for an adult to replace. Let older kids own the weekly cable check: safety as responsibility, not a lecture.
 
-![A kid-safe family charging station with labeled slots, short cables, and a power strip tucked out of reach](/images/family-charging-station-ideas-small-homes-02.jpg)
+![A kid-safe family charging station with labeled slots, short cables, and a power strip tucked out](/images/family-charging-station-ideas-small-homes-02.jpg)
 
 ## Travel and grab-and-go charging kits
 
@@ -111,7 +111,7 @@ The best station fails without a routine: it only works when devices actually la
 
 Pick a habit the household already shares, dinner cleanup, teeth brushing, or the last show of the evening, and make plug-in the step right after it. Devices go to their labeled slots, cables clip in, and the station gets a ten-second glance: every slot filled, no cable on the floor, nothing charging under a blanket. Stick a "plug in before bed" note on the station for two weeks, then remove it once the habit holds. Dinner cleanup is the best anchor: the cue comes before anyone is tired enough to skip it.
 
-![A family plugging devices into a labeled charging station in the evening as part of a nightly routine](/images/family-charging-station-ideas-small-homes-03.jpg)
+![A family plugging devices into a labeled charging station in the evening as part of a nightly](/images/family-charging-station-ideas-small-homes-03.jpg)
 
 ## Mistakes to avoid
 

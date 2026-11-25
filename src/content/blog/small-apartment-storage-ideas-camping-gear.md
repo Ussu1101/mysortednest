@@ -9,7 +9,7 @@ image: /images/small-apartment-storage-ideas-camping-gear-hero.jpg
 
 Camping gear is wonderful on the trail and a menace at home. A tent, two sleeping bags, camp chairs, a cooler, and a camp stove can swallow an entire closet — and in a small apartment there is no garage, basement, or shed to hide it all in. These small apartment storage ideas for camping gear solve that with space you already have: the gap under your bed, the wall above your door, one closet shelf, and a corner of the balcony. Below are 15 small apartment storage ideas camping gear owners can use without a garage, a basement, or a shed.
 
-![A neatly organized camping gear closet in a small apartment, with a tent, sleeping bags, and camp chairs stored on shelves](/images/small-apartment-storage-ideas-camping-gear-hero.jpg)
+![A neatly organized camping gear closet in a small apartment, with a tent, sleeping bags, and camp](/images/small-apartment-storage-ideas-camping-gear-hero.jpg)
 
 ## The gear audit: what you use every trip vs once a year
 

@@ -31,7 +31,7 @@ A horizontal wall mount with two padded arms cradles the top tube and holds the 
 
 A vertical hook or rail mount grabs the front wheel and lets the bike stand upright, taking up about as much width as a coat rack. This is the answer for narrow hallways and the strip of wall beside a door. Add a small adhesive felt pad where the tire touches the wall to stop scuff marks. For more ways to claim height instead of floor space, see these [vertical storage ideas for small apartments](/blog/vertical-storage-ideas-small-apartments/).
 
-![A bike hanging vertically on a wall mount in a small apartment, front wheel up, with the floor clear below](/images/bike-storage-ideas-small-apartments-01.jpg)
+![A bike hanging vertically on a wall mount in a small apartment, front wheel up, with the floor](/images/bike-storage-ideas-small-apartments-01.jpg)
 
 ## Ceiling hoists for high ceilings and tall rooms
 
@@ -81,7 +81,7 @@ A tension pole rack presses between the floor and ceiling and carries two or fou
 
 Combine a freestanding floor stand with removable adhesive pads where tires or handlebars meet the wall. The stand does the holding; the pads only prevent scuffs. Skip adhesive hooks for the bike itself: most are rated for a few pounds, and a 25 to 35 pound bike will peel them off the wall, usually at night.
 
-![A freestanding bike stand in a small apartment corner holding a bike upright, with no wall drilling required](/images/bike-storage-ideas-small-apartments-02.jpg)
+![A freestanding bike stand in a small apartment corner holding a bike upright, with no wall drilling](/images/bike-storage-ideas-small-apartments-02.jpg)
 
 ## Keeping floors clean: trays, mats, and quick wipe-downs
 
@@ -109,13 +109,13 @@ Mount a small hook rail, adhesive strip, or over-the-door hooks beside the bike'
 
 Rechargeable bike lights die at the worst moment: halfway home, in the rain. Keep a small charging tray or USB strip on the entry shelf where the lights live, and plug them in the moment you get home. Making charging part of arriving — not a separate chore — means the lights are always ready, and the routine takes five seconds.
 
-![A tidy entryway setup beside a parked bike with a helmet, lock, and lights hanging on hooks by the front door](/images/bike-storage-ideas-small-apartments-03.jpg)
+![A tidy entryway setup beside a parked bike with a helmet, lock, and lights hanging on hooks by the](/images/bike-storage-ideas-small-apartments-03.jpg)
 
 ## Mistakes to avoid
 
 The most common bike storage mistakes are not about buying the wrong product; they are about skipping the measurements and the lease check. Do not mount a heavy bike into bare drywall, hang a bike over a walkway or bed, or store a bike in a shared hallway that doubles as a fire escape. Do not buy a stand before measuring the bike's length and ceiling height, and do not assume a balcony is weatherproof just because it has a roof — wind-driven rain reaches further than you expect.
 
-![A bike stored neatly in a small apartment living space with a clean floor and organized entry accessories](/images/bike-storage-ideas-small-apartments-04.jpg)
+![A bike stored neatly in a small apartment living space with a clean floor and organized entry](/images/bike-storage-ideas-small-apartments-04.jpg)
 
 ## Frequently asked questions
 

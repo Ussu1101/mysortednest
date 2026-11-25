@@ -9,7 +9,7 @@ image: "/images/small-living-room-corner-storage-ideas-hero.jpg"
 
 Look at the four corners of your living room right now. Chances are, at least two of them hold nothing but a dust bunny and a power outlet. These small living room corner storage ideas turn that dead space into real storage — shelves, cabinets, baskets, and reading nooks that fit even the tightest apartment. You need a tape measure, one job per corner, and pieces sized for the triangle where two walls meet.
 
-![A small living room corner with floating shelves, a basket, and a reading chair making use of wasted space](/images/small-living-room-corner-storage-ideas-hero.jpg)
+![A small living room corner with floating shelves, a basket, and a reading chair making use of](/images/small-living-room-corner-storage-ideas-hero.jpg)
 
 ## Why corners are the most wasted square footage in a living room
 

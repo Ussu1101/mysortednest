@@ -21,7 +21,7 @@ Measure the hallway wall to wall, then subtract at least 36 inches for a comfort
 
 Standard console height is around 30 to 36 inches, roughly counter height, which matters because you drop keys and mail at hand level when you walk in. If the console sits under a mirror, leave at least 6 inches between the tabletop and the mirror's bottom edge for a small tray or vase.
 
-![A slim hallway console table in a narrow hall with a clear walkway, a small tray, and baskets underneath](/images/small-hallway-console-table-organization-ideas-hero.jpg)
+![A slim hallway console table in a narrow hall with a clear walkway, a small tray, and baskets](/images/small-hallway-console-table-organization-ideas-hero.jpg)
 
 ## The landing zone: keys, mail, and sunglasses in one spot
 

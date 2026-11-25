@@ -9,7 +9,7 @@ image: "/images/small-apartment-storage-ideas-fishing-gear-hero.jpg"
 
 Fishing gear is the worst kind of apartment clutter. Rods are six to nine feet long, tackle multiplies every time you visit a shop, and waders come home wet, muddy, and smelling like the river. Without a garage, it all ends up leaning in a corner or draped over a chair until someone trips over it. These small apartment storage ideas for fishing gear fix that with vertical rod racks, a labeled tackle wall, a real drying zone, and a grab-and-go kit — so the whole setup fits in one closet corner and you can be out the door in five minutes. Below are 15 small apartment storage ideas fishing gear owners can use without a garage, a basement, or a shed.
 
-![A tidy apartment corner with fishing rods stored vertically in a wall rack, tackle boxes on a shelf, and waders hanging on hooks](/images/small-apartment-storage-ideas-fishing-gear-hero.jpg)
+![A tidy apartment corner with fishing rods stored vertically in a wall rack, tackle boxes on a](/images/small-apartment-storage-ideas-fishing-gear-hero.jpg)
 
 ## The gear audit: rods, reels, tackle, and waders — what you really use
 
@@ -41,9 +41,9 @@ When wall space is gone, use the ceiling. A ceiling rod rack — two parallel fo
 
 If you cannot drill and cannot use adhesive, a freestanding rod stand is your answer. These weighted-base stands hold four to eight rods upright in a 12-inch-diameter footprint and tuck into the corner behind a door or beside a wardrobe. Pick one with a rubberized base and individual slots, not a single open tube — slots stop rods from clacking together and chipping guides.
 
-![Fishing rods stored vertically in a freestanding rod stand in an apartment corner, with a small tackle bag beside it](/images/small-apartment-storage-ideas-fishing-gear-01.jpg)
+![Fishing rods stored vertically in a freestanding rod stand in an apartment corner, with a small](/images/small-apartment-storage-ideas-fishing-gear-01.jpg)
 
-## Tackle organization: small boxes, labels, and the one-box-per-trip rule
+## Tackle organization: small boxes, labels, and one box per trip
 
 Tackle is where apartment fishing storage goes wrong: small parts in unlabeled boxes become a junk drawer within a month. Use small containers, visible labels, and a hard limit — one working box per trip type.
 
@@ -73,7 +73,7 @@ Hang waders by their boot feet from two wide, padded hooks mounted about 18 inch
 
 Fishing boots need airflow, not just time. Set a small USB fan — about $10 — on a shelf aimed at the boots and run it for two to three hours after a trip. Stuff boots with newspaper or cedar shoe inserts overnight, then remove the stuffing in the morning so air can finish the job. Never store boots in a sealed bin while damp: sealed plus wet equals mildew in about 48 hours.
 
-![Waders hanging upside down on wall hooks above a drip tray, with fishing boots drying on a mat beside them](/images/small-apartment-storage-ideas-fishing-gear-02.jpg)
+![Waders hanging upside down on wall hooks above a drip tray, with fishing boots drying on a mat](/images/small-apartment-storage-ideas-fishing-gear-02.jpg)
 
 ## The grab-and-go kit: one bag that holds a whole fishing trip
 
@@ -95,7 +95,7 @@ A weatherproof deck box (about 30×20×20 inches) on the balcony can hold your l
 
 Give fishing gear exactly one corner of one closet — not the whole closet, not a shelf here and a hook there. Inside that corner, mark three zones: rods on the wall (vertical rack), tackle on a shelf (stacked small boxes), and waders on hooks with a tray below. A strip of painter's tape on the shelf edge, labeled "FISHING ONLY," stops other household items from colonizing the space.
 
-![A compact apartment closet corner organized into zones: a vertical rod rack on the wall, stacked tackle boxes on a shelf, and waders on hooks](/images/small-apartment-storage-ideas-fishing-gear-03.jpg)
+![A compact apartment closet corner organized into zones: a vertical rod rack on the wall, stacked](/images/small-apartment-storage-ideas-fishing-gear-03.jpg)
 
 ## Keeping gear clean and dry between trips
 
@@ -115,7 +115,7 @@ Set a timer for 20 minutes and run the same sequence every time: rods rinsed and
 
 <div class="tip"><strong>The 20-minute rule:</strong> If the reset takes longer than 20 minutes, your system has too much gear in it. That is the signal to re-run the audit from idea 1, not to buy a bigger storage unit.</div>
 
-![A fishing trip bag packed and hanging by the door next to a vertical rod rack, ready for the next outing](/images/small-apartment-storage-ideas-fishing-gear-04.jpg)
+![A fishing trip bag packed and hanging by the door next to a vertical rod rack, ready for the next](/images/small-apartment-storage-ideas-fishing-gear-04.jpg)
 
 ## Mistakes to avoid
 

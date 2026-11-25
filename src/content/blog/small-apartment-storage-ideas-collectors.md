@@ -9,7 +9,7 @@ image: "/images/small-apartment-storage-ideas-collectors-hero.jpg"
 
 Your collection started with one shelf. Now it owns the coffee table, the top of the bookshelf, and a stack of boxes you are afraid to open. The problem is not that you collect too much — it is that a small apartment leaves no room to both show off favorites and protect the rest. The small apartment storage ideas collectors actually stick with solve both at once: a small, curated display that changes on a schedule, and protected, cataloged storage for the rest. These 16 ideas work in a rental and need no renovation, and keep your collection visible, safe, and under control.
 
-![A curated wall shelf displaying a small rotating collection of figurines and framed items in a bright apartment](/images/small-apartment-storage-ideas-collectors-hero.jpg)
+![A curated wall shelf displaying a small rotating collection of figurines and framed items in a](/images/small-apartment-storage-ideas-collectors-hero.jpg)
 
 ## The collection audit: display, store, sell, or let go
 
@@ -37,7 +37,7 @@ After each swap, set aside the next set of pieces in a labeled "next up" box, st
 
 <div class="tip"><strong>Rotation tip:</strong> Photograph each display arrangement before you take it down. The photos become a catalog of your best displays and a quick reference for what you have already shown.</div>
 
-![A tidy rotation shelf with a few displayed collectibles and labeled storage boxes stacked neatly below](/images/small-apartment-storage-ideas-collectors-01.jpg)
+![A tidy rotation shelf with a few displayed collectibles and labeled storage boxes stacked neatly](/images/small-apartment-storage-ideas-collectors-01.jpg)
 
 ## Wall display that looks curated, not cluttered
 
@@ -115,7 +115,7 @@ When a new piece comes home, choose its outgoing partner before the new one goes
 
 Decide your ceiling now: one storage box per category, or two boxes for your main collection and one for everything else. When the box is full, the collection is full — the next piece in means a piece out, even from storage.
 
-![A compact glass display cabinet with a few favorite collectibles and storage boxes tucked neatly beneath](/images/small-apartment-storage-ideas-collectors-03.jpg)
+![A compact glass display cabinet with a few favorite collectibles and storage boxes tucked neatly](/images/small-apartment-storage-ideas-collectors-03.jpg)
 
 ## Mistakes to Avoid
 

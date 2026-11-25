@@ -33,7 +33,7 @@ Add a second shorter rail 12 inches below: short jackets and kids' coats down lo
 
 A wooden folding rail with 6–8 pegs swivels flat against the wall — full capacity when guests arrive, a clean wall when it's just you. About 2 inches deep folded, so it never snags bags. Mount into studs (or heavy-duty adhesive for versions under 20 lb total load).
 
-![Warm editorial photo of a white apartment hallway with a wooden folding peg rail and coats hanging at two staggered heights, Scandinavian minimal style](/images/entrycoat-hero.jpg)
+![Warm editorial photo of a white apartment hallway with a wooden folding peg rail and coats hanging](/images/entrycoat-hero.jpg)
 
 If your entryway is the first two feet of your living room, these hooks still work — just define the zone around them, the way [15 Small Entryway Organization Ideas (Even With No Foyer)](/blog/small-entryway-organization-ideas-no-foyer/) carves a drop zone from open space.
 
@@ -55,7 +55,7 @@ For the two-week shoulder seasons when winter coats and spring jackets overlap, 
 
 <div class="tip"><strong>Stability check:</strong> Load any freestanding rack with your heaviest coats before committing to its spot. If it wobbles with four, it will topple with six plus a tote bag.</div>
 
-![Slim freestanding coat rack with tripod base in a narrow apartment hallway, ivory walls and soft daylight, coats hung neatly with space between them](/images/entrycoat-rack.jpg)
+![Slim freestanding coat rack with tripod base in a narrow apartment hallway, ivory walls and soft](/images/entrycoat-rack.jpg)
 
 ## Over-the-door coat and bag organizers
 
@@ -71,7 +71,7 @@ A fabric or clear-pocket organizer on a bedroom or closet door (not the front do
 
 For more on matching brackets to your door type, the breakdown in [Over-the-Door Organization Ideas for Every Room](/blog/over-the-door-organization-ideas/) covers measuring and renter-safe hanging rules.
 
-![Over-the-door hook panel on the back of an apartment front door holding a rain shell, tote bag and dog leash, warm beige interior](/images/entrycoat-door.jpg)
+![Over-the-door hook panel on the back of an apartment front door holding a rain shell, tote bag and](/images/entrycoat-door.jpg)
 
 ## Bench + hooks combo: seating plus storage
 
@@ -87,7 +87,7 @@ Two 12×12×12-inch lidded baskets hide gloves, hats, scarves, umbrellas, and re
 
 <div class="tip"><strong>Door-swing math:</strong> Open your front door fully and mark its arc on the floor with painter's tape before buying a bench. The bench must sit completely outside that arc — one that blocks the door gets moved within a week, and the system dies with it.</div>
 
-![Entryway bench in sage and cream tones with coats on a hook rail above, lidded baskets tucked underneath, soft daylight from a nearby window](/images/entrycoat-bench.jpg)
+![Entryway bench in sage and cream tones with coats on a hook rail above, lidded baskets tucked](/images/entrycoat-bench.jpg)
 
 ## Seasonal rotation: off-season coats don't live by the door
 
@@ -117,7 +117,7 @@ A rigid plastic or rubber boot tray (roughly 30×18 inches, about $15–$25) cat
 
 Make the end hook nearest the tray the permanent wet-gear hook: damp rain shells and dog-walking jackets hang here, away from dry coats so air circulates. A small microfiber cloth on the same hook wipes the tray. One dedicated hook keeps a single wet coat from dampening your whole system.
 
-![Boot tray with raised edges under a wall hook row, wet rain shell on a designated end hook, droplets contained, warm editorial lighting](/images/entrycoat-tray.jpg)
+![Boot tray with raised edges under a wall hook row, wet rain shell on a designated end hook,](/images/entrycoat-tray.jpg)
 
 ## Mistakes to avoid
 

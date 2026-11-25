@@ -9,7 +9,7 @@ image: "/images/small-bathroom-storage-ideas-renters-hero.jpg"
 
 A rental bathroom gives you two problems at once: almost no storage, and a lease that forbids the obvious fixes. You cannot drill into the tile or screw a cabinet to the wall, so bottles pile up on the sink, towels live on the floor, and the room feels cramped no matter how often you clean it. The fix is not more willpower — it is storage that works with the lease instead of against it. These small bathroom storage ideas for renters install without a single hole and come down cleanly when you move out. Sixteen ideas, sorted by zone, from the shower wall to the vanity drawer to the back of the door.
 
-![A tiny rental bathroom with suction shelves, an over-door rack, and tidy toiletries in warm light, with no drilling anywhere](/images/small-bathroom-storage-ideas-renters-hero.jpg)
+![A tiny rental bathroom with suction shelves, an over-door rack, and tidy toiletries in warm light,](/images/small-bathroom-storage-ideas-renters-hero.jpg)
 
 ## The renter's bathroom rulebook: what 'no damage' really means here
 

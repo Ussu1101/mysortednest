@@ -29,7 +29,7 @@ The gap beside a stacked pair is the most useful space in the room, and most peo
 
 **4. Put the cart on the washer side, not the dryer side.** The dryer side runs hotter and vibrates more — bad for liquid detergent. The washer side is cooler and steadier, and it puts the detergent where your hand goes when you load the machine. A second gap fits a narrow cart for dryer sheets and the lint roller.
 
-![Slim white rolling cart beside a stacked washer and dryer holding detergent bottles, stain remover, and dryer balls in a narrow laundry closet](/images/small-laundry-room-organization-stacked-machines-01.jpg)
+![Slim white rolling cart beside a stacked washer and dryer holding detergent bottles, stain remover,](/images/small-laundry-room-organization-stacked-machines-01.jpg)
 
 ## Shelf above the stack: what belongs up high
 
@@ -49,7 +49,7 @@ Full-size detergent jugs are shaped for a wide shelf in a big laundry room. On a
 
 **9. Build a one-load caddy that lives on the shelf and travels to the machine.** A small handled caddy — about 10 by 6 inches — holds exactly what one load needs: the detergent pump bottle, a stain stick, and two dryer balls. Grab it, run the load, put it back. It is the same contained-system trick behind [16 Small Laundry Closet Organization Ideas](/blog/small-laundry-closet-organization-ideas/).
 
-![Decanted laundry detergent in slim pump bottles and labeled jars arranged in a row on a narrow shelf above a stacked washer and dryer](/images/small-laundry-room-organization-stacked-machines-02.jpg)
+![Decanted laundry detergent in slim pump bottles and labeled jars arranged in a row on a narrow](/images/small-laundry-room-organization-stacked-machines-02.jpg)
 
 ## The folding zone: a shelf that pulls out, not a table
 
@@ -67,7 +67,7 @@ A stacked laundry room has one door, one walkway, and no spare floor. A freestan
 
 **13. Use a wall-mounted accordion drying rack that folds flat.** It pulls out to about 20 inches deep in use, then folds flat to 3 inches when you are done. Mount it on the side wall at shoulder height, away from the door swing you marked in idea 2. It holds shirts and delicates, and the room is back to full width once they are dry.
 
-![Wall-mounted accordion drying rack unfolded beside a stacked washer and dryer with shirts and delicates hanging to air dry in a small laundry room](/images/small-laundry-room-organization-stacked-machines-03.jpg)
+![Wall-mounted accordion drying rack unfolded beside a stacked washer and dryer with shirts and](/images/small-laundry-room-organization-stacked-machines-03.jpg)
 
 ## Sorting system for one tiny room: 2 hampers, not 4
 
@@ -87,7 +87,7 @@ Stacked machines in a small room trap heat and moisture, and a front-load washer
 
 **17. Clean the dryer vent and lint path on a schedule.** Pull the lint filter after every load. Once a month, vacuum the lint trap housing with a narrow nozzle and check the vent hose for kinks or lint buildup. A blocked vent makes the dryer run longer and hotter, and it is a genuine fire risk: the U.S. Fire Administration lists failure to clean dryers as a leading cause of dryer fires. See the [U.S. Fire Administration's dryer fire safety page](https://www.usfa.dhs.gov/downloads/pdf/publications/clothes_dryer_fire_safety_flyer.pdf).
 
-![Open front-load washer door with a clean rubber gasket and a small step stool beside a stacked washer and dryer in a bright laundry closet](/images/small-laundry-room-organization-stacked-machines-04.jpg)
+![Open front-load washer door with a clean rubber gasket and a small step stool beside a stacked](/images/small-laundry-room-organization-stacked-machines-04.jpg)
 
 ## Mistakes to avoid
 

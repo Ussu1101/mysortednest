@@ -11,7 +11,7 @@ A tiny closet does not have to feel like a storage crisis. It just needs a syste
 
 In this guide, you'll get the full method — the closet edit, the 37-piece formula, fold zones, shoe and accessory systems, seasonal rotation, and the maintenance rule that keeps the whole system honest. Seventeen ideas, each one sized for a small closet, a reach-in, or half of a shared closet — no renovation, no new furniture, just smarter use of the space you have.
 
-![Warm editorial photo of a tiny closet organized with a capsule wardrobe, slim wooden hangers holding neutral garments in cream, sage, and terracotta tones](/images/capsule-wardrobe-organization-tiny-closets-hero.jpg)
+![Warm editorial photo of a tiny closet organized with a capsule wardrobe, slim wooden hangers](/images/capsule-wardrobe-organization-tiny-closets-hero.jpg)
 
 ## What a Capsule Wardrobe Actually Is (and Isn't)
 
@@ -87,7 +87,7 @@ Top shelf: off-season or the "maybe" box. Middle: folded daily pieces in bins. F
 
 Leggings, joggers, and workout sets compress well when rolled — about half the footprint of folded stacks. Keep activewear to one small bin (two to three sets) so it doesn't colonize your capsule's shelf space.
 
-![Warm editorial photo of a small closet interior with coordinated hangers, a folded knit zone, and small accessories arranged in sage and terracotta tones](/images/capsule-wardrobe-organization-tiny-closets-02.jpg)
+![Warm editorial photo of a small closet interior with coordinated hangers, a folded knit zone, and](/images/capsule-wardrobe-organization-tiny-closets-02.jpg)
 
 ## Shoes and Accessories in a Capsule Closet
 
@@ -103,7 +103,7 @@ One tray for jewelry, one belt hanger for belts, and bags on two to three hooks 
 
 ## Seasonal Rotation: Storing the Off-Season
 
-![Warm editorial photo of a tiny closet interior with vacuum storage bags and a labeled seasonal bin on the top shelf](/images/capsule-wardrobe-organization-tiny-closets-03.jpg)
+![Warm editorial photo of a tiny closet interior with vacuum storage bags and a labeled seasonal bin](/images/capsule-wardrobe-organization-tiny-closets-03.jpg)
 
 A capsule wardrobe organization system only works because out-of-season clothes live somewhere else. Rotation is the engine: twice a year, the off-season box trades places with part of your capsule.
 
@@ -133,7 +133,7 @@ Once a week, put away the floordrobe, return stray hangers to their categories, 
 
 ## Mistakes to Avoid
 
-![Warm editorial photo of a tidy tiny closet with coordinated hangers and neatly folded knit stacks in cream and sage](/images/capsule-wardrobe-organization-tiny-closets-04.jpg)
+![Warm editorial photo of a tidy tiny closet with coordinated hangers and neatly folded knit stacks](/images/capsule-wardrobe-organization-tiny-closets-04.jpg)
 
 - **Buying the capsule before editing the closet.** Edit, count, then fill only the gaps.
 - **Keeping "aspirational" sizes.** Clothes that don't fit now are storage, not wardrobe. Box them out.

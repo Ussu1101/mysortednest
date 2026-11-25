@@ -9,7 +9,7 @@ image: "/images/small-guest-room-storage-ideas-hero.jpg"
 
 A spare bedroom with a bed and nothing else is not really a guest room — it is a room with a bed in it. Your visitor arrives tired, drops a suitcase on the floor, and spends the stay hunting for a charger, a towel, or somewhere to hang a jacket. Good **small guest room storage ideas** fix that without a renovation: a spot for the bag, a few empty hangers, a working lamp, a towel within reach. The goal is simple: a guest who can unpack, charge a phone, and find a towel without asking. Here are 16 ideas, two per area, so a tiny spare bedroom feels welcoming from the first night.
 
-![A small cozy guest bedroom with a neatly made bed, a luggage rack, and a small closet with empty hangers](/images/small-guest-room-storage-ideas-hero.jpg)
+![A small cozy guest bedroom with a neatly made bed, a luggage rack, and a small closet with empty](/images/small-guest-room-storage-ideas-hero.jpg)
 
 ## The guest's-eye audit: what a visitor actually needs
 

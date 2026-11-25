@@ -11,7 +11,7 @@ Your apartment feels cramped, so you assume you need more square footage. But a 
 
 When you learn to use vertical space in a small apartment, the floor stays clear for living, the room feels calmer, and things you thought would never fit suddenly do. Below are 19 concrete ideas grouped by zone — start with whichever wall, door, or cabinet bothers you most.
 
-![Floor-to-ceiling tall bookcase maximizing vertical wall space in a bright small apartment living room](/images/vertical-storage-ideas-small-apartments-hero.jpg)
+![Floor-to-ceiling tall bookcase maximizing vertical wall space in a bright small apartment living](/images/vertical-storage-ideas-small-apartments-hero.jpg)
 
 ## The vertical rule: square footage is fixed, height isn't
 

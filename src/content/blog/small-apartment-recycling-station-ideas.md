@@ -69,7 +69,7 @@ Every household has items nobody is sure about: coffee pouches, foil-lined bags,
 
 <div class="tip"><strong>Renter rule:</strong> Never drill into cabinetry or walls without checking your lease. Freestanding bins, over-door hooks, and tension-rod holders give you the same system with zero deposit risk.</div>
 
-![A compact two-bin recycling station with a hanging tote bag for awkward items in a small apartment kitchen corner](/images/small-apartment-recycling-station-ideas-02.jpg)
+![A compact two-bin recycling station with a hanging tote bag for awkward items in a small apartment](/images/small-apartment-recycling-station-ideas-02.jpg)
 
 ## Bottle and can storage that doesn't clatter
 
@@ -107,7 +107,7 @@ A five-second rinse removes most food residue and nearly all of the smell proble
 
 A washable bin liner — a reusable bag that fits the bin — catches drips a bare bin would not, and it goes in the laundry with the towels. Once a week, wipe the bins and cabinet floor with a damp cloth and a drop of dish soap.
 
-![A clean recycling station with rinsed containers in labeled bins and a washable liner, with no visible mess](/images/small-apartment-recycling-station-ideas-03.jpg)
+![A clean recycling station with rinsed containers in labeled bins and a washable liner, with no](/images/small-apartment-recycling-station-ideas-03.jpg)
 
 ## The weekly drop-off routine
 
@@ -127,7 +127,7 @@ The most common mistakes are not about the bins — they are about the system. D
 
 ## Frequently asked questions
 
-![A tidy labeled recycling station in a small apartment hallway corner, with stacked bins and no clutter spilling out](/images/small-apartment-recycling-station-ideas-04.jpg)
+![A tidy labeled recycling station in a small apartment hallway corner, with stacked bins and no](/images/small-apartment-recycling-station-ideas-04.jpg)
 
 ### Can you put a recycling station in a studio apartment?
 

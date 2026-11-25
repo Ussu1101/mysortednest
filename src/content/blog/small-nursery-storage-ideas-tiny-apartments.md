@@ -9,7 +9,7 @@ image: "/images/nursery-hero.jpg"
 
 A baby does not arrive alone. The crib, the stroller, the bouncer, the bath tub, and roughly forty tiny outfits all show up at once — and in a one- or two-bedroom apartment, there is nowhere for them to hide. Small nursery storage ideas are not about buying more furniture. They are about giving every item a small, specific home so the nursery stays a nursery instead of swallowing the whole apartment. These 17 ideas use zones, a rolling cart, and a ruthless rotation system to keep baby gear under control. Start with the zones, then the cart, then the purge.
 
-![A bright tiny apartment nursery corner with a white crib, a small dresser, and woven baskets on a shelf in soft daylight](/images/nursery-hero.jpg)
+![A bright tiny apartment nursery corner with a white crib, a small dresser, and woven baskets on a](/images/nursery-hero.jpg)
 
 ## The nursery zone map: sleep, change, feed — in one corner
 
@@ -43,7 +43,7 @@ Stock the top tier with what you touch every change: diapers, wipes, and diaper 
 
 The cart's home base is the gap between the crib and the closet door — a dead strip of floor 18 to 24 inches wide. Parked there, it is one step from the crib and one step from the closet, so you can grab a clean outfit and a diaper in the same trip.
 
-![A three-tier rolling cart stocked with diapers, wipes, and folded baby clothes beside a crib in a small nursery](/images/nursery-cart.jpg)
+![A three-tier rolling cart stocked with diapers, wipes, and folded baby clothes beside a crib in a](/images/nursery-cart.jpg)
 
 ## Closet zones for clothes that are outgrown monthly
 

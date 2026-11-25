@@ -9,7 +9,7 @@ image: "/images/fold-down-table-ideas-tiny-kitchens-hero.jpg"
 
 In a tiny kitchen, the dining table is always the first thing to go. The fridge takes its wall, the stove takes its clearance, and the groceries take every inch of counter — so the place where you actually eat gets deleted from the floor plan. If you have been searching for fold down table ideas small kitchen owners can actually use, this is the no-fluff version: dining that appears when you sit down and vanishes when you need the room back. These 15 ideas cover wall-mounted tables, gateleg dining, window nooks, and rolling carts, each sized for real tiny kitchens with honest measurements and renter-safe options. Whether you rent or own, there is a setup here that fits your walls and your actual household size.
 
-![Fold-down wall-mounted table in a tiny Scandinavian kitchen, half folded open with two stools tucked beneath](/images/fold-down-table-ideas-tiny-kitchens-hero.jpg)
+![Fold-down wall-mounted table in a tiny Scandinavian kitchen, half folded open with two stools](/images/fold-down-table-ideas-tiny-kitchens-hero.jpg)
 
 ## The eat-in problem: why tiny kitchens delete dining first
 
@@ -31,7 +31,7 @@ Wall-mounted tables are the purest answer. Folded, they protrude 6 to 10 inches;
 
 If you're reorganizing the whole wall, the zone-mapping method in [17 Kitchen Wall Storage Ideas for Small Kitchens (No Counter Space Wasted)](/blog/kitchen-wall-storage-ideas-small-kitchens/) helps the table share the wall with rails and shelves.
 
-![Wall-mounted drop-leaf dining table folded down flat against a cream kitchen wall, chairs tucked beside it](/images/fold-down-table-ideas-tiny-kitchens-01.jpg)
+![Wall-mounted drop-leaf dining table folded down flat against a cream kitchen wall, chairs tucked](/images/fold-down-table-ideas-tiny-kitchens-01.jpg)
 
 ## Gateleg and folding tables that fit a corner
 
@@ -53,7 +53,7 @@ The window wall is the most underused dining spot in a tiny kitchen: it has the 
 
 **10. The full-width breakfast bar.** For wider windows, run a fixed 12-to-14-inch-deep ledge the full width of the wall at counter height. Three stools fit along a 60-inch window; the ledge doubles as serving shelf and plant perch.
 
-![Bright breakfast nook at a kitchen window with a narrow wooden ledge table and two stools, morning light streaming in](/images/fold-down-table-ideas-tiny-kitchens-02.jpg)
+![Bright breakfast nook at a kitchen window with a narrow wooden ledge table and two stools, morning](/images/fold-down-table-ideas-tiny-kitchens-02.jpg)
 
 ## Rolling carts that double as dining surfaces
 
@@ -61,7 +61,7 @@ When no wall and no corner is free, the table must earn its floor space twice. A
 
 **11. The drop-leaf kitchen cart.** A 24-by-36-inch rolling cart with drop leaves adding 10 to 12 inches per side. Lock the casters, raise the leaves, pull up two stools — dinner. Leaves down, it rolls back against the counter holding the air fryer and produce basket. Get locking casters on all four wheels; a cart that drifts mid-meal ruins the trick.
 
-![Rolling kitchen cart with drop-leaf sides raised, set for dinner for two in a small cream and sage kitchen](/images/fold-down-table-ideas-tiny-kitchens-03.jpg)
+![Rolling kitchen cart with drop-leaf sides raised, set for dinner for two in a small cream and sage](/images/fold-down-table-ideas-tiny-kitchens-03.jpg)
 
 **12. The butcher-block island cart with stool parking.** A heavier rolling island with a solid wood top at 36-inch counter height works as a stand-up breakfast bar with two backless stools. Backless matters: stools tuck fully under the overhang, so the setup parks in a 24-by-36-inch footprint. The top doubles as prep space — a counter first, a table second.
 
@@ -79,7 +79,7 @@ Most tiny-kitchen households eat as one or two people 300+ days a year — size 
 
 <div class="tip"><strong>The stool rule:</strong> in a tiny kitchen, chairs are the real space hog, not the table. Pick seating that disappears — folding, stacking, or backless stools that tuck completely under. A great fold-down table with four bulky dining chairs still eats your kitchen.</div>
 
-![Compact dining setup for two in a tiny kitchen with a round fold-down table and stools tucked neatly underneath](/images/fold-down-table-ideas-tiny-kitchens-04.jpg)
+![Compact dining setup for two in a tiny kitchen with a round fold-down table and stools tucked](/images/fold-down-table-ideas-tiny-kitchens-04.jpg)
 
 ## Renter rules: mounting without losing the deposit
 

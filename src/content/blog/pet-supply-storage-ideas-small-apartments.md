@@ -17,7 +17,7 @@ Before you buy a single bin, empty every pet item you own onto one surface and s
 
 **2. Set one home per category and label it.** Food goes in the kitchen, walk gear by the door, toys in the living room, and vet supplies in one bathroom drawer or box. When a category has one home, stray items are obvious and easy to return.
 
-![A tidy pet supply station in a small apartment with labeled bins for food, toys, and grooming supplies](/images/pet-supply-storage-ideas-small-apartments-01.jpg)
+![A tidy pet supply station in a small apartment with labeled bins for food, toys, and grooming](/images/pet-supply-storage-ideas-small-apartments-01.jpg)
 
 ## Feeding station that doesn't take over the kitchen
 

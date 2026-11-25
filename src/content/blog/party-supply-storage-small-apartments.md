@@ -85,7 +85,7 @@ Serving bowls, platters, and salad tongs get one shelf spot each, stacked with a
 
 Pack leftovers flat in stackable containers with the date written on masking tape, and put them at eye level in the fridge — not buried behind the milk. Anything not eaten within three days gets tossed. The U.S. government's [FoodSafety.gov](https://www.foodsafety.gov/food-safety-charts/cold-food-storage-chartss) recommends refrigerating leftovers within two hours and using most cooked leftovers within three to four days.
 
-![A serving tray, pitcher, and cake stand arranged on a single shelf with stacked leftover containers nearby](/images/party-supply-storage-small-apartments-02.jpg)
+![A serving tray, pitcher, and cake stand arranged on a single shelf with stacked leftover containers](/images/party-supply-storage-small-apartments-02.jpg)
 
 ## Kids' birthday supplies: the reusable kit
 
@@ -101,7 +101,7 @@ Keep one sturdy tote bag — about 15 × 12 inches — inside the birthday bin. 
 
 <div class="tip"><strong>Tip:</strong> Buy party supplies in solid colors, not character prints. Solid plates and cups work for a dinosaur party, a unicorn party, and a grown-up dinner alike — and you can buy them in bulk without worrying about the theme expiring before you use them up.</div>
 
-![A reusable kids birthday party kit with solid-color plates, cups, banner, and candles packed in one labeled bin](/images/party-supply-storage-small-apartments-04.jpg)
+![A reusable kids birthday party kit with solid-color plates, cups, banner, and candles packed in one](/images/party-supply-storage-small-apartments-04.jpg)
 
 ## The post-party reset: repack in 15 minutes
 
@@ -111,7 +111,7 @@ The system only works if the bins get repacked.
 
 Set a timer for 15 minutes as soon as the last guest leaves. Toss broken decor and used candles, wipe serving pieces and put them back on their shelf, count plates and cups and update the lid card, fold the tablecloth, roll the banner, and close the bin. Fifteen minutes tonight saves an hour of hunting before the next party. Seasonal decor follows the same pack-flat logic, so these [holiday decoration storage ideas](/blog/holiday-decoration-storage-ideas-small-apartments/) pair well with your party bins when the seasons change.
 
-![A labeled party bin being repacked after a celebration, with a folded tablecloth and rolled banner going back inside](/images/party-supply-storage-small-apartments-03.jpg)
+![A labeled party bin being repacked after a celebration, with a folded tablecloth and rolled banner](/images/party-supply-storage-small-apartments-03.jpg)
 
 ## Mistakes to avoid
 

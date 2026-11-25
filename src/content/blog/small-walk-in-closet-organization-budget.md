@@ -9,7 +9,7 @@ image: "/images/small-walk-in-closet-organization-budget-01.jpg"
 
 You can step inside your closet, turn around, and still find nothing to wear. That is the specific frustration of a tiny walk-in: four walls, one rod, one shelf you cannot quite reach, and a floor buried under shoes. **Small walk in closet organization** is not about a custom closet system or a weekend of carpentry. It is about zoning what you already have, doubling your hanging space with a $20 extender rod, and spending the rest of your budget on cube units, shoe racks, and lighting that actually lets you see. This plan costs under $100 total, requires zero drilling, and finishes in a single afternoon.
 
-![Bright small walk-in closet with a double-hang rod, cube shelving unit, and tidy shoe row under warm lighting](/images/small-walk-in-closet-organization-budget-01.jpg)
+![Bright small walk-in closet with a double-hang rod, cube shelving unit, and tidy shoe row under](/images/small-walk-in-closet-organization-budget-01.jpg)
 
 ## The walk-in advantage: zones beat square footage
 
@@ -65,7 +65,7 @@ For the shelf above the rods, add shelf dividers (about $10 for a 6-pack) to kee
 
 One trade-off: cube units eat floor space. If your walk-in is narrower than 4 feet, a 15-inch-deep unit on the short wall can block the path to the long wall. In that case, stack fabric bins on the high shelf instead — you lose a little convenience but keep the walkway clear.
 
-![Freestanding cube storage unit in a small walk-in closet holding folded clothes and labeled fabric bins](/images/small-walk-in-closet-organization-budget-03.jpg)
+![Freestanding cube storage unit in a small walk-in closet holding folded clothes and labeled fabric](/images/small-walk-in-closet-organization-budget-03.jpg)
 
 ## Shoe storage that fits the floor
 

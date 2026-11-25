@@ -9,7 +9,7 @@ image: "/images/tiny-house-storage-ideas-every-nook-hero.jpg"
 
 In a home under 500 square feet, there is no spare room — literally. Every drawer, shelf, and empty corner has to pull its weight, or clutter takes over the whole house in a single weekend. The difference between a tiny house that feels clever and one that feels cramped is rarely the floor plan — it is whether storage was planned into the structure or bolted on afterward. These **tiny house storage ideas** put storage into the stairs, the loft, the walls, the ceiling, and the furniture itself, so your tiny house stays livable instead of slowly filling up. Work through them in order, and start with the biggest wins: the stairs and the loft.
 
-![A bright tiny house interior with built-in storage stairs, a loft bed, and wall shelves keeping every surface tidy](/images/tiny-house-storage-ideas-every-nook-hero.jpg)
+![A bright tiny house interior with built-in storage stairs, a loft bed, and wall shelves keeping](/images/tiny-house-storage-ideas-every-nook-hero.jpg)
 
 ## The tiny-house rule: every surface and void earns a job
 
@@ -45,7 +45,7 @@ The shallow end of the slope, under about 24 inches high, is useless for shelves
 
 Most tiny houses sleep in a loft, which is both bedroom and attic. Treat it as two zones: the sleeping zone (mattress, bedding, a book, a light) and the storage zone (everything else, pushed to the eaves where headroom is too low to sit up).
 
-![A tiny house loft with low eave storage bins, a small bookshelf, and neatly folded bedding beside the bed](/images/tiny-house-storage-ideas-every-nook-01.jpg)
+![A tiny house loft with low eave storage bins, a small bookshelf, and neatly folded bedding beside](/images/tiny-house-storage-ideas-every-nook-01.jpg)
 
 ### 6. Line the eaves with lidded bins sized to the slope
 
@@ -79,7 +79,7 @@ A wall-mounted drop-leaf table folds flat when meals are over, freeing roughly 8
 
 When floor space is gone, the only direction left is up. Walls and ceilings hold an enormous amount of storage — but only if you mount into studs and keep daily items within arm's reach, not on a shelf that needs a ladder.
 
-![High wall shelves and a hanging rail in a tiny house living area, using vertical space above the sofa for books and baskets](/images/tiny-house-storage-ideas-every-nook-02.jpg)
+![High wall shelves and a hanging rail in a tiny house living area, using vertical space above the](/images/tiny-house-storage-ideas-every-nook-02.jpg)
 
 ### 12. Run one high shelf around the room at door-header height
 
@@ -103,7 +103,7 @@ Tiny kitchens and bathrooms fail when full-size systems are squeezed into them. 
 
 Keep one good knife, one pan, one pot, and one baking sheet — then store lids vertically in a file-style divider and pans on a vertical rack inside the cabinet. A magnetic knife strip on the wall frees an entire drawer, and a tension rod under the sink holds spray bottles by their triggers. Apply the same logic to toiletries with our [small bathroom storage ideas](/blog/small-bathroom-storage-ideas/).
 
-![A tiny house kitchen with vertical lid dividers, a magnetic knife strip, and open shelving keeping counters clear](/images/tiny-house-storage-ideas-every-nook-03.jpg)
+![A tiny house kitchen with vertical lid dividers, a magnetic knife strip, and open shelving keeping](/images/tiny-house-storage-ideas-every-nook-03.jpg)
 
 ### 16. Give the bathroom a single caddy per person, nothing loose on the counter
 

@@ -21,7 +21,7 @@ A ceiling bulb throws light straight down onto the tops of your hangers, leaving
 
 A closet does not need a floodlight — just even, shadow-free light about as bright as a well-lit hallway. One 12-inch bar per shelf section, or a strip across the rod, gives you that. Two small, well-placed lights beat one big bright one.
 
-![A small closet with warm LED strip lighting under the shelf above the clothes rod, clothes clearly visible](/images/small-closet-lighting-ideas-hero.jpg)
+![A small closet with warm LED strip lighting under the shelf above the clothes rod, clothes clearly](/images/small-closet-lighting-ideas-hero.jpg)
 
 ## Battery LED strip lights: the easiest first upgrade
 

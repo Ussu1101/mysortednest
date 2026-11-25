@@ -9,7 +9,7 @@ image: "/images/babygear-hero.jpg"
 
 A baby arrives with a surprising amount of stuff. One week you have a [clear living room](/blog/small-living-room-storage-ideas-apartments/); the next, a stroller blocks the door. Baby gear storage small apartment success is about systems, not square footage: fold-flat gear, one spot per item, and a steady outgrown pipeline.
 
-![A tidy small apartment living room with a folded stroller parked by the door, a compact high chair, and a diaper caddy on a shelf in warm daylight](/images/babygear-hero.jpg)
+![A tidy small apartment living room with a folded stroller parked by the door, a compact high chair,](/images/babygear-hero.jpg)
 
 ## The baby gear triage: what you actually use daily
 
@@ -49,7 +49,7 @@ Fold-flat gear is the single best investment for a small apartment: a high chair
 
 A fold-flat high chair collapses to about 6 inches deep and weighs 10 to 12 pounds, light enough to carry with one hand. When mealtime is over, fold it, wipe it, and hang it on two adhesive hooks on the back of the kitchen or pantry door, freeing the roughly 4 square feet a fixed high chair occupies permanently.
 
-![A compact fold-flat high chair leaning against a kitchen wall beside a small dining table in a bright apartment](/images/babygear-04.jpg)
+![A compact fold-flat high chair leaning against a kitchen wall beside a small dining table in a](/images/babygear-04.jpg)
 
 ### 7. Store the play yard under the bed, not in the corner
 
@@ -67,7 +67,7 @@ Diaper changes happen six to ten times a day, and every one is easier when every
 
 A handled caddy about 14 by 10 by 8 inches holds roughly 10 diapers, a full pack of wipes, diaper cream, a changing pad, and a spare outfit. That is the whole station. Keep it on the changing surface at night and carry it to the living room during the day, so the station follows you.
 
-![A portable diaper caddy with diapers, wipes, and cream neatly arranged on a changing table in a small nursery corner](/images/babygear-caddy.jpg)
+![A portable diaper caddy with diapers, wipes, and cream neatly arranged on a changing table in a](/images/babygear-caddy.jpg)
 
 ### 10. Put the changing spot where the light and the laundry already are
 
@@ -85,7 +85,7 @@ Count out ten toys — a building toy, a book, a soft toy, a puzzle, and a few f
 
 A single low, wide basket — roughly 18 by 12 by 10 inches — sits beside the sofa and holds every toy that is out. The nightly reset takes three minutes: everything on the floor goes into the basket, and the living room is a living room again.
 
-![A low woven basket with a small set of wooden toys beside a sofa in a bright small apartment living room](/images/babygear-toys.jpg)
+![A low woven basket with a small set of wooden toys beside a sofa in a bright small apartment living](/images/babygear-toys.jpg)
 
 <div class="tip"><strong>The rotation swap:</strong> swap toys on the same day every week, for example Sunday evening. A fixed day turns rotation into a habit instead of a chore you keep meaning to do.</div>
 
@@ -109,7 +109,7 @@ The U.S. Consumer Product Safety Commission's [Anchor It! guidance](https://www.
 
 Install anti-tip straps on every dresser, bookshelf, and changing table, starting with the furniture in the nursery and the living room. The straps cost a few dollars each, install with two screws, and hold furniture that a climbing toddler can otherwise pull down in seconds.
 
-![A securely anchored dresser with a changing pad on top and a baby gate at the doorway of a small apartment nursery](/images/babygear-05.jpg)
+![A securely anchored dresser with a changing pad on top and a baby gate at the doorway of a small](/images/babygear-05.jpg)
 
 ### 16. Enforce the no-clutter floor rule with a pressure-mounted gate
 

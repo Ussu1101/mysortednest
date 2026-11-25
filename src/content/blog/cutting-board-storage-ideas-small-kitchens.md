@@ -81,7 +81,7 @@ Storage is easier when there is less to store, and this audit usually frees a sl
 
 **15. Remove one board for every board you add.** When a new board comes in, an old one leaves: donate it, repurpose it as a serving board, or recycle it if deeply scored. Deeply grooved boards trap food and are hard to clean, so a heavily cut board is a hygiene problem, not a keepsake.
 
-![A small set of three cutting boards stored upright, showing a minimal board collection for a tiny kitchen](/images/cutting-board-storage-small-kitchens-03.jpg)
+![A small set of three cutting boards stored upright, showing a minimal board collection for a tiny](/images/cutting-board-storage-small-kitchens-03.jpg)
 
 ## Mistakes to avoid
 

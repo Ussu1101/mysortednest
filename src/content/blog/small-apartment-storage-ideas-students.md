@@ -91,7 +91,7 @@ Studying in the library, a café, or a friend's flat means packing and unpacking
 
 A small basket or wall pocket by the door holds the things the kit runs out of: spare pens, sticky notes, a phone charger, and a granola bar. Restock it on Sunday night when you do the textbook rotation, so the kit is always ready. This one station also catches the small things that otherwise end up scattered across the desk — keys, student ID, and the library card all live here, not in three different pockets.
 
-![A close-up of a tidy student closet shelf with folded clothes, labeled bins, and a small stack of books](/images/small-apartment-storage-ideas-students-04.jpg)
+![A close-up of a tidy student closet shelf with folded clothes, labeled bins, and a small stack of](/images/small-apartment-storage-ideas-students-04.jpg)
 
 ## The end-of-term reset: pack, donate, and reset in one afternoon
 

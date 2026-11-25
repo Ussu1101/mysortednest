@@ -9,7 +9,7 @@ image: "/images/couples-bedroom-hero.jpg"
 
 Sharing a tiny bedroom with your partner sounds romantic until the second person's shoes, chargers, books, and laundry start competing for the same square footage. One closet, one dresser, one small patch of floor — and two sets of everything. The good news is that small bedroom storage ideas for couples are less about buying more furniture and more about giving every item a fair, agreed-upon home. When both people know exactly where their things live, the room stops feeling crowded and starts working. These 15 ideas cover the audit, the closet split, the nightstand problem, under-bed storage, vertical space, shared surfaces, and a weekly reset.
 
-![A calm, shared small bedroom for two with a tidy bed, matching baskets, and organized storage on both sides](/images/couples-bedroom-hero.jpg)
+![A calm, shared small bedroom for two with a tidy bed, matching baskets, and organized storage on](/images/couples-bedroom-hero.jpg)
 
 ## The two-person audit: counting what two people actually own
 
@@ -35,7 +35,7 @@ Give each person a clearly marked zone — left and right, or top rod and bottom
 
 A standard closet has one rod and a lot of wasted air underneath it. Install a second rod about 40 inches below the first, and you instantly double hanging capacity for shirts, blouses, and folded trousers. Keep longer items — dresses, coats, long skirts — on the single-rod side or the outer end. In a rental, a tension rod or freestanding double-hang unit works without drilling. For the full breakdown of fair splits, double-hang math, and boundary rules, see [15 Closet Organization Ideas for Couples Sharing One Closet](/blog/closet-organization-ideas-couples-sharing-one-closet/).
 
-![A shared closet split into two clear zones with matching hangers, a double rod, and labeled bins on the top shelf](/images/couples-bedroom-closet.jpg)
+![A shared closet split into two clear zones with matching hangers, a double rod, and labeled bins on](/images/couples-bedroom-closet.jpg)
 
 <div class="tip"><strong>Fair-split tip:</strong> Measure each person's hanging clothes by the inch, not by guesswork. Hang everything on one rod, measure the width each person's clothes take up, and split the closet to match — then revisit the split every season.</div>
 
@@ -63,7 +63,7 @@ Assign each side of the bed to one person, matching the side each of you sleeps 
 
 The most common under-bed failure is stacking bins two deep and never opening the back ones. Agree on a simple rule: one layer only, nothing stacked on top of anything else, and every bin must slide out without moving furniture. If something cannot be reached in under 30 seconds, it does not belong under the bed. For the full guide to bins, drawers, and dust-proofing, see [18 Under-Bed Storage Ideas That Turn Dead Space Into a Dresser](/blog/under-bed-storage-ideas-small-bedrooms/).
 
-![Labeled under-bed storage bins split between two people, with rolling drawers that slide out easily from each side](/images/couples-bedroom-underbed.jpg)
+![Labeled under-bed storage bins split between two people, with rolling drawers that slide out easily](/images/couples-bedroom-underbed.jpg)
 
 <div class="tip"><strong>Retrieval tip:</strong> Store under-bed bins with the label facing outward and the most-used bin nearest the foot of the bed. The bin you reach for weekly should never sit behind the bin you touch twice a year.</div>
 
@@ -79,7 +79,7 @@ Install a single shelf about 12 inches below the ceiling on the wall with no doo
 
 Mount two short hook rails — one per person — on the wall beside the bedroom door or on the back of it. Each rail holds tomorrow's outfit, a bag, and a jacket, which keeps the "chair pile" off the furniture and off the floor. Four hooks per person is enough; more hooks just invite more clutter. This clears the most visible mess in a shared bedroom, because the chair pile is usually the first thing you see when you walk in.
 
-![Wall shelves and hook rails in a small shared bedroom, using vertical space above eye level to double storage capacity](/images/small-bedroom-storage-ideas-couples-01.jpg)
+![Wall shelves and hook rails in a small shared bedroom, using vertical space above eye level to](/images/small-bedroom-storage-ideas-couples-01.jpg)
 
 ## The shared-surface rules: dresser tops, laundry, and daily clutter
 
@@ -97,7 +97,7 @@ Two people produce roughly a full laundry basket every two to three days, and tw
 
 Keys, wallets, sunglasses, and the bag you carry every day need a home by the bedroom door, not scattered across the room. A small wall-mounted organizer with two pockets — one per person — or a narrow tray on the dresser nearest the door does the job. The test is simple: can you leave the room in the morning without crossing it twice to find something? If not, the landing spot is in the wrong place.
 
-![A tidy dresser top with two small trays, one per person, and a divided laundry hamper keeping daily clutter contained](/images/small-bedroom-storage-ideas-couples-02.jpg)
+![A tidy dresser top with two small trays, one per person, and a divided laundry hamper keeping daily](/images/small-bedroom-storage-ideas-couples-02.jpg)
 
 ## The weekly 10-minute couple's reset
 

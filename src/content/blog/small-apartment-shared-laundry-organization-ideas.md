@@ -53,7 +53,7 @@ A divided hamper with sections for lights, darks, and delicates means a load is 
 
 A second, collapsible hamper folds to under 2 inches thick and lives in your main hamper or on a hook by the door. Use it for clean clothes on the trip back, while the dirty bag goes straight into the wash, so clean and dirty laundry never share the same bag.
 
-![A slim divided laundry hamper with separate compartments for lights and darks in a small apartment corner](/images/sharedlaundry-hamper.jpg)
+![A slim divided laundry hamper with separate compartments for lights and darks in a small apartment](/images/sharedlaundry-hamper.jpg)
 
 ## Drying without a dryer: racks that fold flat
 

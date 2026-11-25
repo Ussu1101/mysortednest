@@ -21,7 +21,7 @@ Set a timer and sort everything into keep, finish soon, donate, and toss. Throw 
 
 A craft without a designated spot spreads. Assign each craft one container, one shelf section, or one cart tier, and label it.
 
-![A tidy rolling cart with labeled bins holding paper, paint, and sewing supplies in a small craft corner](/images/craft-supply-organization-ideas-small-spaces-01.jpg)
+![A tidy rolling cart with labeled bins holding paper, paint, and sewing supplies in a small craft](/images/craft-supply-organization-ideas-small-spaces-01.jpg)
 
 ## Rolling carts: the small-space crafter's best friend
 
@@ -69,7 +69,7 @@ Instead of one bin for all paper and another for all glue, try one bin per proje
 
 An open-top bin on your desk or cart holds only what you are using this week. Everything else stays in its labeled, closed home. When the week ends, empty the open bin back into those homes.
 
-![Clear labeled bins stacked on a shelf holding yarn, paper, and painting supplies in a small apartment](/images/craft-supply-organization-ideas-small-spaces-02.jpg)
+![Clear labeled bins stacked on a shelf holding yarn, paper, and painting supplies in a small](/images/craft-supply-organization-ideas-small-spaces-02.jpg)
 
 ## Paper, fabric, and yarn: taming the three bulky categories
 
@@ -123,7 +123,7 @@ The final idea is not a product at all. It is a boundary. Small-space craft stor
 
 Put the reset on your calendar for the same day each month. Return anything that migrated to other rooms, empty the open weekly bin, and donate anything you have not touched in a year.
 
-![A compact craft zone in a small apartment corner with a rolling cart, wall pegboard, and labeled bins](/images/craft-supply-organization-ideas-small-spaces-04.jpg)
+![A compact craft zone in a small apartment corner with a rolling cart, wall pegboard, and labeled](/images/craft-supply-organization-ideas-small-spaces-04.jpg)
 
 ## Mistakes to avoid
 

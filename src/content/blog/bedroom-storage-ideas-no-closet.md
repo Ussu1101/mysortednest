@@ -35,7 +35,7 @@ Dedicate the rack to your current week's rotation — 7 to 10 outfits — not yo
 
 For double duty, use the rack's lower bar (usually about 12 inches off the floor) for 6–8 pairs of shoes or 3 folded 12×12-inch fabric bins — a 48-inch rack becomes hanging plus shoe storage for roughly $60 total. If the bedroom doubles as a living space, a curtain panel on a tension rod in front of the rack gives you a "door" you can draw for video calls — the same trick our [studio apartment organization zones](/blog/studio-apartment-organization-zones/) guide uses for open layouts.
 
-![Open clothing rack styled intentionally with matching hangers and color-sorted clothes in a small bedroom](/images/nocloset-rack.jpg)
+![Open clothing rack styled intentionally with matching hangers and color-sorted clothes in a small](/images/nocloset-rack.jpg)
 
 ## Under-bed as your dresser drawer
 
@@ -63,7 +63,7 @@ The back of the bedroom door is 12–20 square feet of unused storage surface, a
 
 Check the clearance before buying: most over-door brackets are 1.5–1.75 inches wide, designed for standard interior doors. Measure the gap between your door and the frame at the top — if it's under 1.5 inches, the door won't close and you'll need slim-profile brackets or a wall-mounted hook board on the door itself (removable strips rated for the door's weight, usually 3–4 pounds per strip). For double doors or sliders, skip over-door entirely and use the wall strip beside the frame — a 6-inch-wide vertical hook board uses the forgotten gap between door frame and corner.
 
-![Over-door storage organizer with hooks and pockets on a bedroom door, tidy small bedroom no closet setup](/images/nocloset-wall.jpg)
+![Over-door storage organizer with hooks and pockets on a bedroom door, tidy small bedroom no closet](/images/nocloset-wall.jpg)
 
 Behind-door space also fits a narrow shoe rack: over-door organizers hold 12–18 pairs on fabric pockets that take zero floor space. Keep the bottom row 6 inches off the floor so vacuuming stays easy, and bag formal shoes in dust bags — fabric pockets don't protect leather from dust the way a closed rack does.
 

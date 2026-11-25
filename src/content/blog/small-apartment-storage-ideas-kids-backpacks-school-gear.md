@@ -39,7 +39,7 @@ Pair each hook with the cubby directly underneath it, so the routine is one stop
 
 One narrow shelf, 6 inches deep, mounted just above the hooks holds the things that get forgotten most: the house key, sunscreen, hand sanitizer, and the reading log. Label the shelf "out the door" so kids check it before leaving.
 
-![A small entryway with one labeled cubby and hook per child, backpacks hanging neatly above shoe cubbies](/images/backpack-cubbies.jpg)
+![A small entryway with one labeled cubby and hook per child, backpacks hanging neatly above shoe](/images/backpack-cubbies.jpg)
 
 ## The homework station: supplies in one grab-and-go spot
 
@@ -57,7 +57,7 @@ One folder per child, labeled with their name and color-coded to match their hoo
 
 If your kids use a tablet or laptop for school, give the charger one permanent home — a small basket or a wall-mounted charging pocket near the homework station, with a short cable that cannot wander off. Devices charge overnight there and go into the bag in the morning.
 
-![A compact homework station with a supply caddy, folders, and a device charging basket on a small shelf](/images/backpack-homework.jpg)
+![A compact homework station with a supply caddy, folders, and a device charging basket on a small](/images/backpack-homework.jpg)
 
 ## Lunch and snack gear: one bin, one shelf
 
@@ -87,7 +87,7 @@ Give each kid's coat the hook next to their backpack hook, or use a double hook 
 
 One bin per activity — soccer, swimming, dance — stored on a closet shelf or under the entry bench, holds the gear for that activity and nothing else. The night before practice, the bin comes out; after practice, the gear goes back in. Label each bin with the activity and its day.
 
-![A tidy grab-and-go zone by the front door with hooks, a shoe rack, and labeled bins for coats and sports gear](/images/backpack-01.jpg)
+![A tidy grab-and-go zone by the front door with hooks, a shoe rack, and labeled bins for coats and](/images/backpack-01.jpg)
 
 ## Paper and permission slips: the inbox that works
 

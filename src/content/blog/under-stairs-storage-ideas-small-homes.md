@@ -9,7 +9,7 @@ image: "/images/under-stairs-storage-ideas-small-homes-hero.jpg"
 
 That dead triangle under your staircase is probably the largest chunk of unused space in your home — often 25 to 40 square feet hiding in plain sight. This guide covers **under stairs storage ideas** that treat the slope as a solvable puzzle: measured height zones, deep pull-out drawers, a closet conversion, shelving for the tall end, hidden nooks, and the lighting that makes it all usable. You will leave with a plan matched to your exact stair dimensions, not a generic wish list.
 
-![Under stairs storage in a small home with pull-out drawers, open shelving, and a cozy reading nook under the staircase](/images/under-stairs-storage-ideas-small-homes-hero.jpg)
+![Under stairs storage in a small home with pull-out drawers, open shelving, and a cozy reading nook](/images/under-stairs-storage-ideas-small-homes-hero.jpg)
 
 ## Measure the slope: zones by height
 
@@ -29,7 +29,7 @@ The DIY route is stacked drawer units — unfinished wood drawer chests from a h
 
 Size drawers to their contents: deep drawers (10–14 inches tall) for board games, off-season clothes, and wrapping-paper rolls laid diagonally; shallow drawers (4–6 inches) for batteries, chargers, and junk-drawer overflow. Line drawer bottoms with adhesive liner — wood drawers in a dusty space get grimy fast, and wipeable liner beats sanding.
 
-![Deep pull-out drawers built under a staircase, storing games and household supplies in graduated drawer boxes](/images/under-stairs-storage-ideas-small-homes-01.jpg)
+![Deep pull-out drawers built under a staircase, storing games and household supplies in graduated](/images/under-stairs-storage-ideas-small-homes-01.jpg)
 
 If drawers feel like too much construction, use rolling flat bins on casters in the low wedge plus a row of pull-out wire baskets in the middle band — the same reach-in principle with less carpentry. Our guide to [17 Under Bed Storage Ideas for Small Bedrooms](/blog/under-bed-storage-ideas-small-bedrooms/) covers low-clearance rolling storage, and most of those bins work identically under stairs.
 
@@ -59,7 +59,7 @@ Here the under-stair space stops being storage and starts being square footage �
 
 **The bar or coffee station:** a countertop-height cabinet (34–36 inches) in the tall end with glassware on a graduated shelf above. Plumb nothing — a self-contained setup avoids permits and leaks. Insulate the underside of the stairs above any nook: stair treads transmit every footstep.
 
-![A cozy reading nook built into the tall end under a staircase, with cushions, a reading light, and small bookshelves](/images/under-stairs-storage-ideas-small-homes-02.jpg)
+![A cozy reading nook built into the tall end under a staircase, with cushions, a reading light, and](/images/under-stairs-storage-ideas-small-homes-02.jpg)
 
 ## Lighting awkward spaces
 
@@ -69,7 +69,7 @@ Choose warm light (2700–3000K). Cool white LEDs in a windowless wedge feel lik
 
 <div class="tip"><strong>Renters' lighting rule:</strong> everything here can be battery-operated and damage-free. Peel-and-stick LED strips and magnetic motion pucks leave zero trace at move-out.</div>
 
-![Warm LED strip lighting installed under a staircase, illuminating pull-out storage drawers and open shelves](/images/under-stairs-storage-ideas-small-homes-03.jpg)
+![Warm LED strip lighting installed under a staircase, illuminating pull-out storage drawers and open](/images/under-stairs-storage-ideas-small-homes-03.jpg)
 
 ## What not to store under stairs
 
@@ -91,7 +91,7 @@ Not everything belongs here, no matter how well you organize it. Under-stair are
 
 **Forgetting dust.** This space collects dust faster than any closet in the house. Choose closed fronts or lidded bins for anything you don't use weekly, and wipe surfaces twice a year.
 
-![Closed storage bins with lids under a staircase, keeping dust out of seasonal items stored in the low wedge](/images/under-stairs-storage-ideas-small-homes-04.jpg)
+![Closed storage bins with lids under a staircase, keeping dust out of seasonal items stored in the](/images/under-stairs-storage-ideas-small-homes-04.jpg)
 
 ## Frequently asked questions
 

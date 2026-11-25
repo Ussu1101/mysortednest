@@ -9,7 +9,7 @@ image: "/images/bulky-bedding-storage-ideas-small-apartments-hero.jpg"
 
 A spare duvet, two extra blankets, and a set of winter sheets can swallow an entire closet shelf — and in a small apartment, that shelf is space you cannot afford to lose. Bedding is bulky, seasonal, and awkwardly shaped, which is why it ends up draped over chairs, stuffed on top of wardrobes, or crammed into bags you dread opening. These bulky bedding storage ideas work by splitting bedding into two groups: everyday blankets you actually reach for, and off-season sets that only need a home twice a year. Below are 15 ideas in order, from measuring your stash to a twice-yearly swap routine that stops the pile from growing back.
 
-![Neatly folded duvets and blankets stored in labelled bins on a high closet shelf in a small apartment](/images/bulky-bedding-storage-ideas-small-apartments-hero.jpg)
+![Neatly folded duvets and blankets stored in labelled bins on a high closet shelf in a small](/images/bulky-bedding-storage-ideas-small-apartments-hero.jpg)
 
 ## Measure the bulk: what your bedding actually takes
 
@@ -71,7 +71,7 @@ A single large basket, roughly 18 inches across, holds two to three folded throw
 
 A storage ottoman at the foot of the bed or beside the sofa gives you a seat, a footrest, and a home for one or two everyday blankets. Look for a hinged lid and washable lining, since stored blankets pick up dust over time. If your room has no closet at all, the same double-duty logic applies throughout — see these [bedroom storage ideas for small rooms with no closet](/blog/bedroom-storage-ideas-no-closet/) for the full approach.
 
-![A woven basket of folded throws beside a sofa and a storage ottoman at the foot of a bed in a small apartment](/images/bulky-bedding-storage-ideas-small-apartments-02.jpg)
+![A woven basket of folded throws beside a sofa and a storage ottoman at the foot of a bed in a small](/images/bulky-bedding-storage-ideas-small-apartments-02.jpg)
 
 ## Linen closet vs bedroom: splitting the stash
 
@@ -111,7 +111,7 @@ Instead of storing duvets, sheets, and pillowcases separately, pack the outgoing
 
 Pick two dates — late October and late April suit most climates — and treat them as fixed appointments. On swap day, wash the outgoing set before packing it, wipe out the bin, and check for damp or damage. Two short sessions a year keep the system running.
 
-![Labelled storage bins for winter and summer bedding sets on a closet shelf, ready for the seasonal swap](/images/bulky-bedding-storage-ideas-small-apartments-03.jpg)
+![Labelled storage bins for winter and summer bedding sets on a closet shelf, ready for the seasonal](/images/bulky-bedding-storage-ideas-small-apartments-03.jpg)
 
 ## Mistakes to avoid
 

@@ -19,7 +19,7 @@ A typical laundry closet is 30 to 36 inches wide and 6 feet tall. The floor hold
 
 **2. Claim the backs of doors and the side walls.** Bifold and sliding door interiors are dead space by default, but a 3-inch-deep over-door rack or magnetic hooks turn them into storage for dryer sheets, delicates bags, and the lint roller. Even 8 inches of side wall fits a slim pegboard or adhesive baskets — and nothing here screws into the wall.
 
-![Stacked washer and dryer in a tiny laundry closet with slim shelves of decanted detergent bottles above and a narrow rolling cart beside the machines](/images/small-laundry-closet-organization-ideas-01.jpg)
+![Stacked washer and dryer in a tiny laundry closet with slim shelves of decanted detergent bottles](/images/small-laundry-closet-organization-ideas-01.jpg)
 
 ## Shelf above the machines: what belongs there (and what doesn't)
 
@@ -39,7 +39,7 @@ Almost every laundry closet has a 4- to 8-inch gap between the machines and the 
 
 **6. Assign each tier a job, top to bottom.** Top tier: the grab kit — stain pen, dryer sheets, the delicates bag you always forget. Middle: current-use detergent and softener. Bottom: the heavy backup jug. Heaviest lowest keeps the cart stable. Label each tier so the system survives roommate usage.
 
-![Slim white rolling cart pulled from the gap beside a washer, with detergent, dryer sheets, and stain remover organized on three tiers](/images/small-laundry-closet-organization-ideas-02.jpg)
+![Slim white rolling cart pulled from the gap beside a washer, with detergent, dryer sheets, and](/images/small-laundry-closet-organization-ideas-02.jpg)
 
 ## Detergent decanting: ditching bulky bottles
 
@@ -57,7 +57,7 @@ Delicates and anything you don't want to shrink need air — but a full drying r
 
 **10. Use an over-the-door fold-down rack for heavier items.** If your lease bans holes, an over-the-door rack hooks over the closet door or the washer lid edge and folds flat when not in use. It handles jeans and towels a retractable line can't — the trade-off: it only works while the door is closed or partially open.
 
-![Retractable clothesline extended across a small laundry closet with delicates hanging to dry and a folded rack stored flat on the wall](/images/small-laundry-closet-organization-ideas-03.jpg)
+![Retractable clothesline extended across a small laundry closet with delicates hanging to dry and a](/images/small-laundry-closet-organization-ideas-03.jpg)
 
 ## Sorting system that fits: 2-3 slim hampers, not one giant pile
 
@@ -75,7 +75,7 @@ Half of laundry closet frustration is visual: an open closet of machines and bot
 
 **14. Use magnetic and over-door storage that survives bifold doors.** Magnetic spice racks stick to the washer or dryer side panels and hold dryer sheets, clothespins, and stain pens at hand height — and come off in seconds on moving day. Over-door wire racks designed for bifolds are slim enough that doors still fold; check depth (under 4 inches) before buying, since deeper racks jam the fold.
 
-![Small laundry closet with a linen curtain on a tension rod drawn aside, bifold doors open, revealing organized shelves and a slim hamper](/images/small-laundry-closet-organization-ideas-04.jpg)
+![Small laundry closet with a linen curtain on a tension rod drawn aside, bifold doors open,](/images/small-laundry-closet-organization-ideas-04.jpg)
 
 ## Lint, dust, and moisture: keeping a closet laundry healthy
 

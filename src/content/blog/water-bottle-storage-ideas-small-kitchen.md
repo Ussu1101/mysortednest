@@ -9,7 +9,7 @@ image: "/images/water-bottle-storage-ideas-small-kitchen-hero.jpg"
 
 You open the cabinet for one water bottle and three tumble out. The tall tumblers lean against the shelf, the kids' bottles roll to the back, and somewhere in the pile is a lid that belongs to nothing. If that sounds familiar, you need water bottle storage ideas small kitchen owners actually use — not a bigger cabinet, just a system that gives every bottle one home. This guide gives you 15 practical ideas: upright racks, a single tumbler zone, drawer dividers, and a lid rule that stops the avalanche for good. Most cost under $25 and take less than an hour to set up.
 
-![Small kitchen cabinet with upright water bottles and tumblers neatly arranged in a rack, lids matched](/images/water-bottle-storage-ideas-small-kitchen-hero.jpg)
+![Small kitchen cabinet with upright water bottles and tumblers neatly arranged in a rack, lids](/images/water-bottle-storage-ideas-small-kitchen-hero.jpg)
 
 ## Count the bottles: the audit that ends the pile
 

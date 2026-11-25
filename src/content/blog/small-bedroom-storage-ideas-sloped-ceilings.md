@@ -9,7 +9,7 @@ image: "/images/small-bedroom-storage-ideas-sloped-ceilings-hero.jpg"
 
 A sloped ceiling turns a perfectly good bedroom into a puzzle: the floor is there, but half of it sits under a ceiling you cannot stand beneath, and every dresser you own is too tall for the low side. The fix for small bedroom storage sloped ceiling rooms is not fighting the angle — it is building low where the ceiling is low and going tall only where the ceiling allows. These 15 attic bedroom storage ideas cover knee-wall drawers, under-eaves bins, and the tall wall, so the awkward triangle stops wasting space and starts holding your clothes, shoes, and off-season gear.
 
-![A bright attic bedroom with a sloped ceiling, low white drawers under the eaves, and a tall wardrobe on the full-height wall](/images/small-bedroom-storage-ideas-sloped-ceilings-hero.jpg)
+![A bright attic bedroom with a sloped ceiling, low white drawers under the eaves, and a tall](/images/small-bedroom-storage-ideas-sloped-ceilings-hero.jpg)
 
 ## Measure the slope: where you can stand, sit, and store
 
@@ -105,7 +105,7 @@ Tape a short list inside the knee-wall door: no photographs or film negatives, n
 - **Overloading the slope with heavy hooks.** The slope is ceiling, not a load-bearing wall — heavy items belong on the tall wall; the slope is for light, flat things only.
 - **Skipping labels.** Under-eaves bins all look identical in the dark, and unlabeled bins mean opening three wrong bins to find one sweater.
 
-![A tidy attic bedroom with labelled under-eaves bins, a low dresser, and hooks along the sloped ceiling](/images/small-bedroom-storage-ideas-sloped-ceilings-04.jpg)
+![A tidy attic bedroom with labelled under-eaves bins, a low dresser, and hooks along the sloped](/images/small-bedroom-storage-ideas-sloped-ceilings-04.jpg)
 
 ## Frequently asked questions
 

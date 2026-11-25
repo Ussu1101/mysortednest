@@ -9,7 +9,7 @@ image: /images/small-shed-storage-organization-ideas-hero.jpg
 
 A small shed fills up in a single season. One spring you stack the mower, rakes, seed trays, and potting soil neatly against the back wall; by midsummer everything has slid forward, the shovel is buried behind the wheelbarrow, and you buy second pruners because the first pair vanished. Small shed storage organization fixes that with one shift: stop piling things on the floor and give every tool a named home on a wall, in a zone, or inside a weatherproof bin. These 17 small shed storage ideas work in sheds as small as 6 by 8 feet and keep the middle of the floor clear enough to actually work in.
 
-![A small garden shed with tools neatly hung on a pegboard wall, shelves of labelled bins, and a clear floor in the middle](/images/small-shed-storage-organization-ideas-hero.jpg)
+![A small garden shed with tools neatly hung on a pegboard wall, shelves of labelled bins, and a](/images/small-shed-storage-organization-ideas-hero.jpg)
 
 ## The shed audit: what lives here and what moved back inside
 
@@ -117,7 +117,7 @@ Every spring, sweep the floor, wipe the shelves, and check every tool: sharpen t
 
 Every fall, drain the hose and coil it on its hook, empty the watering cans so they cannot freeze and crack, and bring in any liquids the label says to store above freezing. Stack patio furniture and pool gear on the seasonal wall, and move the snow shovel and salt to the front. Half an hour now is the difference between a shed that opens easily in January and one frozen shut.
 
-![A person sweeping the clear centre floor of a small shed during a seasonal reset, with tools hung neatly on the walls](/images/small-shed-storage-organization-ideas-04.jpg)
+![A person sweeping the clear centre floor of a small shed during a seasonal reset, with tools hung](/images/small-shed-storage-organization-ideas-04.jpg)
 
 ## Mistakes to avoid
 

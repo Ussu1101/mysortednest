@@ -121,7 +121,7 @@ Before buying a new tool, ask one question: will I use it at least twice a year?
 
 Do not store tools in a damp spot — under a sink, on a balcony, or against an exterior wall that sweats in winter — because rust ruins tools faster than use does. Do not mix tools with cleaning supplies; a leaking bottle corrodes metal and ruins grips. Do not skip labels because you "remember where everything is" — everyone remembers until the day the job is urgent. And do not keep broken tools "just in case" — a cracked handle is a hazard, not a backup.
 
-![A compact toolbox on a closet shelf with wall hooks above it, showing a complete small apartment tool station](/images/tool-storage-ideas-small-apartments-04.jpg)
+![A compact toolbox on a closet shelf with wall hooks above it, showing a complete small apartment](/images/tool-storage-ideas-small-apartments-04.jpg)
 
 ## Frequently asked questions
 

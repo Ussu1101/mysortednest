@@ -33,7 +33,7 @@ Clear the triangle under a short flight of stairs, lay a 24 x 18-inch rubber mat
 
 A 10- to 14-inch gap between a bookshelf and the wall, or the fridge and a cabinet, fits a folded umbrella stroller. Slide it in wheels-first and put a felt pad on the furniture edge to prevent scuffs.
 
-![A folded umbrella stroller parked flat in the slim gap between a bookshelf and a cream wall in a small apartment hallway, soft daylight](/images/small-apartment-stroller-storage-ideas-01.jpg)
+![A folded umbrella stroller parked flat in the slim gap between a bookshelf and a cream wall in a](/images/small-apartment-stroller-storage-ideas-01.jpg)
 
 ## Wall hooks and vertical hanging for lightweight strollers
 
@@ -49,7 +49,7 @@ Mount two rubber-coated hooks 12 to 16 inches apart on a wall stud at chest heig
 
 A folding wall bracket — the kind sold for bikes — mounts flat to the wall and folds out into a small arm. When the stroller is out, it folds away. Mount it at hip height with 6 inches of clearance so the handlebar does not gouge the wall.
 
-![A lightweight folded stroller hanging vertically from two rubber-coated wall hooks in a bright small apartment entryway](/images/small-apartment-stroller-storage-ideas-02.jpg)
+![A lightweight folded stroller hanging vertically from two rubber-coated wall hooks in a bright](/images/small-apartment-stroller-storage-ideas-02.jpg)
 
 ## Closet parking: turning dead closet floor into a stroller bay
 
@@ -75,7 +75,7 @@ Pick the wall opposite the door swing. A station needs only 14 inches of depth: 
 
 One hook each for the diaper bag, baby carrier, and rain cover, plus a small tray for keys and the building fob. Mounted at 60 inches, the rail turns parking into a departure station. Keep it to four hooks maximum — more hooks invite clutter.
 
-![A slim entryway stroller station in a small apartment with a folded stroller, wall hooks for a diaper bag, and a small key tray](/images/small-apartment-stroller-storage-ideas-03.jpg)
+![A slim entryway stroller station in a small apartment with a folded stroller, wall hooks for a](/images/small-apartment-stroller-storage-ideas-03.jpg)
 
 ## Balcony and shared-space storage: what is safe and what is not
 
@@ -101,7 +101,7 @@ Keep the stroller you use most; sell or lend the other one. If you genuinely nee
 
 A car-seat frame stroller — the bare frame a car seat clicks into — folds smaller and weighs less than a full travel system. Retire the frame when your child outgrows the car seat. Buying secondhand is fine, but check the U.S. Consumer Product Safety Commission's recall list first — a cracked frame or a recalled model is not a bargain.
 
-![Two folded strollers parked side by side in a small apartment closet bay, one umbrella stroller and one lightweight travel stroller, soft daylight](/images/small-apartment-stroller-storage-ideas-04.jpg)
+![Two folded strollers parked side by side in a small apartment closet bay, one umbrella stroller and](/images/small-apartment-stroller-storage-ideas-04.jpg)
 
 ## The 2-minute in-and-out routine that keeps the hallway clear
 

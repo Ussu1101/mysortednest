@@ -39,7 +39,7 @@ Non-books that want shelf space — manuals, chargers, notebooks — must fit on
 
 Small apartments win on vertical space, and [vertical storage ideas for small apartments](/blog/vertical-storage-ideas-small-apartments/) start with the bookcase you already own.
 
-![Bookshelf styled with the triangle rule, books stacked vertically and horizontally with a small plant](/images/bookshelf-organization-ideas-small-apartments-01.jpg)
+![Bookshelf styled with the triangle rule, books stacked vertically and horizontally with a small](/images/bookshelf-organization-ideas-small-apartments-01.jpg)
 
 ### 5. Style each shelf in a triangle
 

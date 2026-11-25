@@ -9,7 +9,7 @@ image: "/images/small-laundry-drying-solutions-apartments-hero.jpg"
 
 Drying laundry in an apartment without a dryer or a yard feels like a math problem with no good answer — but the right small laundry drying solutions change that. Where does a full load of wet clothes go when you have 600 square feet, a balcony you cannot use, and a lease that bans drilling? Below are 17 apartment laundry drying ideas — racks, lines, heated airers, and emergency setups — that dry clothes fast without eating your living room or growing mold. You will also learn the airflow and ventilation rules that make indoor drying safe in any rental, even in the dampest months of the year.
 
-![A bright small apartment corner with a folding winged drying rack holding neatly hung clothes in soft daylight](/images/small-laundry-drying-solutions-apartments-hero.jpg)
+![A bright small apartment corner with a folding winged drying rack holding neatly hung clothes in](/images/small-laundry-drying-solutions-apartments-hero.jpg)
 
 ## The apartment drying problem: space, airflow, and lease rules
 
@@ -75,7 +75,7 @@ Sometimes the rack is full or guests are coming in an hour. These no-dryer dryin
 
 **17. The overnight radiator method.** In heated apartments, pull a rack near (not touching) a radiator and a half load dries by morning. Keep 6 inches of clearance; never drape fabric on a heat source.
 
-![A bathroom setup with clothes on hangers along the shower rod and a small rack near the tub for emergency drying](/images/small-laundry-drying-solutions-apartments-04.jpg)
+![A bathroom setup with clothes on hangers along the shower rod and a small rack near the tub for](/images/small-laundry-drying-solutions-apartments-04.jpg)
 
 ## Airflow math: how clothes actually dry indoors
 

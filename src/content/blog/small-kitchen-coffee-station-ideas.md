@@ -9,7 +9,7 @@ image: "/images/small-kitchen-coffee-station-ideas-hero.jpg"
 
 A tiny kitchen counter leaves you two bad choices most mornings: shove the coffee maker into a corner you can barely reach, or let mugs, beans, filters, and sugar sprawl across every inch of work surface. Neither works for long. The good news is that small kitchen coffee station ideas are not about finding more counter space — they are about giving your morning routine a small, defined home so the rest of your kitchen stays usable. These 15 ideas cover what you actually use, machines that fit, mug and bean storage, and a two-minute reset that keeps the whole station tidy.
 
-![A compact coffee station on a tiny kitchen counter with a small machine, two mugs, and a tray in warm neutral tones](/images/small-kitchen-coffee-station-ideas-hero.jpg)
+![A compact coffee station on a tiny kitchen counter with a small machine, two mugs, and a tray in](/images/small-kitchen-coffee-station-ideas-hero.jpg)
 
 ## The coffee audit: what you actually use every morning
 

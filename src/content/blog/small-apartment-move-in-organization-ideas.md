@@ -9,7 +9,7 @@ image: "/images/small-apartment-move-in-organization-ideas-hero.jpg"
 
 Moving into a small apartment is exciting for about an hour — then the boxes take over. In a big home, a few unopened boxes can hide in a spare room for a month. In a small apartment, they block the hallway, bury the kitchen counter, and turn every evening into a maze. The fix is not unpacking faster. It is unpacking in the right order, setting up a few small systems on day one, and giving every item a home before clutter settles in. These 15 ideas walk you through your first week, one zone at a time, so that by day seven your apartment works — even if a few boxes are still waiting their turn.
 
-![A bright small apartment entryway with labeled moving boxes stacked neatly beside a console table and hooks](/images/small-apartment-move-in-organization-ideas-hero.jpg)
+![A bright small apartment entryway with labeled moving boxes stacked neatly beside a console table](/images/small-apartment-move-in-organization-ideas-hero.jpg)
 
 ## Unpack in zones, not boxes: the room-by-room order that works
 
@@ -57,7 +57,7 @@ Mark three zones: cooking (stove, pots, pans, utensils), prep (counter, cutting 
 
 You do not need the full kitchen on day one. You need one pot, one pan, a spatula, a cutting board, a knife, two plates, two bowls, two mugs, and cutlery for each person — that is the cook-tonight kit. Cook a simple meal, then leave the rest of the kitchen boxes sealed until you have cooked two or three meals and know what you actually reach for. If your food storage is a single cabinet, our [21 Small Apartment Pantry Organization Ideas That Actually Work](/blog/small-apartment-pantry-organization-ideas/) shows how to fit a week's groceries into one small shelf with risers and door racks.
 
-![A compact small apartment kitchen with open shelves, labeled bins, and a clear cooking zone beside the stove](/images/small-apartment-move-in-organization-ideas-01.jpg)
+![A compact small apartment kitchen with open shelves, labeled bins, and a clear cooking zone beside](/images/small-apartment-move-in-organization-ideas-01.jpg)
 
 ## Closet setup: hang, fold, and leave 20 percent empty
 
@@ -71,7 +71,7 @@ Hang everything that wrinkles or that you grab daily — work clothes, dresses, 
 
 The closet floor holds a low shoe rack or two flat storage bins for off-season clothes, and the inside of the door holds an over-the-door rack for scarves, belts, and bags. A double-hang rod extender — a second rod that hangs from the first — roughly doubles hanging space for shirts and costs less than a dinner out, with no drilling required. For more no-drill closet setups that protect your deposit, see our [17 Renter-Friendly Closet Organization Ideas (No Drilling Required)](/blog/renter-friendly-closet-organization-ideas/).
 
-![A small apartment reach-in closet with slim hangers, folded clothes on shelves, and an empty section of rod left open](/images/small-apartment-move-in-organization-ideas-02.jpg)
+![A small apartment reach-in closet with slim hangers, folded clothes on shelves, and an empty](/images/small-apartment-move-in-organization-ideas-02.jpg)
 
 ## The landing strip for keys, mail, and bags
 
@@ -95,7 +95,7 @@ Choose one box each evening, unpack it fully, and break the box down before bed.
 
 When five or fewer boxes remain, set a date — the end of week two — to finish them all. Open each one and sort ruthlessly: keep and place, donate, or toss. Anything still boxed after two weeks in a small apartment is usually something you do not need in daily life. Bulky seasonal items and spare bedding can move under the bed instead: our [18 Under-Bed Storage Ideas That Turn Dead Space Into a Dresser](/blog/under-bed-storage-ideas-small-bedrooms/) shows flat bins and rolling drawers that turn that dead space into real storage.
 
-![A small apartment bedroom with one labeled moving box being unpacked beside a made bed and clear floor space](/images/small-apartment-move-in-organization-ideas-03.jpg)
+![A small apartment bedroom with one labeled moving box being unpacked beside a made bed and clear](/images/small-apartment-move-in-organization-ideas-03.jpg)
 
 ## Your first-week reset routine and what to buy last
 
@@ -113,7 +113,7 @@ Do not buy bins, baskets, or organizers before move-in day. Live in the apartmen
 
 Grab a sticky note and write the three systems that matter most to you — entryway, kitchen zones, evening reset — and stick it on the fridge. That list is your first-week plan, and it is also your test: if a system is not working by day seven, change the system, not your willpower. Move the hook, swap the basket, or shift the reset to a different time. Small apartment move-in organization is not about buying the perfect setup once; it is about adjusting a simple setup until it fits how you actually live.
 
-![A tidy small apartment living corner with a labeled storage basket, a wall hook rail, and a clear evening reset routine in progress](/images/small-apartment-move-in-organization-ideas-04.jpg)
+![A tidy small apartment living corner with a labeled storage basket, a wall hook rail, and a clear](/images/small-apartment-move-in-organization-ideas-04.jpg)
 
 ## Mistakes to avoid
 

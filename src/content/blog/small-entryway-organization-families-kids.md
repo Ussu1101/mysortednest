@@ -25,7 +25,7 @@ Each group gets exactly one home: coats on hooks, shoes in cubbies, backpacks on
 
 <div class="tip"><strong>Start with subtraction:</strong> remove every outgrown coat, single shoe, and dead permission slip before you install anything. Most family entryways lose a third of their clutter in this one pass, and the storage you buy afterwards actually fits.</div>
 
-![A tidy small family entryway with kid-height coat hooks, labeled shoe cubbies, and backpacks hanging in a row](/images/small-entryway-organization-families-kids-hero.jpg)
+![A tidy small family entryway with kid-height coat hooks, labeled shoe cubbies, and backpacks](/images/small-entryway-organization-families-kids-hero.jpg)
 
 ## Hooks at kid height: the one change that ends the floor pile
 
@@ -63,7 +63,7 @@ Each child gets one dedicated hook for the backpack and one open-top bin underne
 
 Make the hook the packing station, not just the storage spot. After dinner, each child stands at their hook, checks the bin, and packs the bag for tomorrow: lunch bag in, water bottle filled, homework folder zipped in. Five minutes at night saves fifteen minutes of morning panic, and the bag never migrates to the kitchen table. A small bench with hidden storage also gives kids a seat while they put shoes on — see our [16 Small Entryway Bench Ideas With Hidden Storage for Tiny Halls](/blog/small-entryway-bench-ideas-hidden-storage/).
 
-![A child's backpack hanging on a low colorful hook above a labeled bin holding a lunch bag and water bottle](/images/small-entryway-organization-families-kids-01.jpg)
+![A child's backpack hanging on a low colorful hook above a labeled bin holding a lunch bag and water](/images/small-entryway-organization-families-kids-01.jpg)
 
 ## School papers: the inbox that stops the counter pile
 
@@ -95,7 +95,7 @@ Hats, gloves, scarves, and sunscreen live in one open basket on the shoe cubby o
 
 A hook rail that worked for a five-year-old's light jacket will sag under a twelve-year-old's heavy winter coat and full backpack. Check the hooks once a year: tighten screws, replace peeling adhesive rails, and move the kid row up six inches if the youngest can now reach the adult row. A hook that fails once teaches a child to drop the coat on the floor instead.
 
-![A small entryway shelf with a basket of hats and gloves, winter coats on hooks, and boots lined up below](/images/small-entryway-organization-families-kids-02.jpg)
+![A small entryway shelf with a basket of hats and gloves, winter coats on hooks, and boots lined up](/images/small-entryway-organization-families-kids-02.jpg)
 
 ## The 5-minute after-school reset
 
@@ -113,7 +113,7 @@ Time the reset for a week and let the kids beat their own record — most famili
 
 After the kids are in bed, take two minutes at the door and put right the one pair of shoes, one coat, or one paper out of place. This is not redoing the kids' work; it is catching the one or two things they missed so tomorrow starts clean. A hallway that starts clean stays clean far longer than one that starts with yesterday's leftovers.
 
-![A clear hallway after the after-school reset, with shoes in cubbies, bags on hooks, and a clean floor](/images/small-entryway-organization-families-kids-03.jpg)
+![A clear hallway after the after-school reset, with shoes in cubbies, bags on hooks, and a clean](/images/small-entryway-organization-families-kids-03.jpg)
 
 ## Mistakes to avoid
 
@@ -131,7 +131,7 @@ After the kids are in bed, take two minutes at the door and put right the one pa
 
 Skip the tall coat tree — it tips over when three backpacks hang off it, and it eats floor space a small hallway cannot spare. Skip lidded boxes for daily shoes and bags; kids will not open a lid twice a day, and the contents will end up beside the box instead. Skip the over-door hook rack if your door is the main fire exit or a hollow-core interior door that flexes under weight. And skip "complete entryway system" sets before measuring your wall — most are sized for a suburban mudroom, not a 36-inch hallway, and the returns cost more than the hooks you needed.
 
-![A compact wall-mounted hook rail and open cubby unit in a narrow hallway, with labeled bins for each child](/images/small-entryway-organization-families-kids-04.jpg)
+![A compact wall-mounted hook rail and open cubby unit in a narrow hallway, with labeled bins for](/images/small-entryway-organization-families-kids-04.jpg)
 
 ## Frequently asked questions
 

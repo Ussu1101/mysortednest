@@ -9,7 +9,7 @@ image: "/images/small-apartment-seasonal-storage-rotation-ideas-hero.jpg"
 
 If your closet is bursting with heavy coats in July and sandals in January, the problem is not that you own too much — it is that every season is competing for the same small amount of space at the same time. A small apartment seasonal storage rotation solves this by giving each season its turn: only the current season lives within easy reach, and everything else waits in a labelled, out-of-the-way home until its turn comes back. Done twice a year, this swap keeps your closet breathable and your mornings faster. Below are 18 practical ideas that build one complete rotation system, from the first swap weekend to the rule that keeps it from creeping back into chaos.
 
-![A tidy small apartment closet holding only current-season clothes, with labelled bins on the top shelf for off-season items](/images/small-apartment-seasonal-storage-rotation-ideas-hero.jpg)
+![A tidy small apartment closet holding only current-season clothes, with labelled bins on the top](/images/small-apartment-seasonal-storage-rotation-ideas-hero.jpg)
 
 ## The rotation rule: only the current season lives within reach
 
@@ -45,7 +45,7 @@ Work from the most-used zone outward. First the closet rod and shelves, then dre
 
 <div class="tip"><strong>Swap-day shortcut:</strong> Photograph each storage bin's contents with your phone before sealing it. When you need one off-season item mid-season, you can check the photo instead of opening three bins.</div>
 
-![Open labelled storage bins on a bed during a seasonal closet swap, with folded sweaters and coats sorted into piles](/images/small-apartment-seasonal-storage-rotation-ideas-01.jpg)
+![Open labelled storage bins on a bed during a seasonal closet swap, with folded sweaters and coats](/images/small-apartment-seasonal-storage-rotation-ideas-01.jpg)
 
 ## Labelled bins that actually get found again next year
 
@@ -91,7 +91,7 @@ The top shelf of your bedroom or hall closet is the best off-season home in most
 
 Under-bed space is ideal for the soft, bulky things that eat closet space: off-season bedding, heavy sweaters, and puffy jackets in flat, lidded bins or vacuum-sealed bags. Measure your bed clearance first — many bed frames give you only about 6 to 8 inches — and choose low-profile bins with wheels or handles so you can pull them out without moving the bed. Keep one under-bed bin per season so you never have to dig through summer clothes to reach winter ones.
 
-![Flat under-bed storage bins holding folded off-season sweaters and bedding, pulled out from beneath a bed](/images/small-apartment-seasonal-storage-rotation-ideas-02.jpg)
+![Flat under-bed storage bins holding folded off-season sweaters and bedding, pulled out from beneath](/images/small-apartment-seasonal-storage-rotation-ideas-02.jpg)
 
 ## Seasonal decor and gear without a storage unit
 
@@ -119,7 +119,7 @@ Before you seal the off-season bins, take two minutes to scan each one: is every
 
 <div class="tip"><strong>Creep check:</strong> If your seasonal bins no longer fit their assigned shelf or under-bed space, you own too much for the system — not too little space. Remove one bin's worth before buying bigger bins.</div>
 
-![A single neatly labelled bin for holiday decor on a high closet shelf, with limited seasonal items stored inside](/images/small-apartment-seasonal-storage-rotation-ideas-03.jpg)
+![A single neatly labelled bin for holiday decor on a high closet shelf, with limited seasonal items](/images/small-apartment-seasonal-storage-rotation-ideas-03.jpg)
 
 ## Mistakes to avoid
 
@@ -143,7 +143,7 @@ Store them for one full season and see whether you go looking for them. If you n
 
 Make sure everything is fully dry before packing, use lidded bins rather than open baskets, and store bins on a shelf rather than on the floor. A cedar block or silica gel packet in each bin helps, and avoid exterior walls that get condensation in winter.
 
-![A small apartment entryway in the current season only, with a few coats on hooks and one pair of shoes by the door](/images/small-apartment-seasonal-storage-rotation-ideas-04.jpg)
+![A small apartment entryway in the current season only, with a few coats on hooks and one pair of](/images/small-apartment-seasonal-storage-rotation-ideas-04.jpg)
 
 ## Conclusion
 

@@ -9,7 +9,7 @@ image: "/images/small-dining-nook-organization-ideas-hero.jpg"
 
 A tiny dining nook should be the coziest corner of your home, but in most small kitchens it becomes the dumping ground: mail piles up, chargers snake across the table, and by dinner there is nowhere left for a plate. Good small dining nook organization is not about buying more furniture. It is about deciding what the table is actually for, giving everything else a home nearby, and building a reset habit so the table stays clear. These 15 ideas cover storage seating, fold-down tables, wall storage, tabletop rules, and linens for real tiny kitchens where every inch has to earn its keep.
 
-![Cozy small dining nook in a tiny kitchen with a built-in banquette, round table, and warm cream and sage decor](/images/small-dining-nook-organization-ideas-hero.jpg)
+![Cozy small dining nook in a tiny kitchen with a built-in banquette, round table, and warm cream and](/images/small-dining-nook-organization-ideas-hero.jpg)
 
 ## The nook audit: how the table is really used
 
@@ -55,7 +55,7 @@ A gateleg table with a narrow 12-to-15-inch fixed center slides into a corner as
 
 A rolling kitchen cart with a 24-by-36-inch top works as a serving station at dinner and a bonus surface for one person at breakfast. Lock all four casters before anyone eats at it. After the meal, it rolls back against the counter holding the air fryer and produce basket.
 
-![Small dining nook with a wall-mounted drop-leaf table folded open, two stools tucked beneath, and cream walls](/images/small-dining-nook-organization-ideas-01.jpg)
+![Small dining nook with a wall-mounted drop-leaf table folded open, two stools tucked beneath, and](/images/small-dining-nook-organization-ideas-01.jpg)
 
 ## Tabletop storage: what earns a permanent spot
 
@@ -97,7 +97,7 @@ Four wipe-clean placemats, about 12 by 18 inches each, plus eight cloth napkins 
 
 Instead of one pile of placemats and one pile of napkins, make two or four small bundles, each with one placemat and two napkins tied or clipped together. Grabbing one bundle sets one place in seconds. Keep the bundles in the bench seat, a nearby drawer, or a basket on the wall shelf.
 
-![Small dining table dressed with woven placemats, rolled cloth napkins, and a simple centerpiece in a tiny kitchen](/images/small-dining-nook-organization-ideas-03.jpg)
+![Small dining table dressed with woven placemats, rolled cloth napkins, and a simple centerpiece in](/images/small-dining-nook-organization-ideas-03.jpg)
 
 ## The 2-minute table reset after every meal
 

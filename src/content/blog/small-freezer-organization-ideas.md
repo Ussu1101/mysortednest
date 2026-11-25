@@ -9,7 +9,7 @@ image: "/images/small-freezer-organization-ideas-hero.jpg"
 
 You know the sound: a frozen bag tumbling out onto your toes while you dig through your freezer looking for something you bought three weeks ago. Then comes the ritual. You hold up a frost-covered lump, squint at it, and try to decide whether it is chicken stock or ice cream. These small freezer organization ideas end that ritual for good — no gadget spree, no full weekend project. Just zones, bins, and one freezing method that turns any cramped freezer into a system where you can find anything in ten seconds flat. They work in top-freezers, drawer freezers, mini units, and small chest freezers alike, and most cost little or nothing to set up.
 
-![A neatly organized small freezer with labeled bins, zones for meals and ingredients, and flat-frozen bags filed upright](/images/small-freezer-organization-ideas-hero.jpg)
+![A neatly organized small freezer with labeled bins, zones for meals and ingredients, and](/images/small-freezer-organization-ideas-hero.jpg)
 
 A small freezer punishes disorganization faster than any other storage space. In a 3-cubic-foot apartment freezer, one lost bag blocks airflow and buries half your inventory. Every idea below is sized for small spaces and tight budgets, because that is where an organized freezer pays off most.
 
@@ -29,7 +29,7 @@ Freezers become black holes because unrelated items share the same pile. The zon
 
 **4. Keep a "use next" front edge in every zone.** Front-load what you plan to eat this week; restock new arrivals behind it. This is the zone logic from [15 Small Fridge Organization Ideas That End the "What's in There" Game](/blog/small-fridge-organization-ideas/) moved into the cold — cook from the front, restock to the back.
 
-![Color-coded freezer bins dividing a small freezer into zones for meals, raw ingredients, snacks, and backstock](/images/small-freezer-organization-ideas-01.jpg)
+![Color-coded freezer bins dividing a small freezer into zones for meals, raw ingredients, snacks,](/images/small-freezer-organization-ideas-01.jpg)
 
 <div class="tip"><strong>Small-freezer rule:</strong> Never let one zone eat another's space. If the raw-ingredient zone overflows, that is your signal to cook or portion — not to annex the snack shelf.</div>
 

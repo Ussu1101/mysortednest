@@ -9,7 +9,7 @@ image: "/images/small-desk-supply-organization-ideas-hero.jpg"
 
 A tiny desk can hold a surprising amount of work, but it cannot hold a surprising amount of stuff. When pens, chargers, notebooks, and loose paper all compete for the same 36 inches of surface, the work itself gets squeezed out, and every task starts with five minutes of clearing space. Good **small desk supply organization** is not about buying prettier containers. It is about deciding what earns a place on or near the desk, giving each of those things a fixed home, and moving everything else somewhere it cannot interrupt you. This guide walks you through 17 practical ideas for a tiny home office.
 
-![A tiny home office desk kept clear, with supplies stored in a drawer divider and a small wall rail above the desk](/images/small-desk-supply-organization-ideas-hero.jpg)
+![A tiny home office desk kept clear, with supplies stored in a drawer divider and a small wall rail](/images/small-desk-supply-organization-ideas-hero.jpg)
 
 ## The desk audit: what you touch daily vs weekly
 
@@ -41,7 +41,7 @@ Stock that single drawer as your complete kit and stop there: two pens, one penc
 
 Leave one small compartment empty on purpose, for things passing through: a form to sign, a letter to post, a receipt to file. Empty it every Friday, and nothing accumulates. The same measure-first discipline keeps a [junk drawer](/blog/junk-drawer-organization-ideas/) elsewhere in the house under control too.
 
-![A desk drawer fitted with dividers holding pens, clips, sticky notes, and scissors in neat compartments](/images/small-desk-supply-organization-ideas-01.jpg)
+![A desk drawer fitted with dividers holding pens, clips, sticky notes, and scissors in neat](/images/small-desk-supply-organization-ideas-01.jpg)
 
 ## Desktop caddies that don't eat the workspace
 
@@ -71,7 +71,7 @@ A 16- to 24-inch rail mounted 12 to 18 inches above the desk, with two or three 
 
 A pegboard roughly 16 by 20 inches is plenty for a tiny desk. Hang only the five or six items you reach for often — scissors, a ruler, washi tape, a small pair of headphones — and leave the rest of the board empty. A pegboard crammed edge to edge becomes a junk wall; a half-empty board stays useful and calm.
 
-![A pegboard and wall rail above a small desk holding scissors, tape, and cups without crowding the work surface](/images/small-desk-supply-organization-ideas-02.jpg)
+![A pegboard and wall rail above a small desk holding scissors, tape, and cups without crowding the](/images/small-desk-supply-organization-ideas-02.jpg)
 
 ## Paper, notebooks, and reference storage
 
@@ -101,7 +101,7 @@ Adhesive cable clips along the back edge of the desk, spaced about 6 inches apar
 
 A small power strip and a short cable tray mounted under the desk or on a nearby shelf turns charging into a background task. Your phone, earbuds, and laptop charger live there, not scattered across the work surface.
 
-![A tidy desk edge with cable clips holding charger cables in place and a small charging station tucked underneath](/images/small-desk-supply-organization-ideas-03.jpg)
+![A tidy desk edge with cable clips holding charger cables in place and a small charging station](/images/small-desk-supply-organization-ideas-03.jpg)
 
 ## The end-of-day desk reset
 
@@ -121,7 +121,7 @@ End the reset by placing one thing on the desk for tomorrow morning: the noteboo
 
 The most common mistake is buying organizers before doing the audit. Containers bought for supplies you later remove are wasted money and wasted space, so audit first, buy second, and buy one piece at a time. Another mistake is over-filling every organizer: a pen cup stuffed to the brim, a pegboard with no empty hooks, or a drawer tray with no spare slot all look organized for a week and then overflow. Leave roughly a fifth of every container empty, on purpose.
 
-![A small desk at the end of the day, cleared and reset with only tomorrow's notebook and a pen left out](/images/small-desk-supply-organization-ideas-04.jpg)
+![A small desk at the end of the day, cleared and reset with only tomorrow's notebook and a pen left](/images/small-desk-supply-organization-ideas-04.jpg)
 
 ## Frequently asked questions
 

@@ -9,7 +9,7 @@ image: "/images/small-living-room-storage-ideas-apartments-hero.jpg"
 
 A small living room has to do a lot: host movie nights, hold your books and remotes, absorb the mail, and still look like a place you can relax in. When every surface fills up, the room feels smaller than it is. These small living room storage ideas for apartments are built for renters — no built-ins, no renovation. Below are 17 practical ideas, from media wall setups to seating that hides clutter, all chosen to work in a typical apartment living room. The good news: you do not need built-in cabinetry or a bigger apartment to fix it. Freestanding furniture, wall height, and a few lidded containers can hold everything the room needs while keeping it calm and easy to live in.
 
-![Small apartment living room with a storage console, baskets, and floating shelves keeping the space calm and tidy](/images/small-living-room-storage-ideas-apartments-hero.jpg)
+![Small apartment living room with a storage console, baskets, and floating shelves keeping the space](/images/small-living-room-storage-ideas-apartments-hero.jpg)
 
 ## The living room audit: what actually lives here vs what drifted in
 
@@ -23,7 +23,7 @@ Work one surface at a time — coffee table, then shelf, then sofa cushions — 
 
 Note three numbers: the width of your media wall, the clear space under your sofa (usually 3 to 5 inches), and the depth of any shelf you plan to use. Storage fails when guessed: a basket half an inch too wide for a cubby is useless.
 
-## Media wall storage without built-ins: consoles, shelves, and cord control
+## Media wall storage without built-ins: consoles and shelves
 
 The TV wall is the biggest storage opportunity in most apartments. A freestanding setup can hold as much as a built-in — it just needs a plan for cables and clutter.
 
@@ -59,7 +59,7 @@ A bench 14 to 16 inches deep fits under most windows without blocking light, and
 
 If your sofa floats mid-room, the 6 to 10 inches behind it are wasted space. A narrow console table — about 10 inches deep — holds a lamp, a charging station, and a lidded box for remotes. Keep it lower than the sofa back so it does not block sightlines.
 
-## Vertical walls: floating shelves, picture ledges, and tall narrow units
+## Vertical walls: floating shelves, picture ledges, and tall units
 
 Floor space is fixed. Wall height is not. Most apartments have 5 or 6 feet of unused air above their furniture — claim it for storage without losing floor space.
 
@@ -121,7 +121,7 @@ Once a month, pick the fullest basket or shelf: anything new that entered the ro
 
 Buying storage before auditing is the most expensive mistake — you end up organizing things you should have removed. Buying open shelving for messy categories is the second: open shelves display clutter, so reserve them for items that already look good. Third is over-filling: a basket stuffed past its lid reads as clutter. Finally, never skip anchoring tall furniture — a tipping bookcase is a safety hazard, so anchor anything taller than 4 feet.
 
-![Cozy small living room corner with a reading chair, floor lamp, and a rolling work cart tucked beside it](/images/small-living-room-storage-ideas-apartments-04.jpg)
+![Cozy small living room corner with a reading chair, floor lamp, and a rolling work cart tucked](/images/small-living-room-storage-ideas-apartments-04.jpg)
 
 ## Frequently asked questions
 

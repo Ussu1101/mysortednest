@@ -17,7 +17,7 @@ Before you buy a single box, stand on your balcony for two minutes and sort ever
 
 **Idea 2 — Measure the footprint, then shop.** Measure your balcony's usable width and depth, the railing height, and the door swing (storage cannot block the door). A balcony that is 4 by 8 feet holds one deck box, one vertical rack, and a bike — not more. Buying storage before measuring is why most balcony systems feel cramped instead of clever.
 
-![A tidy small apartment balcony with a weatherproof deck box, vertical shelf, and everything in its place](/images/apartment-balcony-storage-ideas-hero.jpg)
+![A tidy small apartment balcony with a weatherproof deck box, vertical shelf, and everything in its](/images/apartment-balcony-storage-ideas-hero.jpg)
 
 ## Deck boxes: the weatherproof workhorse
 

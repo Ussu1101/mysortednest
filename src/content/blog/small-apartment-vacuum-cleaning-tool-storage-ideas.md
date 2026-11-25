@@ -9,7 +9,7 @@ image: "/images/small-apartment-vacuum-cleaning-tool-storage-ideas-hero.jpg"
 
 A vacuum cleaner is the hardest thing to store in a small apartment: tall, top-heavy, and awkwardly shaped, with a hose, a cord, and attachments that never stay put. Brooms and mops are no better — they slide over and end up leaning by the front door. These small apartment vacuum storage ideas give every tool a real home, even with almost no spare space. From wall hooks and behind-door racks to slim cabinets and renter-safe mounts, every idea uses space you already have. The 17 ideas below work in rentals, need little or no drilling, and most cost less than a takeout dinner.
 
-## Measure the tools first: the vacuum's real footprint (and why closets fail)
+## Measure the tools first: the vacuum's real footprint
 
 A standard upright is roughly 42 to 45 inches tall, 12 to 14 inches wide, and 11 to 13 inches deep, and the hose sticks out past those numbers. A stick vacuum is slimmer but often taller, around 44 to 48 inches. Measure your vacuum, then the spot, leaving 2 inches of clearance on each side.
 

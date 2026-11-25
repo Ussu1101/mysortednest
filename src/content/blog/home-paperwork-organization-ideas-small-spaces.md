@@ -9,7 +9,7 @@ image: "/images/home-paperwork-organization-small-spaces-hero.jpg"
 
 Paper takes over a small home quietly. A bill on the counter, a school form on the radiator, bank statements on the bookshelf — none of it looks like much alone, but together it becomes a pile you avoid, then a drawer you never open. These home paperwork organization ideas are built for homes with no spare room, no filing cabinet, and no home office: one inbox, a slim filing system that fits on a single shelf, and a weekly routine short enough to keep. Follow the 16 ideas below. No filing cabinet required, just a system sized for your space.
 
-![A tidy small-space paperwork station with a slim filing box, labeled folders, and a single inbox tray on a shelf](/images/home-paperwork-organization-small-spaces-hero.jpg)
+![A tidy small-space paperwork station with a slim filing box, labeled folders, and a single inbox](/images/home-paperwork-organization-small-spaces-hero.jpg)
 
 ## The paper triage: keep, scan, shred, act
 
@@ -69,7 +69,7 @@ A paperwork system lives or dies on its routine. Ten minutes a week is short eno
 
 **14. End each session by checking the shelf, not the pile.** Check your filing box and inbox tray: if both are tidy and the inbox is empty, you are done. If the filing box is bulging, purge one pocket before it becomes a second backlog. If a session regularly takes over 15 minutes, your system has too many categories or too much paper coming in.
 
-![A person sorting a small stack of household papers into labeled folders during a quick weekly routine at a kitchen table](/images/home-paperwork-organization-small-spaces-02.jpg)
+![A person sorting a small stack of household papers into labeled folders during a quick weekly](/images/home-paperwork-organization-small-spaces-02.jpg)
 
 ## What to shred and when
 
@@ -91,7 +91,7 @@ Shredding is where most households hesitate: afraid of throwing away something i
 
 **Filing by company instead of category.** A folder for every bank, utility, and insurer multiplies fast and breaks when you switch providers. Categories stay stable; companies do not.
 
-![A cluttered countertop with unsorted mail and loose papers beside a small tidy inbox tray showing the before-and-after contrast](/images/home-paperwork-organization-small-spaces-04.jpg)
+![A cluttered countertop with unsorted mail and loose papers beside a small tidy inbox tray showing](/images/home-paperwork-organization-small-spaces-04.jpg)
 
 ## Frequently asked questions
 

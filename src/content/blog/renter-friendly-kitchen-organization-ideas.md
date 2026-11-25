@@ -9,7 +9,7 @@ image: "/images/renter-kitchen-hero.jpg"
 
 You rent the kitchen, not the walls — and most leases make that distinction expensive. One row of screw holes behind a spice rack can cost you part of your deposit. The good news is that **renter friendly kitchen organization** does not need a single screw. Tension, gravity, hooks, and freestanding furniture can add a surprising amount of storage to a small rental kitchen, and every piece of it packs into a moving box when your lease ends. These 17 ideas use only no-drill methods, ordered the way you should tackle them: rules, cabinets, doors, floors, walls, counters, and a move-out plan.
 
-![Bright rental kitchen organized without drilling, with a rolling cart, over-door rack, and freestanding shelves in warm neutral tones](/images/renter-kitchen-hero.jpg)
+![Bright rental kitchen organized without drilling, with a rolling cart, over-door rack, and](/images/renter-kitchen-hero.jpg)
 
 ## The renter's kitchen rulebook: what no-damage really allows
 
@@ -89,7 +89,7 @@ Stick two or three adhesive hooks under an upper cabinet and hang mugs by their 
 
 An adhesive-mounted rail with S-hooks along the backsplash holds spatulas, ladles, tongs, and measuring cups within arm's reach of the stove. It only works on smooth tile or glass — textured tile and grout lines defeat adhesive, so test one hook for a week before committing to a full rail. Keep the rail at least 12 inches from direct burner heat.
 
-![Removable adhesive hooks and a utensil rail holding mugs and cooking tools on a rental kitchen backsplash](/images/renter-kitchen-hooks.jpg)
+![Removable adhesive hooks and a utensil rail holding mugs and cooking tools on a rental kitchen](/images/renter-kitchen-hooks.jpg)
 
 ### 14. Stick a magnetic strip alternative inside a cabinet door
 

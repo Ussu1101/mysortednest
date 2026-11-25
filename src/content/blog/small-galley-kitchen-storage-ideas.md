@@ -9,7 +9,7 @@ image: "/images/small-galley-kitchen-storage-ideas-hero.jpg"
 
 A galley kitchen gives you two walls, one narrow aisle, and nowhere to hide the clutter. There is no island to absorb the overflow and no spare corner for a cart, so every item left on the counter narrows the walkway a little more. Small galley kitchen storage ideas work when they follow one rule: storage goes up and onto doors, never into the aisle. These 16 ideas — wall rails, door racks, pull-outs, and vertical zones — turn your two walls into the storage your kitchen is missing.
 
-![Narrow galley kitchen with wall rails, open shelves, and clear counters on both sides of a slim walkway](/images/small-galley-kitchen-storage-ideas-hero.jpg)
+![Narrow galley kitchen with wall rails, open shelves, and clear counters on both sides of a slim](/images/small-galley-kitchen-storage-ideas-hero.jpg)
 
 ## The galley rule: keep the walkway clear, store on the walls
 

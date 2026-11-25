@@ -9,7 +9,7 @@ image: "/images/window-seat-under-window-storage-ideas-hero.jpg"
 
 In a small home, the wall under a window is usually the most wasted wall you own. It cannot hold a tall bookcase without blocking the light, and a sofa pushed against it turns the space beneath the sill into a dust trap. Yet that strip often runs 4 to 8 feet wide and 18 to 24 inches deep — roughly the footprint of a small dresser, sitting empty. These window seat storage ideas turn that dead zone into seating, a reading spot, and genuinely useful storage, without taking a single extra square foot of floor. Whether you rent or own, there is an option below that fits your window, your budget, and your storage needs.
 
-![A bright window seat with storage benches, cream cushions, and baskets underneath in a small living room](/images/window-seat-under-window-storage-ideas-hero.jpg)
+![A bright window seat with storage benches, cream cushions, and baskets underneath in a small living](/images/window-seat-under-window-storage-ideas-hero.jpg)
 
 ## Why window walls are wasted storage in small homes
 
@@ -99,7 +99,7 @@ A ready-made storage bench, typically 40 to 60 inches long, slides under most wi
 
 Two cube storage units side by side, each about 12 to 14 inches high, fit under most sills and cost far less than a bench. This low, renter-friendly approach also works in a living room — see these [small living room storage ideas for apartments](/blog/small-living-room-storage-ideas-apartments/) for more options.
 
-![Low freestanding storage cubbies with lidded baskets placed under a bright window in a small apartment](/images/window-seat-under-window-storage-ideas-02.jpg)
+![Low freestanding storage cubbies with lidded baskets placed under a bright window in a small](/images/window-seat-under-window-storage-ideas-02.jpg)
 
 ## Keeping window storage dust-free and dry
 

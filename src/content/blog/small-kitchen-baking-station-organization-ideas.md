@@ -21,7 +21,7 @@ Pick the single spot closest to your oven: one cabinet, one shelf run, or one ro
 
 The best baking zone is within two or three steps of the oven and the sink, so you can slide a tray straight into the oven without dripping batter across the floor. If your only free cabinet is far from the oven, a narrow rolling cart parked beside it during bake day is a better home base than a distant cabinet you never use.
 
-![A compact baking station in a small kitchen with sheet pans filed vertically and mixing bowls stacked nearby](/images/small-kitchen-baking-station-organization-ideas-hero.jpg)
+![A compact baking station in a small kitchen with sheet pans filed vertically and mixing bowls](/images/small-kitchen-baking-station-organization-ideas-hero.jpg)
 
 ## Sheet pans and baking trays: vertical filing that works
 
@@ -69,7 +69,7 @@ Cocoa powder, baking powder, baking soda, salt, vanilla, and yeast earn a small 
 
 Baking add-ins scatter fastest because each bag is small. Decant chocolate chips, chopped nuts, and dried fruit into small clear jars or one divided bin, kept on the same shelf as your flour canisters. When you can see every add-in at once, you stop buying a third bag of chocolate chips you already own.
 
-![Decanted flour and sugar in labelled square canisters with baking ingredients grouped in a small kitchen cabinet](/images/small-kitchen-baking-station-organization-ideas-01.jpg)
+![Decanted flour and sugar in labelled square canisters with baking ingredients grouped in a small](/images/small-kitchen-baking-station-organization-ideas-01.jpg)
 
 ## Small tools: cutters, tips, and decorating supplies
 
@@ -95,7 +95,7 @@ Work in a fixed sequence: pans and parchment first, then bowls and mixer, then m
 
 While the bake is in the oven, wash the mixing bowl, return dry-ingredient canisters to their shelf, and wipe the counter. That five-minute reset uses waiting time you already have, so the kitchen is nearly clean when the timer rings. If you wait until everything is baked, the station stays messy until the next bake, when you have to clean before you can start.
 
-![A baker setting up a small baking zone with a mixer, bowls, and measured ingredients ready on a compact counter](/images/small-kitchen-baking-station-organization-ideas-02.jpg)
+![A baker setting up a small baking zone with a mixer, bowls, and measured ingredients ready on a](/images/small-kitchen-baking-station-organization-ideas-02.jpg)
 
 ## Keeping a baking station stocked without clutter
 
@@ -111,7 +111,7 @@ Every three months, pull everything out of the baking zone, wipe the shelf, and 
 
 <div class="tip"><strong>One-in, one-out:</strong> Every new baking purchase must replace something in the zone or earn its spot by passing the seasonal audit. Without this rule, even a well-planned station fills up within a year.</div>
 
-![A tidy small kitchen baking station with a rolling cart, vertical pan storage, and labelled ingredient canisters](/images/small-kitchen-baking-station-organization-ideas-03.jpg)
+![A tidy small kitchen baking station with a rolling cart, vertical pan storage, and labelled](/images/small-kitchen-baking-station-organization-ideas-03.jpg)
 
 ## Mistakes to avoid
 

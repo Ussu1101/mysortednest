@@ -21,7 +21,7 @@ Pull every pair out of closets, under beds, and behind furniture. Sort them into
 
 Measure the width of the wall beside your door and the floor depth you can spare. In most small apartments that is roughly 24 inches of wall width and no more than 8–10 inches of floor depth before you block the door swing. Write them down — they rule out bulky racks and keep you from ordering a 14-inch-deep organizer for a 10-inch space.
 
-![Scandinavian minimalist entryway in a small apartment with a slim shoe cabinet and tidy shoe storage, no pile by the door](/images/shoe-storage-ideas-small-apartments-hero.jpg)
+![Scandinavian minimalist entryway in a small apartment with a slim shoe cabinet and tidy shoe](/images/shoe-storage-ideas-small-apartments-hero.jpg)
 
 ## Vertical shoe towers: the footprint math
 
@@ -41,7 +41,7 @@ Fold-down racks hang flat against the wall like a shelf (about 4 inches deep) an
 
 A 24-inch-wide, 5-shelf bookcase (about $25–$35 at most big-box stores) fits most apartments' unused corners. Each shelf holds 3–4 pairs. This doubles as a console top for keys and mail — one piece of furniture doing two jobs.
 
-![Tall narrow fabric shoe tower in a small apartment corner storing many pairs vertically, Scandinavian minimalist style](/images/shoe-storage-ideas-small-apartments-01.jpg)
+![Tall narrow fabric shoe tower in a small apartment corner storing many pairs vertically,](/images/shoe-storage-ideas-small-apartments-01.jpg)
 
 ## Under-bed and under-furniture shoe storage
 
@@ -67,7 +67,7 @@ Standard over-door pocket organizers hold up to 36 pairs, but half that is reali
 
 Boots collapse and lose their shape when stuffed in bins. A rail that hooks over a door — tall boots draped over it upside down — keeps 3–4 pairs crease-free and visible. If boots are your main collection, this one addition saves more pairs than any other single move.
 
-![Clear over-door shoe organizer with pockets on a closet door in a small apartment, tidy and renter-friendly](/images/shoe-storage-ideas-small-apartments-02.jpg)
+![Clear over-door shoe organizer with pockets on a closet door in a small apartment, tidy and](/images/shoe-storage-ideas-small-apartments-02.jpg)
 
 ## Slim cabinets that look like furniture
 
@@ -83,7 +83,7 @@ A bench with hidden flip-drawer compartments (roughly 12 inches deep, 40–47 in
 
 <div class="tip"><strong>Renter check:</strong> cabinets that are 8–10 inches deep need no wall anchoring if you keep heavier pairs on the bottom tier. Tall tilt-outs (3+ tiers) should be anchored — use removable strips if you cannot drill.</div>
 
-![Slim tilt-out shoe cabinet in a small apartment entryway styled like furniture, holding a few pairs with a clean top surface](/images/shoe-storage-ideas-small-apartments-03.jpg)
+![Slim tilt-out shoe cabinet in a small apartment entryway styled like furniture, holding a few pairs](/images/shoe-storage-ideas-small-apartments-03.jpg)
 
 ## Seasonal rotation: off-season shoes don't live by the door
 
@@ -101,7 +101,7 @@ Shoulder seasons are the rotation trap — October sneakers next to February boo
 
 Brush off dirt, wipe soles, and let every pair air-dry fully before storage — damp shoes in a sealed bin grow mildew within days. Stuff paper into toes to hold shape. This 20-minute chore keeps stored pairs wearable, not smelly.
 
-![Labeled seasonal shoe storage bins under a bed in a small apartment, off-season shoes neatly packed away](/images/shoe-storage-ideas-small-apartments-04.jpg)
+![Labeled seasonal shoe storage bins under a bed in a small apartment, off-season shoes neatly packed](/images/shoe-storage-ideas-small-apartments-04.jpg)
 
 ## The one-pair rule for the entryway
 

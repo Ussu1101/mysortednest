@@ -9,7 +9,7 @@ image: "/images/small-bathroom-towel-storage-ideas-hero.jpg"
 
 A small bathroom punishes towels in two ways at once: there is nowhere obvious to put them, and wherever they do land, they stay damp. Towels end up draped over the shower door or folded on the toilet tank — and a towel that cannot breathe starts to smell before it ever dries. These small bathroom towel storage ideas fix both problems together. Each idea gives every towel a fixed home with airflow around it, so towels dry between uses. No renovation is needed, and most of these ideas are renter-safe.
 
-![Neat small bathroom with towels on a bar, hooks, and a basket in warm ivory, sage, and terracotta tones](/images/small-bathroom-towel-storage-ideas-hero.jpg)
+![Neat small bathroom with towels on a bar, hooks, and a basket in warm ivory, sage, and terracotta](/images/small-bathroom-towel-storage-ideas-hero.jpg)
 
 ## How many towels a small bathroom really needs
 

@@ -11,7 +11,7 @@ Camera bodies, lenses, lights, and backdrops are fragile, fiddly, and oddly shap
 
 ![A camera body, lenses, and accessories organized on a closet shelf with padded dividers](/images/small-apartment-storage-ideas-photography-gear-hero.jpg)
 
-## The gear audit: bodies, lenses, lights, and backdrops — what earns space
+## The gear audit: bodies, lenses, lights, and backdrops
 
 Sort it honestly before you buy a single divider.
 
@@ -63,7 +63,7 @@ Paper and vinyl backdrop rolls crease and warp if they lean against a wall, so s
 
 Stand the tripod upright in a corner, legs collapsed, and loop a small bungee cord or Velcro strap around it and a wall hook to stop it sliding over. A full-size tripod is about 24 inches collapsed, so a corner 12 inches deep is enough.
 
-![A rolled photography backdrop stored horizontally on brackets above a closet door, with a tripod standing in the corner](/images/small-apartment-storage-ideas-photography-gear-02.jpg)
+![A rolled photography backdrop stored horizontally on brackets above a closet door, with a tripod](/images/small-apartment-storage-ideas-photography-gear-02.jpg)
 
 ## The grab-and-go bag: one packed bag for every shoot
 
@@ -91,7 +91,7 @@ Give every cable and card its own labelled pouch: camera USB cable, card reader,
 
 <div class="tip"><strong>Card safety:</strong> Keep memory cards in a hard, waterproof card case, not loose in a pocket. A crushed or wet card can lose a whole shoot, and a hard case costs less than a single memory card.</div>
 
-![A small charging station tray with camera batteries, a dual charger, and labelled cable pouches on a shelf](/images/small-apartment-storage-ideas-photography-gear-03.jpg)
+![A small charging station tray with camera batteries, a dual charger, and labelled cable pouches on](/images/small-apartment-storage-ideas-photography-gear-03.jpg)
 
 ## Dust, humidity, and light: protecting gear in a small apartment
 

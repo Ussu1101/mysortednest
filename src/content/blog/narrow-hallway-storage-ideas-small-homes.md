@@ -39,7 +39,7 @@ If floor space is truly tight, a wall-mounted bench or sturdy floating shelf at 
 
 Shallow storage above hip height keeps the floor clear without narrowing the passage at all.
 
-![A narrow hallway with shallow wall shelves, framed prints, and a slim console below, styled in warm neutrals](/images/narrow-hallway-storage-ideas-small-homes-01.jpg)
+![A narrow hallway with shallow wall shelves, framed prints, and a slim console below, styled in warm](/images/narrow-hallway-storage-ideas-small-homes-01.jpg)
 
 ### 5. Run a picture ledge for books, art, and small plants
 
@@ -103,7 +103,7 @@ The wall alongside a staircase often has a long, low stretch that standard furni
 
 Light and mirrors keep a storage-filled hall from feeling like a tunnel.
 
-![A bright narrow hallway with a large mirror, wall sconces, and light-colored walls that make the space feel wider](/images/narrow-hallway-storage-ideas-small-homes-03.jpg)
+![A bright narrow hallway with a large mirror, wall sconces, and light-colored walls that make the](/images/narrow-hallway-storage-ideas-small-homes-03.jpg)
 
 ### 16. Hang one large mirror and add layered light
 

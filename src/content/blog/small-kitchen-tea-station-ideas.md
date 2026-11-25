@@ -9,7 +9,7 @@ image: "/images/small-kitchen-tea-station-ideas-hero.jpg"
 
 Tea bags in three different cupboards, loose-leaf tins sliding around a shelf, a kettle parked where the cutting board should go — in a tiny kitchen, tea takes over fast. You do not need more counter space — or much money — to fix it for good. You need one defined spot where everything tea-related lives, and a system simple enough that you actually put things back. With these small kitchen tea station ideas, build that spot from a spare shelf, one drawer, or a stretch of wall, and the kettle, your favourite mug, and every tea you own sit within one arm's reach.
 
-![A tidy small kitchen tea station with a kettle, tiered tray of tea tins, and hanging mugs on a narrow counter](/images/small-kitchen-tea-station-ideas-hero.jpg)
+![A tidy small kitchen tea station with a kettle, tiered tray of tea tins, and hanging mugs on a](/images/small-kitchen-tea-station-ideas-hero.jpg)
 
 ## The tea audit: bags, loose leaf, and tools
 

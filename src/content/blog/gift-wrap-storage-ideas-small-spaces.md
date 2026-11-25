@@ -9,7 +9,7 @@ image: "/images/gift-wrap-storage-ideas-small-spaces-hero.jpg"
 
 If every birthday or holiday sends you digging through a crushed pile of wrapping paper, you are not alone. In a small home, rolls get bent, bags get torn, and tape disappears exactly when you need it. These gift wrap storage ideas solve that mess without taking over a closet or a whole room. Whether you live in a studio or a small house with one crowded closet, the system below keeps rolls upright and protected, bags flat and visible, and small supplies together in one place — so wrapping a gift takes ten minutes, not forty.
 
-![Neatly organized gift wrap station with upright paper rolls in a tall bin and labeled flat bins for bags and tissue](/images/gift-wrap-storage-ideas-small-spaces-hero.jpg)
+![Neatly organized gift wrap station with upright paper rolls in a tall bin and labeled flat bins for](/images/gift-wrap-storage-ideas-small-spaces-hero.jpg)
 
 ## The gift wrap audit: what you actually use
 
@@ -111,7 +111,7 @@ The system only works if it gets reset once a year. After the holidays, wrap sup
 
 Set a timer for twenty minutes: toss torn bags and crushed tissue, re-roll loose paper and band each roll, return stray supplies to the caddy, and relabel anything whose label fell off. Then move holiday wrap back to deep storage and pull everyday wrap forward.
 
-![Labeled bins for holiday wrap stored on a high closet shelf, separated from everyday wrapping supplies](/images/gift-wrap-storage-ideas-small-spaces-04.jpg)
+![Labeled bins for holiday wrap stored on a high closet shelf, separated from everyday wrapping](/images/gift-wrap-storage-ideas-small-spaces-04.jpg)
 
 ## Mistakes to avoid
 

@@ -100,7 +100,7 @@ All the systems above decay without a closing ritual. The nightly reset takes th
 
 Do it while the kettle boils for evening tea or right after dinner dishes. The point isn't perfection; it's preventing the slow accumulation that turns a clean counter into a storage shelf by Friday.
 
-![A small kitchen counter completely clear at end of day, with only a wooden tray holding a soap dispenser and folded cloth](/images/counter-reset.jpg)
+![A small kitchen counter completely clear at end of day, with only a wooden tray holding a soap](/images/counter-reset.jpg)
 
 ## Mistakes to avoid
 

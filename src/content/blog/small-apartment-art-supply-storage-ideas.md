@@ -9,7 +9,7 @@ image: "/images/small-apartment-art-supply-storage-ideas-hero.jpg"
 
 Small apartment art supply storage ideas solve a problem every artist in a small space knows: the supplies keep growing, but the apartment does not. A few tubes of paint become a drawer of half-used tubes, and brushes end up in three different cups in three different rooms. You need a system that keeps every medium visible, reachable, and contained in one corner, one closet, or one rolling cart — so you can start painting in five minutes and put everything away in ten. This guide covers sorting by medium, a rolling cart, wall storage, paper and canvas, small-item bins, a closet studio, and drying space.
 
-![A tidy art corner in a small apartment with a rolling cart, wall-mounted brush holders, and neatly stacked canvases in warm neutral tones](/images/small-apartment-art-supply-storage-ideas-hero.jpg)
+![A tidy art corner in a small apartment with a rolling cart, wall-mounted brush holders, and neatly](/images/small-apartment-art-supply-storage-ideas-hero.jpg)
 
 ## Sort by medium first: the system that decides everything
 
@@ -41,7 +41,7 @@ Measure the gaps you already have: between a bookshelf and the wall, beside a wa
 
 <div class="tip"><strong>Budget tip:</strong> A basic three-tier metal cart costs roughly $25–$40, and dollar-store cups and caddies do the same job as branded inserts.</div>
 
-![A three-tier rolling art cart with labeled bins holding paints, brushes, and paper in a small apartment corner](/images/small-apartment-art-supply-storage-ideas-01.jpg)
+![A three-tier rolling art cart with labeled bins holding paints, brushes, and paper in a small](/images/small-apartment-art-supply-storage-ideas-01.jpg)
 
 ## Wall storage for brushes, paints, and tools
 
@@ -123,7 +123,7 @@ Step one, return every tool to its labeled home — brushes to the rail, pens to
 
 A shallow tray, about 12×16 inches, holds everything for your current project in one place: the painting, the palette, the reference, and the brushes in use. When you need the table for dinner, lift the tray onto a shelf; when you paint again, lift it back down. If children share your supplies, the same tray idea keeps their materials separate — our [15 Kids' Art Supply Organization Ideas for Small Homes](/blog/kids-art-supply-organization-ideas-small-homes/) shows how to give each child their own contained kit.
 
-![A small drying line with clipped watercolour paintings and a flat shelf holding works in progress above a tidy desk](/images/small-apartment-art-supply-storage-ideas-03.jpg)
+![A small drying line with clipped watercolour paintings and a flat shelf holding works in progress](/images/small-apartment-art-supply-storage-ideas-03.jpg)
 
 ## Mistakes to avoid
 
@@ -153,7 +153,7 @@ Lean them in a single row in a narrow gap, largest at the back, with felt or gla
 
 Store paper upright in magazine holders in a dry spot, away from the bathroom and the kitchen. Loose sheets warp when they lie flat under uneven weight or absorb steam, so vertical storage is the simplest protection.
 
-![A labeled "right now" tray holding a current painting project, palette, and brushes on a small apartment desk](/images/small-apartment-art-supply-storage-ideas-04.jpg)
+![A labeled "right now" tray holding a current painting project, palette, and brushes on a small](/images/small-apartment-art-supply-storage-ideas-04.jpg)
 
 ## The bottom line
 

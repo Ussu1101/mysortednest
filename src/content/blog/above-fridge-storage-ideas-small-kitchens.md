@@ -9,7 +9,7 @@ image: "/images/above-fridge-storage-ideas-small-kitchens-hero.jpg"
 
 In a small kitchen, every inch counts — and yet the single biggest chunk of storage sits completely empty. The space above the refrigerator is high, deep, and hard to reach, so most people ignore it or stack things that fall on them six weeks later. But workable above fridge storage ideas don't require a remodel: with the right bins, a simple zone system, and clear rules, that dead space can hold a surprising amount without becoming a hazard. These 16 ideas cover measuring the space, setting it up for real reachability, and keeping it organized with a twice-a-year reset.
 
-![Small kitchen with organized storage above the refrigerator, labeled bins on the top shelf, warm neutral styling](/images/above-fridge-storage-ideas-small-kitchens-hero.jpg)
+![Small kitchen with organized storage above the refrigerator, labeled bins on the top shelf, warm](/images/above-fridge-storage-ideas-small-kitchens-hero.jpg)
 
 ## Measure first: the real dimensions of above-fridge dead space
 

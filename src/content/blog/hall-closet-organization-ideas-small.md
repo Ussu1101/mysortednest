@@ -9,7 +9,7 @@ image: "/images/hall-closet-organization-ideas-small-hero.jpg"
 
 The hall closet is usually the smallest closet in the house — three or four square feet of floor, one rod, one shelf — and somehow it's expected to hold the whole household's coats, shoes, bags, umbrellas, and seasonal gear. If yours has become a dark cave of shoved-in jackets and mystery shoes, you're not alone. These hall closet organization ideas are built specifically for tiny entry closets: no walk-in luxuries, no renovations, just practical systems that turn that cramped rectangle into the hardest-working space in your home. By the end, you'll know exactly what belongs in there and how to keep it that way all year.
 
-![Tiny hall closet with coats on slim hangers, a shoe tray below, and labeled bins on the top shelf, warm and tidy](/images/hall-closet-organization-ideas-small-hero.jpg)
+![Tiny hall closet with coats on slim hangers, a shoe tray below, and labeled bins on the top shelf,](/images/hall-closet-organization-ideas-small-hero.jpg)
 
 ## The hall closet's real job: coats, shoes, and grab-and-go gear
 
@@ -63,7 +63,7 @@ A narrow over-the-door rack with hooks or pockets (no more than 4–5 inches dee
 
 Three to five adhesive hooks on the door's interior hold the small things that otherwise vanish: keys, sunglasses, the umbrella, a reusable mask, your transit card. Put the most-used item at hand height — no reaching, no digging. Wipe the door surface with rubbing alcohol before sticking hooks on; adhesion roughly doubles on a clean surface. Replace hooks once a year or when they start to sag.
 
-![Inside of a hall closet door with a slim organizer holding scarves, hats, and bags, practical and tidy](/images/hall-closet-organization-ideas-small-01.jpg)
+![Inside of a hall closet door with a slim organizer holding scarves, hats, and bags, practical and](/images/hall-closet-organization-ideas-small-01.jpg)
 
 ## Floor zone: boots, bags, and the shoe tray
 

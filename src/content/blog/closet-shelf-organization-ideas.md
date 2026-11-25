@@ -67,7 +67,7 @@ Most closets have one lonely top shelf and a big empty void above the hanging ro
 
 **13. Hang a fabric shelf organizer in the gap beside hanging clothes.** The hanging kind with 5–6 compartments uses vertical space the rod isn't using. Choose canvas over non-woven fabric; the flimsy versions sag within a month. For more no-drill vertical ideas, [over-the-door organizers](/blog/over-the-door-organization-ideas/) work on the closet door itself.
 
-![A closet interior showing a added tension-rod shelf above the main shelf with bins, and dividers on folded clothing stacks](/images/closet-shelf-organization-ideas-03.jpg)
+![A closet interior showing a added tension-rod shelf above the main shelf with bins, and dividers on](/images/closet-shelf-organization-ideas-03.jpg)
 
 ## Labels That Survive: What to Mark and Where
 
@@ -85,7 +85,7 @@ Even the best shelf system drifts. The difference between a system that lasts an
 
 **17. Do the two-minute "bin toss" reset after laundry day.** When clean laundry comes in, sweep loose items into their correct bins before the new laundry lands. This one habit — putting strays home before adding new items — prevents 90% of shelf drift. If your closet needs a bigger fresh start first, work through a proper [closet declutter session](/blog/declutter-your-closet-before-january/) so the reset maintains an already-clean system.
 
-![A tidy closet shelf with labeled bins and file-folded clothing, mid reset with one open bin being refolded](/images/closet-shelf-organization-ideas-04.jpg)
+![A tidy closet shelf with labeled bins and file-folded clothing, mid reset with one open bin being](/images/closet-shelf-organization-ideas-04.jpg)
 
 <div class="tip"><strong>Reset pairing:</strong> tie the shelf reset to something you already do — Sunday coffee, laundry day, the weekly trash run. Systems attached to existing habits survive; standalone chores don't.</div>
 

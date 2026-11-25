@@ -11,7 +11,7 @@ A small bathroom counter has one of the hardest jobs in the house: it holds your
 
 Below are 16 concrete ideas, in the order to tackle them: audit first, contain second, then go vertical, handle the overflow, and finish with a reset routine.
 
-![Tidy small bathroom counter with a tray, a small vase, and neatly grouped daily essentials in warm ivory and sage tones](/images/small-bathroom-counter-organization-ideas-hero.jpg)
+![Tidy small bathroom counter with a tray, a small vase, and neatly grouped daily essentials in warm](/images/small-bathroom-counter-organization-ideas-hero.jpg)
 
 ## The counter audit: what earns daily space
 
@@ -65,7 +65,7 @@ In a shared bathroom, the counter fails when everyone's products mix into one co
 
 **12. Keep shared items in the middle, personal items at the edges.** Hand soap, a shared lotion, and the toothpaste belong in a small central tray that both people use. Personal products — makeup, razors, prescription skincare — stay in each person's own zone at the edge nearest their side of the sink. For the room-wide version of this system, see our [19 Tiny Bathroom Organization Ideas to Maximize Every Inch](/blog/tiny-bathroom-organization-ideas/).
 
-![Shared small bathroom counter with two separate trays, one per person, keeping personal items in defined zones](/images/small-bathroom-counter-organization-ideas-02.jpg)
+![Shared small bathroom counter with two separate trays, one per person, keeping personal items in](/images/small-bathroom-counter-organization-ideas-02.jpg)
 
 ## Renter-safe upgrades without drilling
 
@@ -83,7 +83,7 @@ Even the best system drifts without a reset. The nightly reset is the habit that
 
 **16. Do a weekly 5-minute expiry and empty check.** Once a week, toss empties, wipe the tray, and check for products that have quietly migrated back onto the counter. This weekly pass catches drift before it becomes a full reorganization project.
 
-![Clean small bathroom counter at night with a tidy tray, folded towel, and clear surface ready for the morning](/images/small-bathroom-counter-organization-ideas-03.jpg)
+![Clean small bathroom counter at night with a tidy tray, folded towel, and clear surface ready for](/images/small-bathroom-counter-organization-ideas-03.jpg)
 
 ## Mistakes to avoid
 
@@ -113,7 +113,7 @@ Yes. Suction shelves, adhesive hooks and rails, and over-the-door organizers all
 
 Give each person one defined zone — a tray or caddy no wider than about 10 inches — and keep shared items in a small central tray. Set the zones up together and do the nightly reset as a household habit.
 
-![Renter-friendly small bathroom counter with suction shelf and adhesive hooks keeping tools off the surface](/images/small-bathroom-counter-organization-ideas-04.jpg)
+![Renter-friendly small bathroom counter with suction shelf and adhesive hooks keeping tools off the](/images/small-bathroom-counter-organization-ideas-04.jpg)
 
 ## Conclusion
 

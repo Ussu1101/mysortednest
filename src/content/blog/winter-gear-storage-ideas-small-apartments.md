@@ -41,7 +41,7 @@ Single hooks waste vertical space and invite pile-ups. Install a rail with doubl
 
 A narrow bench, about 36 inches wide and 14 inches deep, lets you sit while pulling on boots, and a lidded bench hides shoe bags or a spare scarf bin underneath. A single sturdy stool works if a bench will not fit.
 
-![A tidy apartment entryway winter station with a boot tray, wall hooks holding coats, and baskets for hats and gloves](/images/winter-gear-storage-ideas-small-apartments-01.jpg)
+![A tidy apartment entryway winter station with a boot tray, wall hooks holding coats, and baskets](/images/winter-gear-storage-ideas-small-apartments-01.jpg)
 
 ## Boot storage that handles snow and slush
 
@@ -93,7 +93,7 @@ Vacuum bags work well for puffers, scarves, and fleece, cutting their volume by 
 
 Set a calendar reminder for the seasonal swap and do it in one sitting: out go the off-season bins, in comes the current season's gear, and anything damaged or unworn gets donated on the spot. One focused session beats a month of gradual drifting.
 
-![Lidded bins on a closet shelf holding labelled off-season winter accessories, with coats hung neatly beside them](/images/winter-gear-storage-ideas-small-apartments-02.jpg)
+![Lidded bins on a closet shelf holding labelled off-season winter accessories, with coats hung](/images/winter-gear-storage-ideas-small-apartments-02.jpg)
 
 ## Drying wet gear without damaging floors
 
@@ -121,13 +121,13 @@ A rimmed boot tray, a six-hook adhesive rail, and two labelled bins cover the co
 
 A baking sheet with a raised edge works as a boot tray, a tension rod inside a closet holds scarf rings, and a canvas tote becomes a glove bin. For coat overflow, the renter-friendly hooks and slim racks in these [entryway coat storage ideas for apartments without a closet](/blog/entryway-coat-storage-no-closet/) use the same no-damage approach. Spend only where a repurposed item genuinely fails, such as a tray that is too small for two pairs of boots.
 
-![A budget-friendly apartment entry with a simple boot tray, adhesive hooks, and repurposed baskets holding winter hats and gloves](/images/winter-gear-storage-ideas-small-apartments-03.jpg)
+![A budget-friendly apartment entry with a simple boot tray, adhesive hooks, and repurposed baskets](/images/winter-gear-storage-ideas-small-apartments-03.jpg)
 
 ## Mistakes to avoid
 
 Do not store wet gear in a closed bin: trapped moisture breeds mildew within days, and the smell rarely washes out fully. Do not buy a giant coat rack for a narrow entry: it blocks the door swing and becomes a dumping ground. Do not skip the seasonal swap. Do not hang heavy wet parkas on light-rated adhesive hooks: check the weight rating first.
 
-![Coats and boots arranged in a compact entry zone, with a boot tray catching meltwater and accessories stored in baskets](/images/winter-gear-storage-ideas-small-apartments-04.jpg)
+![Coats and boots arranged in a compact entry zone, with a boot tray catching meltwater and](/images/winter-gear-storage-ideas-small-apartments-04.jpg)
 
 ## Frequently asked questions
 
